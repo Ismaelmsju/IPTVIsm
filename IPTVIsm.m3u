@@ -1,6 +1,6 @@
 #EXTM3U
 
-############################################################################ Atualizado: 14/06/2024
+############################################################################ Atualizado: 16/06/2024
 
 #EXTINF:-1 tvg-id="2 Homens e Meio 24h" tvg-name="2 Homens e Meio 24h" tvg-logo="https://imgur.com/BatygW5.png" group-title="Comédia",2 Homens e Meio 24h
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8
@@ -417,7 +417,7 @@ https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="Dark Matter" tvg-name="Dark Matter" tvg-logo="https://imgur.com/9lqxeLR.png" group-title="Filmes e Séries",Dark Matter
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_001.m3u8?ManoTV
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
 
 #EXTINF:-1 tvg-id="De Criança para Criança" tvg-name="De Criança para Criança" tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Infantil",De Criança para Criança
 https://cdn-3.nxplay.com.br/dcpc/index.m3u8
@@ -429,7 +429,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Digimon 24h" tvg-name="Digimon 24h" tvg-logo="https://imgur.com/BatygW5.png " group-title="Infantil",Digimon 24h
-24H-digimon/video.m3u8
+http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Variedades",Discovery Channel HD
 https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
@@ -630,7 +630,7 @@ http://5ce.co:80/pamelaflores/92446060a/35751
 http://t2tp.xyz/343963665/370954400/71395
 
 #EXTINF:-1 tvg-id="Globo BA HD" tvg-name="Globo BA HD" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Aberto",Globo BA HD
-https://cr7v.short.gy/manoiptvfree/REDEBA/Index.m3u8
+http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/32367
 
 #EXTINF:-1 tvg-id="Globo Brasília HD" tvg-name="Globo Brasília HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Aberto",Globo Brasília HD
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32370
@@ -672,6 +672,9 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32168
 
 #EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Aberto",Globo RJ HD
+http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16729
+
+#EXTINF:-1 tvg-id="Globo RJ HD [Alter 2]" tvg-name="Globo RJ HD [Alter 2]" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Aberto",Globo RJ HD [Alter 2]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/32170
 
 #EXTINF:-1 tvg-id="Globo RJ HD [Alter]" tvg-name="Globo RJ HD [Alter]" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Aberto",Globo RJ HD [Alter]
@@ -1234,6 +1237,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f566
 
 #EXTINF:-1 tvg-id="Pluto TV Record News" tvg-name="Pluto TV Record News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias",Pluto TV Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Pluto TV Retrô SD" tvg-name="Pluto TV Retrô SD" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="Diversos",Pluto TV Retrô SD
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="Pluto TV Séries" tvg-name="Pluto TV Séries" tvg-logo="https://imgur.com/SIUu1eO.png" group-title="Filmes e Séries",Pluto TV Séries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
@@ -2304,7 +2310,7 @@ https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
 https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 
 #EXTINF:-1 tvg-id="TV Vianney" tvg-name="TV Vianney" tvg-logo="http://i.imgur.com/QqdFSOV.png" group-title="Aberto",TV Vianney
-https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8
+https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Videonews" tvg-name="TV Videonews" tvg-logo="https://imgur.com/4m1j3CL.png" group-title="Notícias",TV Videonews
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8

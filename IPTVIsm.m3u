@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://abre.ai/iptvism-epg"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
-############################################################################ Atualizado: 18/06/2024
+############################################################################ Atualizado: 19/06/2024
 
 #EXTINF:-1 tvg-id="2 Homens e meio 24h HD" tvg-name="2 Homens e meio 24h HD" tvg-logo="https://imgur.com/BatygW5.png" group-title="Comédia",2 Homens e meio 24h HD
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8

@@ -479,10 +479,10 @@ https://cdn-3.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world hd" tvg-logo="https://imgur.com/6sTkahx.png" group-title="Variedades",Discovery World [HD]
 https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="disney channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Filmes e Séries",Disney Channel [HD]
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Filmes e Séries",Disney Channel [HD]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31484
 
-#EXTINF:-1 tvg-id="0" tvg-name="disney channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Filmes e Séries",Disney Channel [HD]
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Filmes e Séries",Disney Channel [HD]
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Filmes e Séries",Disney Channel [FHD]
@@ -509,10 +509,10 @@ http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
 #EXTINF:-1 tvg-id="Dream Works TV" tvg-name="Dream Works TV" tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Infantil",Dream Works TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="e!" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Variedades",E! [HD]
+#EXTINF:-1 tvg-id="E" tvg-name="e! hd" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Variedades",E! [HD]
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21313
 
-#EXTINF:-1 tvg-id="0" tvg-name="e!" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Variedades",E! [HD]
+#EXTINF:-1 tvg-id="E" tvg-name="e! hd" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Variedades",E! [HD]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31605
 
 #EXTINF:-1 tvg-id="E" tvg-name="e! hd" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Variedades",E! [FHD]
@@ -1364,13 +1364,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede7500073
 #EXTINF:-1 tvg-id="Power Rangers [24h]" tvg-name="Power Rangers [24h]" tvg-logo="https://imgur.com/BatygW5.png" group-title="Infantil",Power Rangers [24h]
 https://ythls.armelin.one/channel/UCE3_4WG166NcyQPcRtgGWkQ.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere 1
+#EXTINF:-1 tvg-id="Premiere 1" tvg-name="Premiere 1" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere 1
 https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere 1 [HD]
+#EXTINF:-1 tvg-id="Premiere 1 [HD]" tvg-name="Premiere 1 [HD]" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere 1 [HD]
 https://brflu.walk-tv.com/5922/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere 1 [FHD]
+#EXTINF:-1 tvg-id="Premiere 1 [FHD]" tvg-name="Premiere 1 [FHD]" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere 1 [FHD]
 http://15.235.15.230:14020/
 
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-name="premiere 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Esportes",Premiere 2 [HD]

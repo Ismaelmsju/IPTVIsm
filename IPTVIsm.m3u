@@ -2549,7 +2549,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4557
 #EXTINF:-1 tvg-id="Teste" tvg-name="Teste" tvg-logo="" group-title="Diversos",Teste
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4558
 
-#EXTINF:-1 tvg-id="Teste" tvg-name="Teste" tvg-logo="" group-title="Diversos",Teste
+#EXTINF:-1 tvg-id="Canal Educação" tvg-name="Canal Educação" tvg-logo="" group-title="Diversos",Canal Educação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4560
 
 #EXTINF:-1 tvg-id="Teste" tvg-name="Teste" tvg-logo="" group-title="Diversos",Teste
@@ -2576,7 +2576,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4567
 #EXTINF:-1 tvg-id="Teste" tvg-name="Teste" tvg-logo="" group-title="Diversos",Teste
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4568
 
-#EXTINF:-1 tvg-id="Teste" tvg-name="Teste" tvg-logo="" group-title="Diversos",Teste
+#EXTINF:-1 tvg-id="3 Palavrinhas" tvg-name="3 Palavrinhas" tvg-logo="" group-title="Diversos",3 Palavrinhas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6454
 
 #EXTINF:-1 tvg-id="Kpop TV Play" tvg-name="Kpop TV Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="Música",Kpop TV Play
@@ -2611,9 +2611,6 @@ http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8
 
 #EXTINF:-1 tvg-id="Corrida Maluca 24h" tvg-name="Corrida Maluca 24h" tvg-logo="https://1.bp.blogspot.com/-26R3X3HD...yFkxNeqpJwCLcBGAsYHQ/s1100/Corrida+maluca.png" group-title="Infantil",Corrida Maluca 24h
 http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tazmania 24h" tvg-name="Tazmania 24h" tvg-logo="https://snescentral.com/0/7/0/0700/logo.gif" group-title="Infantil",Tazmania 24h
-http://24hrs.homelinux.com:8080/24H-tazmania/video.m3u8
 
 #EXTINF:-1 tvg-id="Pepe Legal 24h" tvg-name="Pepe Legal 24h" tvg-logo="https://blogger.googleusercontent.c...7une4cEheZm9WCUjTf3OpcVSnwcwr6CM/s1600/10.gif" group-title="Infantil",Pepe Legal 24h
 http://24hrs.homelinux.com:8080/24H-pepelegal/video.m3u8

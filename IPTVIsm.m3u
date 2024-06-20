@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
-############################################################################ Atualizado: 20/06/2024-
+############################################################################ Atualizado: 20/06/2024
 
 #EXTINF:-1 tvg-id="2 Homens e meio 24h HD" tvg-name="2 Homens e meio 24h HD" tvg-logo="https://imgur.com/BatygW5.png" group-title="Comédia",2 Homens e meio 24h HD
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8
@@ -389,7 +389,7 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-id="Conexão TV HD" tvg-name="Conexão TV HD" tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="Variedades",Conexão TV HD
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Filmes e Séries",CSI: Miami 24h
+#EXTINF:-1 tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Filmes e Séries",CSI: Miami 24h
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Variedades",Curta!

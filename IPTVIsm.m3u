@@ -392,7 +392,7 @@ http://24hrs.homelinux.com:8080/24H-chapolin1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Chaves 1 [24h]" tvg-name="Chaves 1 [24h]" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/68/El_Chavo_logo_%28Brazilian_Portuguese%29.png" group-title="Infantil",Chaves 1 [24h]
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-id="Chaves 1 [24h]" tvg-name="Chaves 1 [24h]" tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Infantil",Chaves 1 [24h]
+#EXTINF:-1 tvg-id="Chaves 1 [24h]" tvg-name="Chaves 1 [24h]" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/68/El_Chavo_logo_%28Brazilian_Portuguese%29.png" group-title="Infantil",Chaves 1 [24h]
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Chaves 2 [24h]" tvg-name="Chaves 2 [24h]" tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/68/El_Chavo_logo_%28Brazilian_Portuguese%29.png" group-title="Infantil",Chaves 2 [24h]
@@ -1475,7 +1475,7 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="Philly USA TV" tvg-name="Philly USA TV" tvg-logo="https://i.imgur.com/2xL7vd9.png" group-title="Variedades",Philly USA TV
 https://tv02.zas.media:1936/phillyusa/phillyusa/chunklist_w1182562521.m3u8
 
-#EXTINF:-1 tvg-id="Pica-pau [24h]" tvg-name="Pica-pau [24h]" tvg-logo="https://imgur.com/BatygW5.png " group-title="Infantil",Pica-pau [24h]
+#EXTINF:-1 tvg-id="Pica-pau [24h]" tvg-name="Pica-pau [24h]" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="Infantil",Pica-pau [24h]
 http://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-id="Pica-pau 2 [24h]" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="Infantil",Pica-pau 2 [24h]

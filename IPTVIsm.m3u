@@ -224,10 +224,10 @@ https://watch.vcdn.in/bis/index.m3u8
 #EXTINF:-1 tvg-id="Blits TV" tvg-name="Blits TV" tvg-logo="https://imgur.com/ipKpPCe.png" group-title="Filmes",Blits TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w359950577.m3u8
 
-#EXTINF:-1 tvg-id="Boa Vontade TV [FHD]" tvg-name="Boa Vontade TV [FHD]" tvg-logo="https://i.imgur.com/Ms5tSgu.png" group-title="Variedades",Boa Vontade TV [FHD]
+#EXTINF:-1 tvg-id="Boa Vontade TV [FHD]" tvg-name="Boa Vontade TV [FHD]" tvg-logo="https://i.imgur.com/Ms5tSgu.png" group-title="Religioso",Boa Vontade TV [FHD]
 https://ythls.armelin.one/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 
-#EXTINF:-1 tvg-id="Boas Novas [FHD]" tvg-name="Boas Novas [FHD]" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Variedades",Boas Novas [FHD]
+#EXTINF:-1 tvg-id="Boas Novas [FHD]" tvg-name="Boas Novas [FHD]" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Religioso",Boas Novas [FHD]
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Infantil",Bob Esponja [24h]
@@ -241,6 +241,9 @@ http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
 
 #EXTINF:-1 tvg-id="BR Super TV" tvg-name="BR Super TV" tvg-logo="https://i.imgur.com/f7FvEEO.png" group-title="Aberto",BR Super TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="BR8 TV [HD]" tvg-name="BR8 TV [HD]" tvg-logo="https://i.imgur.com/RBZHlPy.png" group-title="Variedades",BR8 TV [HD]
+https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BS TV" tvg-name="BS TV" tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="Aberto",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
@@ -299,6 +302,9 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Canal Libras" tvg-name="Canal Libras" tvg-logo="https://i.imgur.com/z7eAbVz.png" group-title="Diversos",Canal Libras
 https://canallibras-stream.ebc.com.br/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Canal Missionário" tvg-name="Canal Missionário" tvg-logo="https://i.imgur.com/dfUv3sM.png" group-title="Religioso",Canal Missionário
+https://59f1cbe63db89.streamlock.net:1443/canalmissionario/_definst_/canalmissionario/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal Plural" tvg-name="Canal Plural" tvg-logo="https://i.imgur.com/cCBQkZh.png" group-title="Variedades",Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w166095850.m3u8
 
@@ -320,13 +326,13 @@ https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Canal TVC" tvg-name="Canal TVC" tvg-logo="https://i.imgur.com/cZrF71E.png" group-title="Variedades",Canal TVC
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/chunklist_w103418.m3u8
 
-#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="http://i.imgur.com/Z49TV0y.png" group-title="Aberto",Canção Nova
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-logo="http://i.imgur.com/Z49TV0y.png" group-title="Religioso",Canção Nova
 https://livestream.zazerconer.workers.dev/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
 
-#EXTINF:-1 tvg-id="Canção Nova " tvg-name="Canção Nova " tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Aberto",Canção Nova 
+#EXTINF:-1 tvg-id="Canção Nova " tvg-name="Canção Nova " tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Religioso",Canção Nova 
 https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Canção Nova [HD]" tvg-name="Canção Nova [HD]" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Aberto",Canção Nova [HD]
+#EXTINF:-1 tvg-id="Canção Nova [HD]" tvg-name="Canção Nova [HD]" tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Religioso",Canção Nova [HD]
 https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="Canela Telenovelas" tvg-name="Canela Telenovelas" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Novelas",Canela Telenovelas
@@ -1058,7 +1064,7 @@ https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Variedades",ID [HD]
 https://brflu.walk-tv.com/5895/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Igreja Universal" tvg-name="Igreja Universal" tvg-logo="https://i.imgur.com/TIsk5zN.png " group-title="Aberto",Igreja Universal
+#EXTINF:-1 tvg-id="Igreja Universal" tvg-name="Igreja Universal" tvg-logo="https://i.imgur.com/TIsk5zN.png " group-title="Religioso",Igreja Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ilha News" tvg-name="Ilha News" tvg-logo="https://i.imgur.com/cVn23rd.png" group-title="Variedades",Ilha News
@@ -1346,10 +1352,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-id="Novelíssima" tvg-name="Novelíssima" tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Novelas",Novelíssima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 tvg-id="Novo Tempo [HD]" tvg-name="Novo Tempo [HD]" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Variedades",Novo Tempo [HD]
+#EXTINF:-1 tvg-id="Novo Tempo [HD]" tvg-name="Novo Tempo [HD]" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo [HD]
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Novo Tempo SP" tvg-name="Novo Tempo SP" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Diversos",Novo Tempo SP
+#EXTINF:-1 tvg-id="Novo Tempo SP" tvg-name="Novo Tempo SP" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religioso",Novo Tempo SP
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="662156805a31f70013dba21c" tvg-name="DiaTV" tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="Aberto",O Dia TV
@@ -1889,7 +1895,7 @@ https://video01.kshost.com.br/moobi3963/moobi3963/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede QDM" tvg-name="Rede QDM" tvg-logo="https://imgur.com/c8J2flM.png" group-title="Aberto",Rede QDM
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rede Século 21" tvg-name="Rede Século 21" tvg-logo="https://imgur.com/faofls5.png" group-title="Aberto",Rede Século 21
+#EXTINF:-1 tvg-id="Rede Século 21" tvg-name="Rede Século 21" tvg-logo="https://imgur.com/faofls5.png" group-title="Religioso",Rede Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rede Sul" tvg-name="Rede Sul" tvg-logo="https://i.imgur.com/dNy2G7h.png" group-title="Aberto",Rede Sul
@@ -1931,10 +1937,10 @@ https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rede UTV [HD]" tvg-name="Rede UTV [HD]" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Variedades",Rede UTV [HD]
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="Aberto",Rede Vida
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://imgur.com/0uNleBN.png" group-title="Religioso",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="Rede Vida [HD]" tvg-name="Rede Vida [HD]" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Variedades",Rede Vida [HD]
+#EXTINF:-1 tvg-id="Rede Vida [HD]" tvg-name="Rede Vida [HD]" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religioso",Rede Vida [HD]
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Resumo da Ópera" tvg-name="Resumo da Ópera" tvg-logo="https://i.imgur.com/yVux2yk.png" group-title="Notícias",Resumo da Ópera
@@ -1949,7 +1955,7 @@ http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="Rio TV Câmara [FHD]" tvg-name="Rio TV Câmara [FHD]" tvg-logo="https://i.imgur.com/smSp1f7.jpg" group-title="Variedades",Rio TV Câmara [FHD]
 https://ythls.armelin.one/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
 
-#EXTINF:-1 tvg-id="RITTV" tvg-name="rit tv" tvg-logo="https://imgur.com/psyk2C5.png" group-title="Aberto",RIT TV
+#EXTINF:-1 tvg-id="RITTV" tvg-name="rit tv" tvg-logo="https://imgur.com/psyk2C5.png" group-title="Religioso",RIT TV
 https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="64ff2d8c6625510008c5a512" tvg-name="Rookie Blue" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Filmes e Séries",Rookie Blue [24h]
@@ -2095,6 +2101,9 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Sony One Shark Tank" tvg-name="Sony One Shark Tank" tvg-logo="https://imgur.com/2qWdToI.png" group-title="Reality",Sony One Shark Tank
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sophia TV" tvg-name="Sophia TV" tvg-logo="https://i.imgur.com/XRr96mJ.png" group-title="Religioso",Sophia TV
+https://bild-und-ton.stream/sophiatv-pt/smil:sophia-tv-pt.smil/chunklist_w713824918_b2000000_slpt.m3u8
 
 #EXTINF:-1 tvg-id="Sou TV" tvg-name="Sou TV" tvg-logo="https://imgur.com/V3haAYn.png" group-title="Aberto",Sou TV
 https://vdo1.audiostream.com.br:3010/live/soutvlive.m3u8?ManoTV
@@ -2435,7 +2444,7 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Amor" tvg-name="TV Amor" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/AmorAmorsic.png" group-title="Filmes e Séries",TV Amor
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5573
 
-#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="tv aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Infantil",TV Aparecida [FHD]
+#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="tv aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religioso",TV Aparecida [FHD]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Aracati" tvg-name="TV Aracati" tvg-logo="https://i.imgur.com/xrbBNPa.png" group-title="Aberto",TV Aracati
@@ -2452,6 +2461,9 @@ https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Assembleia MG [HD]" tvg-name="TV Assembleia MG [HD]" tvg-logo="https://i.imgur.com/YOuCxKa.png" group-title="Variedades",TV Assembleia MG [HD]
 https://ythls.armelin.one/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
+
+#EXTINF:-1 tvg-id="TV Assu" tvg-name="TV Assu" tvg-logo="https://i.imgur.com/3BvcF0F.png" group-title="Variedades",TV Assu
+https://5d82644094cc0.streamlock.net/8020/8020/chunklist_w2466821.m3u8
 
 #EXTINF:-1 tvg-id="TV Beltrão [FHD]" tvg-name="TV Beltrão [FHD]" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="Variedades",TV Beltrão [FHD]
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
@@ -2612,13 +2624,13 @@ https://cdn.jmvstream.com/w/AVJ-12950/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV Evangélica do Cariri" tvg-name="TV Evangélica do Cariri" tvg-logo="https://i.imgur.com/r1KxgDQ.png" group-title="Religioso",TV Evangélica do Cariri
 https://5a0c3936c25c8.streamlock.net/caririevangelica/caririevangelica/chunklist_w1277474120.m3u8
 
-#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar" tvg-logo="" group-title="Diversos",TV Evangelizar
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar" tvg-logo="" group-title="Religioso",TV Evangelizar
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4568
 
-#EXTINF:-1 tvg-id="TV Evangelizar " tvg-name="TV Evangelizar " tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Infantil",TV Evangelizar 
+#EXTINF:-1 tvg-id="TV Evangelizar " tvg-name="TV Evangelizar " tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="Religioso",TV Evangelizar 
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Evangelizar Maringá" tvg-name="TV Evangelizar Maringá" tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="Aberto",TV Evangelizar Maringá
+#EXTINF:-1 tvg-id="TV Evangelizar Maringá" tvg-name="TV Evangelizar Maringá" tvg-logo="http://i.imgur.com/FoPnWx0.png" group-title="Religioso",TV Evangelizar Maringá
 http://5829cb6b64c3c.streamlock.net/id2252/id2252/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Fala Litoral" tvg-name="TV Fala Litoral" tvg-logo="https://imgur.com/X3lIFxM.png" group-title="Aberto",TV Fala Litoral
@@ -2675,7 +2687,7 @@ https://cdn-cdn-guara.ciclano.io:1443/cdn-guara/cdn-guara/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Guaraparí [HD]" tvg-name="TV Guaraparí [HD]" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="Variedades",TV Guaraparí [HD]
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Imaculada" tvg-name="TV Imaculada" tvg-logo="http://i.imgur.com/5HoOtda.png" group-title="Aberto",TV Imaculada
+#EXTINF:-1 tvg-id="TV Imaculada" tvg-name="TV Imaculada" tvg-logo="http://i.imgur.com/5HoOtda.png" group-title="Religioso",TV Imaculada
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 
 #EXTINF:-1 tvg-id="TV Imprensa" tvg-name="TV Imprensa" tvg-logo="https://imgur.com/YvvCofj.png" group-title="Variedades",TV Imprensa
@@ -2825,10 +2837,10 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Ouro Negro" tvg-name="TV Ouro Negro" tvg-logo="https://imgur.com/mfdXYXs.png" group-title="Aberto",TV Ouro Negro
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV Padre Cícero [HD]" tvg-name="TV Padre Cícero [HD]" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="Infantil",TV Padre Cícero [HD]
+#EXTINF:-1 tvg-id="TV Padre Cícero [HD]" tvg-name="TV Padre Cícero [HD]" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="Religioso",TV Padre Cícero [HD]
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PAIETERNO" tvg-name="pai eterno hd" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="Infantil",TV Pai Eterno 
+#EXTINF:-1 tvg-id="PAIETERNO" tvg-name="pai eterno hd" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="Religioso",TV Pai Eterno 
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TV Pajeú" tvg-name="TV Pajeú" tvg-logo="https://imgur.com/gP8WiGI.png" group-title="Variedades",TV Pajeú
@@ -2999,7 +3011,7 @@ https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
 #EXTINF:-1 tvg-id="TV Vargem" tvg-name="TV Vargem" tvg-logo="https://i.imgur.com/zszOmYu.png" group-title="Filmes",TV Vargem
 https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w362411647.m3u8
 
-#EXTINF:-1 tvg-id="TV Vianney" tvg-name="TV Vianney" tvg-logo="http://i.imgur.com/QqdFSOV.png" group-title="Aberto",TV Vianney
+#EXTINF:-1 tvg-id="TV Vianney" tvg-name="TV Vianney" tvg-logo="http://i.imgur.com/QqdFSOV.png" group-title="Religioso",TV Vianney
 https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Videonews" tvg-name="TV Videonews" tvg-logo="https://imgur.com/4m1j3CL.png" group-title="Notícias",TV Videonews
@@ -3067,6 +3079,9 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVi Ficção" tvg-name="TVi Ficção" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Novelas",TVi Ficção
 https://video-[AUT]h2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="TVL News" tvg-name="TVL News" tvg-logo="https://i.imgur.com/XAG24uk.png" group-title="Notícias",TVL News
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVM Mossoró" tvg-name="TVM Mossoró" tvg-logo="https://i.imgur.com/PZdd08o.png" group-title="Variedades",TVM Mossoró
 https://video01.kshost.com.br:4443/jarlucio9450/jarlucio9450/chunklist_w2042492244.m3u8
@@ -3239,14 +3254,14 @@ http://148.113.160.49:14761/
 #EXTINF:-1 tvg-id="Web TV Campeão de Tudo" tvg-name="Web TV Campeão de Tudo" tvg-logo="https://i.imgur.com/VdcLJto.png" group-title="Aberto",Web TV Campeão de Tudo
 https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Wohoo [FHD]" tvg-name="Wohoo [FHD]" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Wohoo [FHD]
-http://cdn.topk.live:80/tarcisio/123456/338425
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Woohoo
+http://cdn.topk.live:80/tarcisio/123456/338423
 
 #EXTINF:-1 tvg-id="Wohoo [HD]" tvg-name="Wohoo [HD]" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Wohoo [HD]
 http://cdn.topk.live:80/tarcisio/123456/141623
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Woohoo
-http://cdn.topk.live:80/tarcisio/123456/338423
+#EXTINF:-1 tvg-id="Wohoo [FHD]" tvg-name="Wohoo [FHD]" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Wohoo [FHD]
+http://cdn.topk.live:80/tarcisio/123456/338425
 
 #EXTINF:-1 tvg-id="Woohoo Surf" tvg-name="Woohoo Surf" tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Esportes",Woohoo Surf
 https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8

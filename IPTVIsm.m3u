@@ -494,6 +494,9 @@ https://watch.vcdn.in/comedycentral/index.m3u8
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central [HD]" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Variedades",Comedy Central [HD]
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8
 
+#EXTINF:-1 tvg-id="ConecTV" tvg-name="ConecTV" tvg-logo="https://i.imgur.com/oYBXEq4.png" group-title="Variedades",ConecTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
+
 #EXTINF:-1 tvg-id="ConecTV Brasil [HD]" tvg-name="ConecTV Brasil [HD]" tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="Variedades",ConecTV Brasil [HD]
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
@@ -532,6 +535,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 
 #EXTINF:-1 tvg-id="Demais TV [HD]" tvg-name="Demais TV [HD]" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Variedades",Demais TV [HD]
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Diário TV Teresópolis" tvg-name="Diário TV Teresópolis" tvg-logo="https://i.imgur.com/JMNDdCG.png" group-title="Variedades",Diário TV Teresópolis
+https://ythls.armelin.one/channel/UCYA_8op4pkwqWxbmcW-pzzQ.m3u8
 
 #EXTINF:-1 tvg-id="Digimon [24h]" tvg-name="Digimon [24h]" tvg-logo="https://imgur.com/BatygW5.png " group-title="Infantil",Digimon [24h]
 http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8
@@ -1046,6 +1052,9 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31119
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="https://imgur.com/rgDKfki.png" group-title="Variedades",History Channel 2 [HD]
 http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
 
+#EXTINF:-1 tvg-id="HomeFull" tvg-name="HomeFull" tvg-logo="https://i.imgur.com/AYZDgZF.png" group-title="Variedades",HomeFull
+https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
+
 #EXTINF:-1 tvg-id="HTO FILMES" tvg-name="HTO FILMES" tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="Filmes e Séries",HTO FILMES
 https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
@@ -1351,6 +1360,9 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Novo Tempo SP" tvg-name="Novo Tempo SP" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religioso",Novo Tempo SP
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://i.imgur.com/mQyklT3.png" group-title="Variedades",NTV
+https://video05.logicahost.com.br/ntvnet/ntvnet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="662156805a31f70013dba21c" tvg-name="DiaTV" tvg-logo="https://i.imgur.com/NMx2Cxc.png" group-title="Aberto",O Dia TV
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
@@ -1738,6 +1750,9 @@ http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Primer TV" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/bcIpMWI.png" group-title="Aberto",Primer TV
 http://177.74.174.57:8080/hls/primertv.m3u8
+
+#EXTINF:-1 tvg-id="Primer TV" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/PYPXeA8.png" group-title="Variedades",Primer TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
 
 #EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-name="Pronto-socorro: Histórias De Emergência" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="Variedades",Pronto-socorro: Histórias de Emergência
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus

@@ -29,6 +29,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e100070
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Variedades",A&E
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16691
 
+#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Variedades",A&E [HD]
+http://45.235.0.78/A&E-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Filmes e Séries",A&E 
 https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 
@@ -89,6 +92,9 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Filmes e Séries",AMC [HD]
 https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Filmes e Séries",AMC [HD]
+http://45.235.0.78/AMC-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Angry Birds [24h]" tvg-name="[24H] Angry Birds" tvg-logo="https://i.imgur.com/3anMkyr.png" group-title="Infantil",Angry Birds [24h]
 http://cdn.lvbxtv.com:80/8473997886/9939873590/2219848
 
@@ -97,6 +103,9 @@ https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet [HD]" tvg-logo="https://imgur.com/t97qwNh.png" group-title="Variedades",Animal Planet [HD]
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet [HD]" tvg-logo="https://imgur.com/t97qwNh.png" group-title="Variedades",Animal Planet [HD]
+http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Anime Station TV" tvg-name="Anime Station TV" tvg-logo="https://i.imgur.com/f1VdQ08.png" group-title="Animes e Geek",Anime Station TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w948376476.m3u8
@@ -124,6 +133,9 @@ https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="ARTE1" tvg-name="arte1" tvg-logo="https://i.imgur.com/W1RFNX9.png" group-title="Variedades",Arte 1
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16694
+
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1 [HD]" tvg-logo="https://i.imgur.com/W1RFNX9.png" group-title="Variedades",Arte 1 [HD]
+http://45.235.0.78/ARTE1-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="As Aventuras de Jackie Chan [24h]" tvg-name="As Aventuras de Jackie Chan [24h]" tvg-logo="https://imgur.com/VNrPzdh.png" group-title="Infantil",As Aventuras de Jackie Chan [24h]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&userId=&serverSideAds=true
@@ -185,8 +197,14 @@ http://cdn.lvbxtv.com:80/8473997886/9939873590/2219853
 #EXTINF:-1 tvg-id="63da6bcd60bc8f0008a5d364" tvg-name="Baby Shark TV" tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Infantil",Baby Shark TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Infantil",Baby TV [HD]
+http://45.235.0.78/BABYTV-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="5f4fb4cf605ddf000748e16f" tvg-name="Babyfirst" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Infantil",Babyfirst
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="band" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Aberto",Band [HD]
+http://45.235.0.78/BAND-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="band" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Aberto",Band BA
 https://ythls.armelin.one/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
@@ -247,6 +265,9 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31597
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="bis [HD]" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Variedades",BIS [HD]
 https://watch.vcdn.in/bis/index.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="bis [HD]" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Variedades",BIS [HD]
+http://45.235.0.78/BIS-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Blits TV" tvg-name="Blits TV" tvg-logo="https://imgur.com/ipKpPCe.png" group-title="Filmes e Séries",Blits TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist_w359950577.m3u8
@@ -506,6 +527,9 @@ http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-id="CMD TV" tvg-name="CMD TV" tvg-logo="https://play-lh.googleusercontent.com/luSYSp4VoBsHixtrZt0B15yIR8yMOtYDRIM0LpdPmkbHnkUID18v3o7hSNnJn0Jy1DBm" group-title="Variedades",CMD TV
 https://stmv2.samcast.com.br/cmdtv/cmdtv/chunklist_w232683533.m3u8
 
+#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil [HD]" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Notícias",CNN Brasil [HD]
+http://45.235.0.78/CNNBRASIL-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://imgur.com/4dfmnBs.png" group-title="Notícias",CNN Brasil 
 https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
 
@@ -529,6 +553,9 @@ https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Esportes",Combate
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31137
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate [HD]" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Esportes",Combate [HD]
+http://45.235.0.78/COMBATE-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate [HD]" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Esportes",Combate [HD]
 https://brflu.walk-tv.com/5865/tracks-v1a1/mono.m3u8
@@ -640,6 +667,9 @@ https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Infantil",Disney Channel
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16713
+
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Infantil",Disney Channel [HD]
+http://45.235.0.78/DISNEY-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Filmes e Séries",Disney Channel [HD]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31484
@@ -827,6 +857,9 @@ https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 #EXTINF:-1 tvg-id="FILMARTS" tvg-name="Film&amp;Arts HD" tvg-logo="https://i.imgur.com/uu6Mvqb.png" group-title="Filmes e Séries",Film & Arts [HD]
 http://5ce.co:80/pamelaflores/92446060a/21090
 
+#EXTINF:-1 tvg-id="FILMARTS" tvg-name="Film&amp;Arts HD" tvg-logo="https://i.imgur.com/uu6Mvqb.png" group-title="Filmes e Séries",Film & Arts [HD]
+http://45.235.0.78/FILMARTS-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Filmes e Séries" tvg-name="Filmes e Séries" tvg-logo="https://imgur.com/vhQi658.png" group-title="Filmes e Séries",Filmes e Séries
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
 
@@ -859,6 +892,9 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31606
 
 #EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="food network [HD]" tvg-logo="https://imgur.com/AH3uBDj.png" group-title="Variedades",Food Network [HD]
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="fox sports 2" tvg-logo="https://w7.pngwing.com/pngs/275/7/png-transparent-fox-sports-2-television-channel-fox-sports-networks-streaming-media-fox-sport-television-blue-text-thumbnail.png" group-title="Esportes",Fox Sports 2 [HD]
+http://45.235.0.78/FOXSPORTS2-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Foz TV" tvg-name="Foz TV" tvg-logo="https://i.imgur.com/8RtfHmt.png" group-title="Variedades",Foz TV
 https://videostreamingserver.septecloud.com.br/memfs/6154fa08-b4c2-4e8f-aba8-1c5a38399d47.m3u8
@@ -992,6 +1028,9 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16732
 #EXTINF:-1 tvg-id="GLOOB" tvg-name="gloob [HD]" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Infantil",Gloob [HD]
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/380
 
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="gloob [HD]" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Infantil",Gloob [HD]
+http://45.235.0.78/GLOOB-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://i.imgur.com/XHjBcu9.png" group-title="Infantil",Gloobinho
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/33741
 
@@ -1078,6 +1117,9 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31468
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="https://i.imgur.com/vzPx4Fl.png" group-title="Filmes e Séries",HBO Plus
 https://brflu.walk-tv.com/5893/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus [HD]" tvg-logo="https://i.imgur.com/vzPx4Fl.png" group-title="Filmes e Séries",HBO Plus [HD]
+http://45.235.0.78/HBOPLUS-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Filmes e Séries",HBO Pop
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31471
@@ -1277,6 +1319,9 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31279
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix [HD]" tvg-logo="https://i.imgur.com/kTCYaG7.png" group-title="Filmes e Séries",MegaPix [HD]
 http://sp001tuncdn.ddns.net:80/live/ca5c20ae5bcb1c5f65998accf9920342/098ad391d1e3d63d4312e1431dc3364c/43.m3u8
 
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix [HD]" tvg-logo="https://i.imgur.com/kTCYaG7.png" group-title="Variedades",MegaPix [HD]
+http://45.235.0.78/MEGAPIX-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Mickey e Donald [24h]" tvg-name="Mickey e Donald [24h]" tvg-logo="https://imgur.com/BatygW5.png " group-title="Infantil",Mickey e Donald [24h]
 http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
 
@@ -1313,6 +1358,9 @@ http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="MTV" tvg-name="mtv [HD]" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Variedades",MTV [HD]
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 
+#EXTINF:-1 tvg-id="MTV" tvg-name="mtv [HD]" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Variedades",MTV [HD]
+http://45.235.0.78/MTV-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="MTV 80's" tvg-name="MTV 80's" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMLY7lTmBmROpwVcSlvAGMfLvcHJWEARe5pcAn73K00dyMFX8Kh4jY3amBl3mBHsX6dknUZ3eLVEGki9XbGxKrzyUXbwXu2z83H2_gE3lraqjqauYlbOYRD29eA-gYar-StiEmt5ouO8vq6PnceIKfw630Cft_6S79zG8-TVnlg9xx0eMvlCi43bOX/w1200-h630-p-k-no-nu/mtv-80s.jpg" group-title="Música",MTV 80's
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=84d7&deviceDNT=0&deviceModel=0
 
@@ -1344,6 +1392,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31617
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow [HD]" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Variedades",Multishow [HD]
+http://45.235.0.78/MULTISHOW-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow [HD]" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Variedades",Multishow [HD]
 https://brflu.walk-tv.com/5822/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow [HD]" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Variedades",Multishow [HD]
@@ -1360,6 +1411,9 @@ https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1628779050.m3u8
 
 #EXTINF:-1 tvg-id="music box brazil" tvg-name="music box brazil" tvg-logo="https://i.imgur.com/xgJiZAh.png" group-title="Música",Music Box Brasil
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/33738
+
+#EXTINF:-1 tvg-id="music box brazil" tvg-name="music box brazil" tvg-logo="https://i.imgur.com/xgJiZAh.png" group-title="Música",Music Box Brasil [HD]
+http://45.235.0.78/MUSICBOXBRASIL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Music Top" tvg-name="Music Top" tvg-logo="https://i.imgur.com/39jD05N.png" group-title="Música",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?ManoTV
@@ -1378,6 +1432,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f9655800900080849
 
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://i.imgur.com/BmgAKRl.png" group-title="Variedades",National Geographic
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16743
+
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic [HD]" tvg-logo="https://i.imgur.com/BmgAKRl.png" group-title="Variedades",National Geographic [HD]
+http://45.235.0.78/NATGEO-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="National Sports Channel" tvg-name="National Sports Channel" tvg-logo="https://i.imgur.com/nk19QkO.png" group-title="Esportes",National Sports Channel
 https://cdn-2.nxplay.com.br/PLAYOUT_02_NSC/index.m3u8
@@ -1412,6 +1469,9 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr. [HD]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Infantil",Nick Jr. [HD]
 http://t2tp.xyz:80/343963665/370954400/71368
 
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr. [HD]" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Infantil",Nick jr. [HD]
+http://45.235.0.78/NICKJR-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-name="Nick Jr. Club" tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Infantil",Nick Jr. Club
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
 
@@ -1423,6 +1483,9 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="nickelodeon [HD]" tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Infantil",Nickelodeon [HD]
 http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21263
+
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="nickelodeon [HD]" tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Infantil",Nickelodeon [HD]
+http://45.235.0.78/NICK-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Nova Era TV [FHD]" tvg-name="Nova Era TV [FHD]" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Variedades",Nova Era TV [FHD]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
@@ -1808,6 +1871,9 @@ http://15.235.15.230:14020/
 #EXTINF:-1 tvg-id="Premiere Clubes [FHD]" tvg-name="Premiere Clubes [FHD]" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere Clubes [FHD]
 https://cr7v.short.gy/manoiptvfree/PremiereClube/Index.m3u8
 
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="premiere clubes [HD]" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes",Premiere Clubes [HD]
+http://45.235.0.78/PREMIERECLUBES-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-name="premiere 2" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Esportes",Premiere 2 [HD]
 https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
 
@@ -1924,6 +1990,9 @@ https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RECORDSP" tvg-name="recordtv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Aberto",Record SP [HD]
 http://51.83.238.223:16141/
+
+#EXTINF:-1 tvg-id="RECORDSP" tvg-name="recordtv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="Variedades",Record TV [HD]
+http://45.235.0.78/RECORDTV-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="record news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJDXlz2QYoeY1xoZoR0UQyM3tfDfVzwyMug&s" group-title="Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
@@ -2213,6 +2282,9 @@ https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="CANALSONY" tvg-name="Sony [HD]" tvg-logo="https://i.imgur.com/VjggSE7.png" group-title="Filmes e Séries",Sony [HD]
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
 
+#EXTINF:-1 tvg-id="CANALSONY" tvg-name="Sony [HD]" tvg-logo="https://i.imgur.com/VjggSE7.png" group-title="Esportes",Sony [HD]
+http://45.235.0.78/SONY-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="SONYMOVIES" tvg-name="Sony Movies" tvg-logo="https://i.imgur.com/Bv0MLFU.png" group-title="Filmes e Séries",Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 
@@ -2399,11 +2471,17 @@ https://watch.vcdn.in/telecineaction/index.m3u8
 #EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Action [HD]
 https://brflu.walk-tv.com/5875/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Action [HD]
+http://45.235.0.78/TCACTION-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Cult
 http://tv.com.vc:80/nalva/123456/454856
 
 #EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult [HD]" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Cult [HD]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31585
+
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult [HD]" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Cult [HD]
+http://45.235.0.78/TCCULT-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Fun [HD]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31588
@@ -2411,17 +2489,26 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31588
 #EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Fun [HD]
 https://brflu.walk-tv.com/5901/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Fun [HD]
+http://45.235.0.78/TCFUN-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Pipoca [HD]
 https://watch.vcdn.in/telecinepipoca/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Pipoca [HD]
 https://brflu.walk-tv.com/5877/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Pipoca [HD]
+http://45.235.0.78/TCPIPOCA-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium [HD]" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Premium [HD]
 https://watch.vcdn.in/telecinepremium/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium [HD]" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Premium [HD]
 https://brflu.walk-tv.com/5879/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium [HD]" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Premium [HD]
+http://45.235.0.78/TCPREMIUM-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="https://i.imgur.com/FqhduDG.png" group-title="Filmes e Séries",Telecine Touch [HD]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31594
@@ -3395,13 +3482,16 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m
 #EXTINF:-1 tvg-id="Vitrine Esportiva" tvg-name="Vitrine Esportiva" tvg-logo="https://imgur.com/NRdlPpn.png" group-title="Aberto",Vitrine Esportiva
 https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="VIVA" tvg-name="viva" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Variedades",VIVA
+#EXTINF:-1 tvg-id="VIVA" tvg-name="viva [HD]" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Novelas",VIVA [HD]
+http://45.235.0.78/VIVA-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="VIVA" tvg-name="viva" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Novelas",VIVA
 http://tv.com.vc:80/nalva/123456/615729
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="viva" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Novelas",VIVA 
 http://pfsv.io:80/leticia/131278/123.m3u8
 
-#EXTINF:-1 tvg-id="VIVA" tvg-name="viva [HD]" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Variedades",VIVA [HD]
+#EXTINF:-1 tvg-id="VIVA" tvg-name="viva [HD]" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Novelas",VIVA [HD]
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/31630
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="viva [HD]" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Novelas",VIVA [HD]
@@ -3452,6 +3542,9 @@ https://watch.vcdn.in/warnerchannel/index.m3u8
 #EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel hd" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Filmes e Séries",Warner Channel [HD]
 http://148.113.160.49:14761/
 
+#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel hd" tvg-logo="https://i.imgur.com/GTdq9CR.png" group-title="Filmes e Séries",Warner Channel [HD]
+http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Web TV Campeão de Tudo" tvg-name="Web TV Campeão de Tudo" tvg-logo="https://i.imgur.com/VdcLJto.png" group-title="Aberto",Web TV Campeão de Tudo
 https://stmv1.paineldevideo.com.br/claudiorlp/claudiorlp/playlist.m3u8
 
@@ -3500,7 +3593,7 @@ https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="613fd0043ffa39000736bb2b" tvg-name="Younger" tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="Filmes e Séries",Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Ypê TV" tvg-name="Ypê TV" tvg-logo="https://nVFiftB.png" group-title="Aberto",Ypê TV
+#EXTINF:-1 tvg-id="Ypê TV" tvg-name="Ypê TV" tvg-logo="https://i.imgur.com/nVFiftB.png" group-title="Aberto",Ypê TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="63988a50be012600070f5db3" tvg-name="Yu-Gi-Oh" tvg-logo="https://i.imgur.com/HrW6NLk.png" group-title="Infantil",Yu-gi-oh! [24h]

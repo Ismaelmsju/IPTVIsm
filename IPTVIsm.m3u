@@ -1175,6 +1175,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d
 #EXTINF:-1 tvg-id="jp news" tvg-name="jp news" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Notícias",Jovem Pam News [AUT]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
+#EXTINF:-1 tvg-id="Jovem Pam Pânico" tvg-name="Jovem Pam Pânico" tvg-logo="https://imgur.com/5xDbDl0.png" group-title="Variedades",Jovem Pam Pânico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-id="jp news" tvg-name="jp news" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Notícias",Jovem Pan News
 https://d9tard1jbwri9.cloudfront.net/playlist576p.m3u8
 
@@ -1439,11 +1442,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-id="Novelíssima" tvg-name="Novelíssima" tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Novelas",Novelíssima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 tvg-id="Novo Tempo [HD]" tvg-name="Novo Tempo [HD]" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo [HD]
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
 
 #EXTINF:-1 tvg-id="Novo Tempo SP" tvg-name="Novo Tempo SP" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo SP
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Novo Tempo [HD]" tvg-name="Novo Tempo [HD]" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo [HD]
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Novo Tempo [HD]" tvg-name="Novo Tempo [HD]" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Aberto",Novo Tempo [HD]
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
 #EXTINF:-1 tvg-id="Now 80's" tvg-name="Now 80's" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2f3955f5568ccb7a50191500b090cbb.webp" group-title="Música",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
@@ -1528,9 +1537,6 @@ https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Otaku Sign TV" tvg-name="Otaku Sign TV" tvg-logo="https://i0.wp.com/otakudvd.com/wp-content/uploads/2021/02/otakulogo-e1625667755127.png" group-title="Aberto",Otaku Sign TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
-
-#EXTINF:-1 tvg-id="Jovem Pam Pânico" tvg-name="Jovem Pam Pânico" tvg-logo="https://imgur.com/5xDbDl0.png" group-title="Variedades",Jovem Pam Pânico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Pantera Cor de Rosa [24h]" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/f313J7K.jpeg" group-title="Infantil",Pantera Cor de Rosa [24h]
 http://cdn.lvbxtv.com:80/8473997886/9939873590/2219985
@@ -3013,12 +3019,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007
 
 #EXTINF:-1 tvg-id="TV Novelas Romance" tvg-name="TV Novelas Romance" tvg-logo="https://i.imgur.com/JjzpYfV.png" group-title="Novelas",TV Novelas Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
-
-#EXTINF:-1 tvg-id="Novo Tempo [HD]" tvg-name="Novo Tempo [HD]" tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Aberto",Novo Tempo [HD]
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
 #EXTINF:-1 tvg-id="TV One" tvg-name="TV One" tvg-logo="https://i.imgur.com/nY7FHo6.png" group-title="Variedades",TV One
 https://video02.logicahost.com.br/tvone/tvone/chunklist_w2000898313.m3u8

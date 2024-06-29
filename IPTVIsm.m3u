@@ -1,29 +1,29 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
-############################################################################ Atualizado: 29/06/2024
+############################################################################ Atualizado: 29/06/2024-
 
-#EXTINF:-1 tvg-id="2 Homens e Meio [24h]" tvg-name="2 Homens e Meio [24h]" tvg-logo="http://i.imgur.com/63xr9fk.png" group-title="Comédia",2 Homens e Meio [24h]
+#EXTINF:-1 tvg-id="2 Homens e Meio [24h]" tvg-name="2 Homens e Meio [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.svg/986px-Two-and-a-half-men.svg.png" group-title="Comédia",2 Homens e Meio [24h]
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8
 
 #EXTINF:-1 tvg-id="24h News [FHD]" tvg-name="24h News [FHD]" tvg-logo="https://i.imgur.com/63xr9fk.png" group-title="Notícias",24h News [FHD]
 http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="3 Palavrinhas" tvg-name="3 Palavrinhas" tvg-logo="https://imgur.com/63xr9fk.png" group-title="Religioso",3 Palavrinhas
+#EXTINF:-1 tvg-id="3 Palavrinhas" tvg-name="3 Palavrinhas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdP5tvU3mUDym6Zm8yAghgbmLwbgD9NRqCA&s" group-title="Religioso",3 Palavrinhas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6454
 
-#EXTINF:-1 tvg-id="4 Por 4" tvg-name="4 Por 4" tvg-logo="http://imgur.com/63xr9fk.png" group-title="Notícias",4 Por 4
+#EXTINF:-1 tvg-id="4 Por 4" tvg-name="4 Por 4" tvg-logo="https://yt3.googleusercontent.com/lgfCWDqmUMepJ86T8EC9Im6PGF6qh0rQAiUF8nYDxV9H7HN3PZqfMB0JTf3a20QWRZSLYHDP=s900-c-k-c0x00ffffff-no-rj" group-title="Notícias",4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="40 Graus TV" tvg-name="40 Graus TV" tvg-logo="https://i.imgur.com/63xr9fk" group-title="Aberto",40 Graus TV
+#EXTINF:-1 tvg-id="40 Graus TV" tvg-name="40 Graus TV" tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/logo-circular.png" group-title="Aberto",40 Graus TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="A Grande Família [24h]" tvg-name="A Grande Família [24h]" tvg-logo="https://imgur.com/63xr9fk" group-title="Comédia",A Grande Família [24h]
+#EXTINF:-1 tvg-id="A Grande Família [24h]" tvg-name="A Grande Família [24h]" tvg-logo="https://img.elo7.com.br/product/zoom/4B1D0BA/capa-painel-redondo-a-grande-familia-em-tecido-1-50m-decoracao-grande-familia.jpg" group-title="Comédia",A Grande Família [24h]
 http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-id="A Guarda do Leão [24h]" tvg-name="A Guarda do Leão [24h]" tvg-logo="http://i.imgur.com/63xr9fk" group-title="Infantil",A Guarda do Leão [24h]
+#EXTINF:-1 tvg-id="A Guarda do Leão [24h]" tvg-name="A Guarda do Leão [24h]" tvg-logo="https://i.imgur.com/f9HyjfJ.png" group-title="Infantil",A Guarda do Leão [24h]
 http://cdn.lvbxtv.com:80/8473997886/9939873590/2219844
 
-#EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-name="A vida moderna de Rocko" tvg-logo="http://imgur.com/63xr9fk" group-title="Infantil",A Vida Moderna de Rocko [24h]
+#EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-name="A vida moderna de Rocko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Rocko%27s_Modern_Life_logo.png" group-title="Infantil",A Vida Moderna de Rocko [24h]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Filmes e Séries",A&E 
@@ -173,7 +173,7 @@ http://24hrs.homelinux.com:8080/24H-avataralendadekorra/video.m3u8
 #EXTINF:-1 tvg-id="AW TV" tvg-name="AW TV" tvg-logo="https://i.imgur.com/zxFbtNi.png" group-title="Aberto",AW TV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="AWTV" tvg-name="AWTV" tvg-logo="https://i.imgur.com/zxFbtNi.png" group-title="Variedades",AWTV
+#EXTINF:-1 tvg-id="AW TV" tvg-name="AW TV" tvg-logo="https://i.imgur.com/zxFbtNi.png" group-title="Variedades",AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="https://i.imgur.com/IaxysZJ.png" group-title="Filmes e Séries",AXN 

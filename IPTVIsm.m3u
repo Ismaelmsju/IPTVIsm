@@ -2,7 +2,7 @@
 
 ############################################################################ Atualizado: 29/06/2024
 
-#EXTINF:-1 tvg-id="2 Homens e Meio [24h]" tvg-name="2 Homens e Meio [24h]" tvg-logo="https://drive.google.com/file/d/1bqlp9Kj5d8JLfD3pe2Fr0CF9y9aCSL6i/view?usp=sharing" group-title="Comédia",2 Homens e Meio [24h]
+#EXTINF:-1 tvg-id="2 Homens e Meio [24h]" tvg-name="2 Homens e Meio [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.svg/986px-Two-and-a-half-men.svg.png" group-title="Comédia",2 Homens e Meio [24h]
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8
 
 #EXTINF:-1 tvg-id="24h News [FHD]" tvg-name="24h News [FHD]" tvg-logo="https://i.imgur.com/63xr9fk.png" group-title="Notícias",24h News [FHD]
@@ -29,16 +29,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e100070
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Filmes e Séries",A&E 
 https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Variedades",A&E
+#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Variedades",A&E
 http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16691
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&E [AUT]" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Filmes e Séries",A&E [AUT]
+#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Filmes e Séries",A&E [AUT]
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Filmes e Séries",A&E [HD]
+#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Filmes e Séries",A&E [HD]
 http://cdn.connectbr.com.br/AE/index.m3u8
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Variedades",A&E [HD]
+#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E" tvg-logo="https://i.imgur.com/EYAmbe4.png" group-title="Variedades",A&E [HD]
 http://45.235.0.78/A&E-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC Brasil" tvg-name="ABC Brasil" tvg-logo="https://i.imgur.com/nVFiftB.png" group-title="Aberto",ABC Brasil

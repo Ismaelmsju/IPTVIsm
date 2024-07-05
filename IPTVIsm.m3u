@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
-############################################################################ Atualizado: 05/07/2024
+############################################################################ Atualizado: 05/07/2024-
 
 #EXTINF:-1 tvg-id="2 Homens e Meio [24h]" tvg-name="2 Homens e Meio [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.svg/986px-Two-and-a-half-men.svg.png" group-title="Comédia",2 Homens e Meio [24h]
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8
@@ -1073,11 +1073,14 @@ http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
 #EXTINF:-1 tvg-id="6144d088516ea8000739076a" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Esportes",Fuel TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea8000739076a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="futura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Aberto",Futura
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="futura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Variedades",Futura
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="futura" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/futura.png" group-title="Variedades",Futura
 http://dns.maxptv.net:2052/PEM225/1010/210
+
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="futura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Variedades",Futura
+http://cdn.connectbr.com.br/Futura/index.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="futura [HD]" tvg-logo="https://painelsbo.painel.life/logosiptv/documentarios/futura.png" group-title="Variedades",Futura [HD]
 http://dns.maxptv.net:2052/PEM225/1010/211

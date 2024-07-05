@@ -1652,9 +1652,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563
 #EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-name="MTV Spankin' New" tvg-logo="https://i.imgur.com/jXhTsl7.png" group-title="Música",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-name="MTV Spankin' New" tvg-logo="https://i.imgur.com/jXhTsl7.png" group-title="Variedades",MTV Spankin' New
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Variedades",Multishow
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/423
 
@@ -2472,9 +2469,6 @@ https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="2967" tvg-name="Runtime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iDaXswogkdCsDPBfjhifcGuaFBmtp5g0hA&s" group-title="Filmes e Séries",Runtime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
-#EXTINF:-1 tvg-id="2967" tvg-name="Runtime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iDaXswogkdCsDPBfjhifcGuaFBmtp5g0hA&s" group-title="Variedades",Runtime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="4675" tvg-name="Runtime Ação" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2iDaXswogkdCsDPBfjhifcGuaFBmtp5g0hA&s" group-title="Filmes e Séries",Runtime Ação [HD]

@@ -2,7 +2,7 @@
 
 ############################################################################ Atualizado: 05/07/2024
 
-#EXTINF:-1 tvg-id="2 Homens e Meio [24h]" tvg-name="2 Homens e Meio [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.svg/986px-Two-and-a-half-men.svg.png" group-title="Comédia; Notícias, 24h",2 Homens e Meio [24h]
+#EXTINF:-1 tvg-id="2 Homens e Meio [24h]" tvg-name="2 Homens e Meio [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.svg/986px-Two-and-a-half-men.svg.png" group-title="AX" group-title="Comédia; Notícias, 24h",2 Homens e Meio [24h]
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8
 
 #EXTINF:-1 tvg-id="24h News [FHD]" tvg-name="24h News [FHD]" tvg-logo="https://i.imgur.com/63xr9fk.png" group-title="Notícias",24h News [FHD]

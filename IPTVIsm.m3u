@@ -734,10 +734,10 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/758.m3u8
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central [HD]" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="Comédia",Comedy Central [HD]
 http://4kcnx.re:80/miragem44/anateltv44/814
 
-#EXTINF:-1 tvg-id="ConecTV Brasil [HD]" tvg-name="ConecTV Brasil [HD]" tvg-logo="https://i.imgur.com/oYBXEq4.png" group-title="Variedades",ConecTV Brasil [HD]
+#EXTINF:-1 tvg-id="ConecTV Brasil [HD]" tvg-name="ConecTV Brasil [HD]" tvg-logo="https://i.imgur.com/oYBXEq4.png" group-title="Aberto",ConecTV Brasil [HD]
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="ConecTV Brasil [HD]" tvg-name="ConecTV Brasil [HD]" tvg-logo="https://i.imgur.com/oYBXEq4.png" group-title="Variedades",ConecTV Brasil [HD]
+#EXTINF:-1 tvg-id="ConecTV Brasil [HD]" tvg-name="ConecTV Brasil [HD]" tvg-logo="https://i.imgur.com/oYBXEq4.png" group-title="Aberto",ConecTV Brasil [HD]
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 tvg-id="Corrida Maluca [24h]" tvg-name="Corrida Maluca [24h]" tvg-logo="https://1.bp.blogspot.com/-26R3X3HD...yFkxNeqpJwCLcBGAsYHQ/s1100/Corrida+maluca.png" group-title="Infantil",Corrida Maluca [24h]
@@ -773,7 +773,7 @@ https://cdn-3.nxplay.com.br/dcpc/index.m3u8
 #EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Animes e Geek",Death Note [24h]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Demais TV [HD]" tvg-name="Demais TV [HD]" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Variedades",Demais TV [HD]
+#EXTINF:-1 tvg-id="Demais TV [HD]" tvg-name="Demais TV [HD]" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Aberto",Demais TV [HD]
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel hd" tvg-logo="https://i.imgur.com/POg6E75.png" group-title="Variedades",Discovery Channel 
@@ -1040,13 +1040,13 @@ http://24hrs.homelinux.com:8080/24H-dragon.ball.super/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dragon Ball Z [24h]" tvg-name="Dragon Ball Z [24h]" tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Animes e Geek",Dragon Ball Z [24h]
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-id="Dragon Ball Z Kai [24h]" tvg-name="Dragon Ball Z Kai [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Dragon_Ball_Kai_logo.png?20100904022920" group-title="Infantil",Dragon Ball Z Kai [24h]
+#EXTINF:-1 tvg-id="Dragon Ball Z Kai [24h]" tvg-name="Dragon Ball Z Kai [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Dragon_Ball_Kai_logo.png?20100904022920" group-title="Animes e Geek",Dragon Ball Z Kai [24h]
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Drake e Josh [24h]" tvg-name="Drake e Josh [24h]" tvg-logo="https://static.wikia.nocookie.net/f...est/scale-to-width-down/400?cb=20150706030147" group-title="Infantil",Drake e Josh [24h]
+#EXTINF:-1 tvg-id="Drake e Josh [24h]" tvg-name="Drake e Josh [24h]" tvg-logo="https://static.wikia.nocookie.net/f...est/scale-to-width-down/400?cb=20150706030147" group-title="Filmes e Séries",Drake e Josh [24h]
 http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
 
-#EXTINF:-1 tvg-id="Dream Works TV" tvg-name="Dream Works TV" tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Infantil",Dream Works TV
+#EXTINF:-1 tvg-id="Dream Works TV" tvg-name="Dream Works TV" tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Filmes e Séries",Dream Works TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
 
 #EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="https://i.imgur.com/yGT50Kk.png" group-title="Variedades",E!
@@ -1085,7 +1085,7 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/762.m3u8
 #EXTINF:-1 tvg-id="Entretendo" tvg-name="Entretendo" tvg-logo="https://i.imgur.com/DxiQK7v.png" group-title="Filmes e Séries",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="Escolinha do Prof Raimundo [24h]" tvg-name="Escolinha do Prof Raimundo [24h]" tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Comédia",Escolinha do Prof Raimundo [24h]
+#EXTINF:-1 tvg-id="Escolinha do Prof. Raimundo [24h]" tvg-name="Escolinha do Prof. Raimundo [24h]" tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Comédia",Escolinha do Prof. Raimundo [24h]
 http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="espn hd" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esporte",ESPN
@@ -1168,18 +1168,6 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist_w1584452734.m3u8
 
 #EXTINF:-1 tvg-id="Esporte Brasília [HD]" tvg-name="Esporte Brasília [HD]" tvg-logo="https://i.imgur.com/gQGj3FY.png" group-title="Esporte",Esporte Brasília [HD]
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Esporte Fight Pass [HD]" tvg-name="Esporte Fight Pass [HD]" tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Esporte",Esporte Fight Pass [HD]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1121
-
-#EXTINF:-1 tvg-id="Esporte Fight Pass [HD]" tvg-name="Esporte Fight Pass [HD]" tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Esporte",Esporte Fight Pass [HD]
-http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/250107
-
-#EXTINF:-1 tvg-id="Esporte Fight Pass [FHD]" tvg-name="Esporte Fight Pass [FHD]" tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Esporte",Esporte Fight Pass [FHD]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1122
-
-#EXTINF:-1 tvg-id="Esporte Fight TV" tvg-name="Esporte Fight TV" tvg-logo="https://i.imgur.com/vwhE2rB.png" group-title="Esporte",Esporte Fight TV
-http://5ce.co:80/pamelaflores/92446060a/217457
 
 #EXTINF:-1 tvg-id="Eu a Patroa e as Crianças 1 [24h]" tvg-name="Eu a Patroa e as Crianças 1 [24h]" tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="Comédia",Eu a Patroa e as Crianças 1 [24h]
 http://24hrs.homelinux.com:8080/24H-euapatroaeascriancas7/video.m3u8?token=a4A2wbotS3
@@ -3340,6 +3328,18 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-id="Ubisoft TV" tvg-name="Ubisoft TV" tvg-logo="https://imgur.com/REsiJz6.png" group-title="Animes e Geek",Ubisoft TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
+
+#EXTINF:-1 tvg-id="UFC Fight Pass" tvg-name="UFC Fight Pass" tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Esporte",UFC Fight Pass
+http://t2tp.xyz:80/343963665/370954400/253998
+
+#EXTINF:-1 tvg-id="UFC Fight Pass [HD]" tvg-name="UFC Fight Pass [HD]" tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Esporte",UFC Fight Pass [HD]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1121
+
+#EXTINF:-1 tvg-id="UFC Fight Pass [HD]" tvg-name="UFC Fight Pass [HD]" tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Esporte",UFC Fight Pass [HD]
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/250107
+
+#EXTINF:-1 tvg-id="UFC Fight Pass [FHD]" tvg-name="UFC Fight Pass [FHD]" tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Esporte",UFC Fight Pass [FHD]
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/1122
 
 #EXTINF:-1 tvg-id="Um Maluco no Pedaço [24h]" tvg-name="Um Maluco no Pedaço [24h]" tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Comédia",Um Maluco no Pedaço [24h]
 http://24hrs.homelinux.com:8080/24H-ummaluconopedaco/video.m3u8

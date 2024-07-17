@@ -53,7 +53,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nVFiftB.png" group-title="Aberto",ABC Brasil
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
 
-#EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Variedades",Acumuladores Obsessivos [24h]
+#EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Reality",Acumuladores Obsessivos [24h]
 https://jmp2.uk/PlutoTV/656e2a4b4261ca00083aa99e-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Aberto",Adesso TV [HD]
@@ -2317,6 +2317,9 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13909.m3u8
 
 #EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-name="Oggy e as Baratas Tontas" tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Infantil",Oggy e as Baratas Tontas [24h]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/muqyuiranas.png" group-title="Reality",Os Muquiranas [24h]
+http://dns.maxptv.net:2052/PEM264/1010/113090
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnQzWE1.png" group-title="Notícias",Os Tremas nos US com Pavinatto
 https://ythls.armelin.one/channel/UCtD5V9CIoR4PHhXTi-DTwXw.m3u8

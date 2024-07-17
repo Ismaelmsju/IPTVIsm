@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
-############################################################################ Atualizado: 16/07/2024
+############################################################################ Atualizado: 17/07/2024
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Two-and-a-half-men.svg/986px-Two-and-a-half-men.svg.png" group-title="Comédia",2 Homens e Meio [24h]
 http://24hrs.homelinux.com:8080/24H-2HomensEmeio/video.m3u8
@@ -101,10 +101,10 @@ https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebNRqmy.png" group-title="Aberto",Agro Canal [HD]
 http://4kcnx.re:80/miragem44/anateltv44/451
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Aberto",AgroMais [HD]
+#EXTINF:-1 tvg-id="AGROMAIS" tvg-name="AGROMAIS" tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Aberto",AgroMais [HD]
 https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Aberto",AgroMais [HD]
+#EXTINF:-1 tvg-id="AGROMAIS" tvg-name="AGROMAIS" tvg-logo="https://i.imgur.com/NY4GvIC.png" group-title="Aberto",AgroMais [HD]
 http://187.95.95.243/AgroMais-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Aladdin_Franchise_Logo.png" group-title="Infantil",Aladin [24h]
@@ -290,9 +290,6 @@ http://axr.life:80/669177/213793/1263429
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="Infantil",Baby TV [HD]
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/619.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-name="band" tvg-logo="https://i.imgur.com/xYGjfh8.png" group-title="Aberto",Band Arapuan [HD]
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="BAND" tvg-name="band" tvg-logo="https://i.imgur.com/xYGjfh8.png" group-title="Aberto",Band BA
 http://dns.lista.one:80/live/8325093493/9344573253/1087971.m3u8
 
@@ -304,9 +301,6 @@ http://dns.lista.one:80/live/8325093493/9344573253/1087970.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="band" tvg-logo="https://i.imgur.com/xYGjfh8.png" group-title="Aberto",Band BA [HD]
 http://axr.life:80/669177/213793/2649104
-
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Notícias",Band News [FHD]
-http://axr.life:80/669177/213793/1263120
 
 #EXTINF:-1 tvg-id="BANDRJ" tvg-name="band" tvg-logo="https://i.imgur.com/xYGjfh8.png" group-title="Aberto",Band RJ
 https://ythls.armelin.one/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
@@ -337,6 +331,9 @@ http://axr.life:80/669177/213793/1263119
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Notícias",Band News [FHD]
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/682.m3u8
+
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="https://i.imgur.com/jCZzNjF.png" group-title="Notícias",Band News [FHD]
+http://axr.life:80/669177/213793/1263120
 
 #EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="band sports" tvg-logo="https://i.imgur.com/HyeeIkG.png" group-title="Esporte",Band Sports
 https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
@@ -428,10 +425,10 @@ http://4kcnx.re:80/miragem44/anateltv44/658
 #EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="https://i.imgur.com/paaO71A.png" group-title="Filmes e Séries",Canal Brasil [FHD]
 http://axr.life:80/669177/213793/2639900
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="Aberto",Canal do Boi
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="Aberto",Canal do Boi
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="Aberto",Canal do Boi
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="https://i.imgur.com/isJAvqM.png" group-title="Aberto",Canal do Boi
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6434
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Aberto",Canal do Criador [FHD]
@@ -1022,6 +1019,9 @@ http://dns.maxptv.net:2052/PEM264/1010/184
 #EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/15.m3u8
 
+#EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater
+http://4kcnx.re:80/miragem44/anateltv44/292
+
 #EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater [HD]
 https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
@@ -1031,14 +1031,11 @@ http://dns.maxptv.net:2052/PEM264/1010/185
 #EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater [HD]
 http://axr.life:80/669177/213793/1262975
 
+#EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater [HD]
+http://4kcnx.re:80/miragem44/anateltv44/291
+
 #EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater [FHD]
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13867.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theather
-http://4kcnx.re:80/miragem44/anateltv44/292
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theather [HD]
-http://4kcnx.re:80/miragem44/anateltv44/291
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="Variedades",Discovery Turbo
 http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
@@ -1282,6 +1279,12 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/371.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esporte",ESPN 6
 http://108.181.39.189:14071
+
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esporte",ESPN 6
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/370.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Esporte",ESPN 6 [FHD]
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13873.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQGj3FY.png" group-title="Esporte",Esporte Brasília
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1584452734.m3u8
@@ -2030,7 +2033,7 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13896.m3u8
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="lifetime" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Filmes e Séries",Lifetime [FHD]
 http://4kcnx.re:80/miragem44/anateltv44/843
 
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rgATXh.png" group-title="Filmes e Séries",Like! [HD]
+#EXTINF:-1 tvg-id="LIKE" tvg-name="LIKE" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rgATXh.png" group-title="Filmes e Séries",Like! [HD]
 http://axr.life:80/669177/213793/2639915
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Animes e Geek",Loading TV
@@ -2144,10 +2147,10 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="mtv" tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="Música",MTV [FHD]
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13902.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/230px-MTV_00s_remaster.png" group-title="Variedades",MTV 00's [HD]
+#EXTINF:-1 tvg-id="MTVs_00" tvg-name="MTVs_00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/230px-MTV_00s_remaster.png" group-title="Variedades",MTV 00's [HD]
 http://4kcnx.re:80/miragem44/anateltv44/852
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/230px-MTV_00s_remaster.png" group-title="Variedades",MTV 00's [FHD]
+#EXTINF:-1 tvg-id="MTVs_00" tvg-name="MTVs_00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/230px-MTV_00s_remaster.png" group-title="Variedades",MTV 00's [FHD]
 http://4kcnx.re:80/miragem44/anateltv44/851
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMLY7lTmBmROpwVcSlvAGMfLvcHJWEARe5pcAn73K00dyMFX8Kh4jY3amBl3mBHsX6dknUZ3eLVEGki9XbGxKrzyUXbwXu2z83H2_gE3lraqjqauYlbOYRD29eA-gYar-StiEmt5ouO8vq6PnceIKfw630Cft_6S79zG8-TVnlg9xx0eMvlCi43bOX/w1200-h630-p-k-no-nu/mtv-80s.jpg" group-title="Música",MTV 80's
@@ -2678,7 +2681,7 @@ http://4kcnx.re:80/miragem44/anateltv44/181523
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSqBFP3.png" group-title="Variedades",Rede Gama
 https://alanza.iptv2022.com/REDE_GAMA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ngbsXOB.png" group-title="Aberto",Rede Gospel
+#EXTINF:-1 tvg-id="REDE GOSPEL" tvg-name="REDE GOSPEL" tvg-logo="https://i.imgur.com/ngbsXOB.png" group-title="Aberto",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="Variedades",Rede Mais [HD]
@@ -2726,10 +2729,10 @@ https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Variedades",Rede UTV [HD]
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religioso",Rede Vida
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religioso",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religioso",Rede Vida [HD]
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religioso",Rede Vida [HD]
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVux2yk.png" group-title="Notícias",Resumo da Ópera
@@ -3500,10 +3503,10 @@ https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="tv aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religioso",TV Aparecida [FHD]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Aberto",TV Brasil
+#EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Aberto",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Aberto",TV Brasil
+#EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Aberto",TV Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4554
 
 #EXTINF:-1 tvg-id="TVCMARA" tvg-name="tv câmara" tvg-logo="https://i.imgur.com/TlqB0Uo.png" group-title="Variedades",TV Câmara dos Deputados [FHD]
@@ -3740,12 +3743,6 @@ http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/320
 #EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel" tvg-logo="https://i.imgur.com/zR0XZG7.png" group-title="Filmes e Séries",Warner Channel [FHD]
 http://axr.life:80/669177/213793/2639944
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Wohoo [HD]
-http://dns.maxptv.net:2052/PEM225/1010/207
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Wohoo [FHD]
-http://cdn.topk.live:80/tarcisio/123456/338425
-
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Woohoo
 http://dns.maxptv.net:2052/PEM225/1010/206
 
@@ -3764,8 +3761,14 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/657.m3u8
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Woohoo [HD]
 http://axr.life:80/669177/213793/1263425
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",WooHoo [FHD]
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Woohoo [HD]
+http://dns.maxptv.net:2052/PEM225/1010/207
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Woohoo [FHD]
 http://axr.life:80/669177/213793/1263427
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Variedades",Woohoo [FHD]
+http://cdn.topk.live:80/tarcisio/123456/338425
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Esporte",Woohoo Surf
 https://cdn-1.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8

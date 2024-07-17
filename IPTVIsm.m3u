@@ -2783,7 +2783,7 @@ https://ythls.armelin.one/channel/UCcDerngKTEU5ryjMS-ThLbg.m3u8
 #EXTINF:-1 tvg-id="SBTRJ" tvg-name="sbt" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Aberto",SBT RJ [HD]
 https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 
-#EXTINF:-1 tvg-id="SBT RS" tvg-name="SBT RS" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Aberto",SBT RS [HD]
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Aberto",SBT RS [HD]
 https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-name="sbt" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Aberto",SBT SP [HD]

@@ -113,9 +113,6 @@ http://187.95.95.243/AgroMais-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Aladdin_Franchise_Logo.png" group-title="Infantil",Aladin [24h]
 http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="Esporte",All sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6432
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="Esporte",All Sports [HD]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
@@ -162,9 +159,6 @@ http://axr.life:80/669177/213793/2639892
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794265.ts
 
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet
-https://brflu.walk-tv.com/5782/index.m3u8
-
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/3.m3u8
 
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet
@@ -175,9 +169,6 @@ http://main.srvdns.fun:80/Rafael123/Rafael123/4794332.ts
 
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet [HD]
 https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
-
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet [HD]
-https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet [HD]
 http://dns.maxptv.net:2052/PEM200/1010/232
@@ -1185,9 +1176,6 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13867.m3u8
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794342.ts
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo
-http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo
 http://dns.maxptv.net:2052/PEM200/1010/182
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo
@@ -1252,9 +1240,6 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/22.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794351.ts
-
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/500px-Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel
-https://brflu.walk-tv.com/5787/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/500px-Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel
 http://dns.maxptv.net:2052/PEM200/1010/178
@@ -1333,9 +1318,6 @@ http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Filmes e Séries",Dream Works TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
-
-#EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://ucsxiptv.com:8080/images/logos/bddec388639cce325f1bea98230a0f3f.png" group-title="Variedades",E!
-https://brflu.walk-tv.com/5729/index.m3u8
 
 #EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://ucsxiptv.com:8080/images/logos/bddec388639cce325f1bea98230a0f3f.png" group-title="Variedades",E!
 http://dns.maxptv.net:2052/PEM200/1010/172
@@ -2175,9 +2157,6 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13863.m3u8
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794361.ts
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel
-https://brflu.walk-tv.com/5815/index.m3u8
-
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel
 http://dns.maxptv.net:2052/PEM200/1010/122
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel
@@ -2188,9 +2167,6 @@ http://4kcnx.re:80/miragem44/anateltv44/304
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794365.ts
-
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel [HD]
-https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel [HD]
 https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8
@@ -2218,9 +2194,6 @@ http://4kcnx.re:80/miragem44/anateltv44/302
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794363.ts
-
-#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png" group-title="Variedades",History Channel 2
-https://brflu.walk-tv.com/5814/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png" group-title="Variedades",History Channel 2
 http://dns.maxptv.net:2052/PEM200/1010/523
@@ -2520,9 +2493,6 @@ http://4kcnx.re:80/miragem44/anateltv44/862
 http://main.xplus2-main.xyz:2082/Xplus-V3-82LfsmyMZB/MI9a3DIz4A/88
 
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/500px-National-Geographic-Logo.svg.png" group-title="Variedades",National Geographic
-https://brflu.walk-tv.com/5777/index.m3u8
-
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/500px-National-Geographic-Logo.svg.png" group-title="Variedades",National Geographic
 http://dns.maxptv.net:2052/PEM200/1010/98
 
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/500px-National-Geographic-Logo.svg.png" group-title="Variedades",National Geographic
@@ -2584,9 +2554,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac600071
 
 #EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-name="Nick Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Infantil",Nick Teen
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Infantil",Nickelodeon
-https://brflu.walk-tv.com/5825/index.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Infantil",Nickelodeon
 http://dns.maxptv.net:2052/PEM200/1010/92
@@ -2674,9 +2641,6 @@ http://4kcnx.re:80/miragem44/anateltv44/236
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="Esporte",Off
 http://dns.maxptv.net:2052/PEM200/1010/208
-
-#EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="Esporte",Off
-https://brflu.walk-tv.com/5826/index.m3u8
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="Esporte",Off
 https://8mwx.short.gy/CANALOFF/index.m3u8
@@ -3329,9 +3293,6 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/260565.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Novelas",Sony Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Novelas",Sony Novelas
-https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xo2bJt.png" group-title="Filmes e Séries",Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
@@ -3526,9 +3487,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c275
 
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9784ae40-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c4b7db2-88f3-4c00-8114-c9f5bcca8459&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil
-http://186.226.215.132:80/carlos123/carlos123/168.m3u8
 
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil
 https://tastemadept16intl-xumobrazil.amagi.tv/playlist.m3u8
@@ -3826,9 +3784,6 @@ http://axr.life:80/669177/213793/1263105
 
 #EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794469.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1280px-Terra_Viva_logo.svg.png" group-title="Aberto",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1280px-Terra_Viva_logo.svg.png" group-title="Aberto",Terra Viva [HD]
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8

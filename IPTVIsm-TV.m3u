@@ -1,510 +1,339 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
-############################################################################ Atualizado: 18/07/2024
+############################################################################ Atualizado: 19/07/2024
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Filmes e Séries",A&E
-http://dns.maxptv.net:2052/PEM264/1010/235
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdP5tvU3mUDym6Zm8yAghgbmLwbgD9NRqCA&s" group-title="Infantil",3 Palavrinhas 1 [24h]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6454
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://painelsbo.painel.life/logosnovos/FilmeseSeries/220.png" group-title="Filmes e Séries",A&E [HD]
-http://dns.maxptv.net:2052/PEM264/1010/236
+#EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-name="Acumuladores Obsessivos" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" group-title="Reality",Acumuladores Obsessivos [24h]
+https://jmp2.uk/PlutoTV/656e2a4b4261ca00083aa99e-alt.m3u8
 
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://redecanaistv.dev/assets/imgs-videos/Canais/thumb-adultswim.jpg" group-title="Animes e Geek",Adult Swim
-http://dns.maxptv.net:2052/PEM264/1010/136112
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Aberto",Adesso TV [HD]
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://redecanaistv.dev/assets/imgs-videos/Canais/thumb-adultswim.jpg" group-title="Animes e Geek",Adult Swim [HD]
-http://dns.maxptv.net:2052/PEM264/1010/136111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Aladdin_Franchise_Logo.png" group-title="Infantil",Aladin [24h]
+http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://ucsxiptv.com:8080/images/logos/amc-media-png-logo-1.png" group-title="Filmes e Séries",AMC
-http://dns.maxptv.net:2052/PEM264/1010/233
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="Esporte",All sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6432
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://ucsxiptv.com:8080/images/logos/amc-media-png-logo-1.png" group-title="Filmes e Séries",AMC [HD]
-http://dns.maxptv.net:2052/PEM264/1010/512
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="Esporte",All Sports [HD]
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet
+https://brflu.walk-tv.com/5782/index.m3u8
 
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet [HD]
-http://dns.maxptv.net:2052/PEM264/1010/232
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6bdeab4286c9a100bb00362b18a60d6.png" group-title="Variedades",Animal Planet [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="Aberto",Bem TV [HD]
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://ucsxiptv.com:8080/images/logos/df9b84184aba2b78b0f6fa90ed5bbb4a.png" group-title="Variedades",Arte 1 [HD]
-http://dns.maxptv.net:2052/PEM264/1010/136903
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/boavontadetv.png" group-title="Religioso",Boa Vontade TV [FHD]
+https://ythls.armelin.one/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://ucsxiptv.com:8080/images/logos/122b692dafbc0c6c96e99120afa1d0c8.png" group-title="Filmes e Séries",AXN
-http://dns.maxptv.net:2052/PEM264/1010/227
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Infantil",Bob Esponja 1 [24h]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://ucsxiptv.com:8080/images/logos/122b692dafbc0c6c96e99120afa1d0c8.png" group-title="Filmes e Séries",AXN [HD]
-http://dns.maxptv.net:2052/PEM264/1010/535
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://media.giphy.com/avatars/CanalDoBoi/Qahhb4GTMgWv.png" group-title="Aberto",Canal do Boi
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6434
 
-#EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="Infantil",Baby TV
-http://dns.maxptv.net:2052/PEM264/1010/225
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Aberto",Canal do Criador [FHD]
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://ucsxiptv.com:8080/images/logos/8d0e9648fb821d02054a66eb876db6fa.png" group-title="Música",BIS
-http://dns.maxptv.net:2052/PEM264/1010/218
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Aberto",Canal Educação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4560
 
-#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://ucsxiptv.com:8080/images/logos/00990cf26743f2576618a411217e4214.png" group-title="Filmes e Séries",Canal Brasil
-http://dns.maxptv.net:2052/PEM264/1010/111748
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Aberto",Canal Educação [HD]
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://ucsxiptv.com:8080/images/logos/00990cf26743f2576618a411217e4214.png" group-title="Filmes e Séries",Canal Brasil [HD]
-http://dns.maxptv.net:2052/PEM264/1010/111747
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://seeklogo.com/images/C/canal-rural-logo-09763010E8-seeklogo.com.png" group-title="Aberto",Canal Rural [FHD]
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalsaude.fiocruz.br/tools/images/logo30anos/30-vers%C3%A3o-horizontal-web.png" group-title="Aberto",Canal Saúde
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4552
 
 #EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://ucsxiptv.com:8080/images/logos/d2479960a594a0189f1f2e8255f24491.png" group-title="Infantil",Cartoon Network
-http://dns.maxptv.net:2052/PEM264/1010/204
+https://cdn2.connectbr.com.br/Cartoon-Network/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://ucsxiptv.com:8080/images/logos/d2479960a594a0189f1f2e8255f24491.png" group-title="Infantil",Cartoon Network [HD]
-http://dns.maxptv.net:2052/PEM264/1010/524
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w89yw36.png" group-title="Aberto",Catve FM [HD]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito
-http://dns.maxptv.net:2052/PEM264/1010/49053
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="Aberto",Catve Master TV [HD]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito [HD]
-http://dns.maxptv.net:2052/PEM264/1010/49052
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/68/El_Chavo_logo_%28Brazilian_Portuguese%29.png" group-title="Comédia",Chaves 1 [24h]
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/YRDnUMz.png" group-title="Comédia",Chapolin Colorado 2 [24h]
-http://dns.maxptv.net:2052/PEM264/1010/19541
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="Aberto",COM Brasil [FHD]
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/68/El_Chavo_logo_%28Brazilian_Portuguese%29.png" group-title="Comédia",Chaves 2 [24h]
-http://dns.maxptv.net:2052/PEM264/1010/40813
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYBXEq4.png" group-title="Aberto",ConecTV Brasil [HD]
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/Cinekids.png" group-title="Filmes e Séries",Cine Crianças [24h]
-http://dns.maxptv.net:2052/PEM264/1010/554
+#EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Filmes e Séries",CSI: Miami [24h]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/CineFamily.png" group-title="Filmes e Séries",Cine Família [24h]
-http://dns.maxptv.net:2052/PEM264/1010/551
+#EXTINF:-1 tvg-id="66296e755a402e00086a2c47" tvg-name="Cultne TV" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Variedades",Cultne TV
+https://jmp2.uk/PlutoTV/66296e755a402e00086a2c47-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/cineguerra.png" group-title="Filmes e Séries",Cine Guerra [24h]
-http://dns.maxptv.net:2052/PEM264/1010/1477
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Animes e Geek",Death Note [24h]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/CineNacionais.png" group-title="Filmes e Séries",Cine Nacionais [24h]
-http://dns.maxptv.net:2052/PEM264/1010/555
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://ucsxiptv.com:8080/images/logos/336-3361203_2012-cinemax-logo-transparent.png" group-title="Filmes e Séries",CineMax
-http://dns.maxptv.net:2052/PEM264/1010/202
-
-#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="http://ucsxiptv.com:8080/images/logos/cnn-brasil-logo.png" group-title="Notícias",CNN Brasil
-http://dns.maxptv.net:2052/PEM264/1010/8891
-
-#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="http://ucsxiptv.com:8080/images/logos/cnn-brasil-logo.png" group-title="Notícias",CNN Brasil [HD]
-http://dns.maxptv.net:2052/PEM264/1010/8890
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate
-http://dns.maxptv.net:2052/PEM264/1010/200
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate [HD]
-http://dns.maxptv.net:2052/PEM264/1010/201
-
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://ucsxiptv.com:8080/images/logos/6db078bba84ae4e615810dac0a0604c2.png" group-title="Comédia",Comedy Central
-http://dns.maxptv.net:2052/PEM264/1010/198
-
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://ucsxiptv.com:8080/images/logos/6db078bba84ae4e615810dac0a0604c2.png" group-title="Comédia",Comedy Central [HD]
-http://dns.maxptv.net:2052/PEM264/1010/199
-
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/2/CanalCSI.png" group-title="Filmes e Séries",CSI [24h]
-http://dns.maxptv.net:2052/PEM264/1010/538
-
-#EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://ucsxiptv.com:8080/images/logos/15a528af09f0611530f704b661b56d07.png" group-title="Variedades",Curta!
-http://dns.maxptv.net:2052/PEM264/1010/212
-
-#EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://ucsxiptv.com:8080/images/logos/15a528af09f0611530f704b661b56d07.png" group-title="Variedades",Curta! [HD]
-http://dns.maxptv.net:2052/PEM264/1010/213
-
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel
-http://dns.maxptv.net:2052/PEM264/1010/194
-
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [HD]
-http://dns.maxptv.net:2052/PEM264/1010/195
-
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20225
-
-#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Variedades",Discovery Home & Health
-http://dns.maxptv.net:2052/PEM264/1010/190
-
-#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="Variedades",Discovery Home & Health [HD]
-http://dns.maxptv.net:2052/PEM264/1010/191
-
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID
-http://dns.maxptv.net:2052/PEM264/1010/120
-
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [HD]
-http://dns.maxptv.net:2052/PEM264/1010/121
-
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20254
-
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids
-http://dns.maxptv.net:2052/PEM264/1010/188
-
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [HD]
-http://dns.maxptv.net:2052/PEM264/1010/189
-
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science
-http://dns.maxptv.net:2052/PEM264/1010/186
-
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [HD]
-http://dns.maxptv.net:2052/PEM264/1010/187
-
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20258
-
-#EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater
-http://dns.maxptv.net:2052/PEM264/1010/184
-
-#EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Variedades",Discovery Theater [HD]
-http://dns.maxptv.net:2052/PEM264/1010/185
+#EXTINF:-1 tvg-id="662156805a31f70013dba21c" tvg-name="DiaTV" tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" group-title="Variedades",DiaTV
+https://jmp2.uk/PlutoTV/662156805a31f70013dba21c-alt.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo
-http://dns.maxptv.net:2052/PEM264/1010/182
-
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [HD]
-http://dns.maxptv.net:2052/PEM264/1010/183
-
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World
-http://dns.maxptv.net:2052/PEM264/1010/180
-
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [HD]
-http://dns.maxptv.net:2052/PEM264/1010/181
-
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20259
+http://170.82.200.35/discovery_turbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/500px-Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel
-http://dns.maxptv.net:2052/PEM264/1010/178
+https://brflu.walk-tv.com/5787/index.m3u8
 
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/500px-Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel [HD]
-http://dns.maxptv.net:2052/PEM264/1010/179
-
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/2/house.png" group-title="Filmes e Séries",Dr. House [24h]
-http://dns.maxptv.net:2052/PEM264/1010/20461
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/f...est/scale-to-width-down/400?cb=20150706030147" group-title="Filmes e Séries",Drake e Josh [24h]
+http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
 
 #EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://ucsxiptv.com:8080/images/logos/bddec388639cce325f1bea98230a0f3f.png" group-title="Variedades",E!
-http://dns.maxptv.net:2052/PEM264/1010/172
-
-#EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://ucsxiptv.com:8080/images/logos/bddec388639cce325f1bea98230a0f3f.png" group-title="Variedades",E! [HD]
-http://dns.maxptv.net:2052/PEM264/1010/516
+https://brflu.walk-tv.com/5729/index.m3u8
 
 #EXTINF:-1 tvg-id="FASHIONTV" tvg-name="fashion tv hd" tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="Variedades",Fashion TV
-http://dns.maxptv.net:2052/PEM264/1010/48334
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="fashion tv hd" tvg-logo="https://imgur.com/RbR8KJ5.png" group-title="Variedades",Fashion TV [HD]
-http://dns.maxptv.net:2052/PEM264/1010/48333
-
-#EXTINF:-1 tvg-id="FILMARTS" tvg-name="Film&amp;Arts HD" tvg-logo="http://ucsxiptv.com:8080/images/5ddee86ee078484982a81ee35e8b3262.png" group-title="Filmes e Séries",Film & Arts
-http://dns.maxptv.net:2052/PEM264/1010/162
-
-#EXTINF:-1 tvg-id="FILMARTS" tvg-name="Film&amp;Arts HD" tvg-logo="http://ucsxiptv.com:8080/images/5ddee86ee078484982a81ee35e8b3262.png" group-title="Filmes e Séries",Film & Arts [HD]
-http://dns.maxptv.net:2052/PEM264/1010/163
-
-#EXTINF:-1 tvg-id="FISHTV" tvg-name="fish tv" tvg-logo="http://ucsxiptv.com:8080/images/logos/fdc7bb03493fd13921ba5750a8462990.png" group-title="Variedades",Fish TV
-http://dns.maxptv.net:2052/PEM264/1010/161
-
-#EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="Variedades",Food Network
-http://dns.maxptv.net:2052/PEM264/1010/159
-
-#EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="food network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="Variedades",Food Network [HD]
-http://dns.maxptv.net:2052/PEM264/1010/158
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e6avK76.png" group-title="Aberto",Fonte TV [FHD]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="futura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Aberto",Futura
-http://dns.maxptv.net:2052/PEM264/1010/210
-
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="futura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Futura.png" group-title="Aberto",Futura [HD]
-http://dns.maxptv.net:2052/PEM264/1010/211
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="Filmes e Séries",FX
-http://dns.maxptv.net:2052/PEM264/1010/144
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="Filmes e Séries",FX [HD]
-http://dns.maxptv.net:2052/PEM264/1010/145
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/731px-FX-logo.svg.png" group-title="Filmes e Séries",FX [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20275
-
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://ucsxiptv.com:8080/images/logos/573b89510f5c169545f5e669287efb11.png" group-title="Infantil",Gloob
-http://dns.maxptv.net:2052/PEM264/1010/140
-
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://ucsxiptv.com:8080/images/logos/573b89510f5c169545f5e669287efb11.png" group-title="Infantil",Gloob [HD]
-http://dns.maxptv.net:2052/PEM264/1010/530
-
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6e571d9ed578891c3f0f9af3241a492.png" group-title="Variedades",GNT
-http://dns.maxptv.net:2052/PEM264/1010/138
-
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6e571d9ed578891c3f0f9af3241a492.png" group-title="Variedades",GNT [HD]
-http://dns.maxptv.net:2052/PEM264/1010/139
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://ucsxiptv.com:8080/images/logos/1a76d3f9b40aceab00a7ea65d4f85687.png" group-title="Filmes e Séries",HBO
-http://dns.maxptv.net:2052/PEM264/1010/126
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://ucsxiptv.com:8080/images/logos/1a76d3f9b40aceab00a7ea65d4f85687.png" group-title="Filmes e Séries",HBO [HD]
-http://dns.maxptv.net:2052/PEM264/1010/131
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://ucsxiptv.com:8080/images/logos/1a76d3f9b40aceab00a7ea65d4f85687.png" group-title="Filmes e Séries",HBO [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/19527
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo2_m.png" group-title="Filmes e Séries",HBO 2
-http://dns.maxptv.net:2052/PEM264/1010/134
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo2_m.png" group-title="Filmes e Séries",HBO 2 [HD]
-http://dns.maxptv.net:2052/PEM264/1010/135
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://ucsxiptv.com:8080/images/logos/hbofamily.png" group-title="Filmes e Séries",HBO Family
-http://dns.maxptv.net:2052/PEM264/1010/132
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://ucsxiptv.com:8080/images/logos/hbofamily.png" group-title="Filmes e Séries",HBO Family [HD]
-http://dns.maxptv.net:2052/PEM264/1010/133
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://ucsxiptv.com:8080/images/logos/hbofamily.png" group-title="Filmes e Séries",HBO Family [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/19530
-
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="Filmes e Séries",HBO Mundi
-http://dns.maxptv.net:2052/PEM264/1010/112
-
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="Filmes e Séries",HBO Mundi [HD]
-http://dns.maxptv.net:2052/PEM264/1010/521
-
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="Filmes e Séries",HBO Mundi [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20316
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="https://i.imgur.com/vzPx4Fl.png" group-title="Filmes e Séries",HBO Plus
-http://dns.maxptv.net:2052/PEM264/1010/127
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="https://i.imgur.com/vzPx4Fl.png" group-title="Filmes e Séries",HBO Plus [HD]
-http://dns.maxptv.net:2052/PEM264/1010/128
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="https://i.imgur.com/vzPx4Fl.png" group-title="Filmes e Séries",HBO Plus [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/19529
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Filmes e Séries",HBO Pop
-http://dns.maxptv.net:2052/PEM264/1010/110
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Filmes e Séries",HBO Pop [HD]
-http://dns.maxptv.net:2052/PEM264/1010/111
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Filmes e Séries",HBO Pop [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/19532
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://ucsxiptv.com:8080/images/logos/hbo-signature.png" group-title="Filmes e Séries",HBO Signature
-http://dns.maxptv.net:2052/PEM264/1010/124
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://ucsxiptv.com:8080/images/logos/hbo-signature.png" group-title="Filmes e Séries",HBO Signature [HD]
-http://dns.maxptv.net:2052/PEM264/1010/531
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://ucsxiptv.com:8080/images/logos/hbo-signature.png" group-title="Filmes e Séries",HBO Signature [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/19531
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://ucsxiptv.com:8080/images/logos/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="Filmes e Séries",HBO Xtreme
-http://dns.maxptv.net:2052/PEM264/1010/113
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://ucsxiptv.com:8080/images/logos/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="Filmes e Séries",HBO Xtreme [HD]
-http://dns.maxptv.net:2052/PEM264/1010/520
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://ucsxiptv.com:8080/images/logos/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="Filmes e Séries",HBO Xtreme [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20317
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="hgtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Variedades",HGTV
-http://dns.maxptv.net:2052/PEM264/1010/192
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="hgtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Variedades",HGTV [HD]
-http://dns.maxptv.net:2052/PEM264/1010/193
+http://cdn.connectbr.com.br/Futura/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel
-http://dns.maxptv.net:2052/PEM264/1010/122
+https://brflu.walk-tv.com/5815/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel [HD]
-http://dns.maxptv.net:2052/PEM264/1010/532
-
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-5.png" group-title="Variedades",History Channel [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20231
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png" group-title="Variedades",History Channel 2
-http://dns.maxptv.net:2052/PEM264/1010/523
+https://brflu.walk-tv.com/5814/index.m3u8
 
-#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png" group-title="Variedades",History Channel 2 [HD]
-http://dns.maxptv.net:2052/PEM264/1010/20260
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xDbDl0.png" group-title="Variedades",Jovem Pan Pânico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/640px-History2Logo2019.png" group-title="Variedades",History Channel 2 [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/137
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-name="Kenan &amp; Kel" tvg-logo="http://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/solidLogoPNG.png" group-title="Comédia",Kenan & Kel [24h]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cc2a1cd0-5768-11ec-bbb1-31a384f93dc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9367b8bf-bc68-44c4-81ee-dc4fb8a62f65&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/kickduble.png" group-title="Infantil",Kick Buttowski [24h]
-http://dns.maxptv.net:2052/PEM264/1010/113077
+#EXTINF:-1 tvg-logo="https://ricardocostadigital.com.br/wp-content/uploads/2022/04/logo.png" group-title="Variedades",Mais Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6439
 
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="lifetime" tvg-logo="http://ucsxiptv.com:8080/images/logos/46309dd5fe1e4335d4b03b221096f7c4.png" group-title="Filmes e Séries",Lifetime
-http://dns.maxptv.net:2052/PEM264/1010/118
+#EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="Variedades",Manual do Mundo [24h]
+http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8
 
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="lifetime" tvg-logo="http://ucsxiptv.com:8080/images/logos/46309dd5fe1e4335d4b03b221096f7c4.png" group-title="Filmes e Séries",Lifetime [HD]
-http://dns.maxptv.net:2052/PEM264/1010/522
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-name="MasterChef" tvg-logo="https://seeklogo.com/images/M/masterchef-logo-4D8D9089EB-seeklogo.com.png" group-title="Reality",MasterChef
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Animes e Geek",Loading TV
-http://dns.maxptv.net:2052/PEM264/1010/48351
+#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-name="MasterChef" tvg-logo="https://seeklogo.com/images/M/masterchef-logo-4D8D9089EB-seeklogo.com.png" group-title="Reality",MasterChef
+https://jmp2.uk/PlutoTV/6077045b6031bd00078de127-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="Animes e Geek",Loading TV [HD]
-http://dns.maxptv.net:2052/PEM264/1010/48350
+#EXTINF:-1 tvg-id="5f6108d8cc331900075e98e4" tvg-name="MTV Are you the One?" tvg-logo="https://i.imgur.com/oHVMcJ9.png" group-title="Reality",MTV Are you the One?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix" tvg-logo="http://ucsxiptv.com:8080/images/logos/de800cab79053301d589eccabb730022.png" group-title="Filmes e Séries",MegaPix
-http://dns.maxptv.net:2052/PEM264/1010/108
+#EXTINF:-1 tvg-id="6047fbdbbb776a0007e7f2ff" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/8uGhB6m.png" group-title="Música",MTV Biggest Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix" tvg-logo="http://ucsxiptv.com:8080/images/logos/de800cab79053301d589eccabb730022.png" group-title="Filmes e Séries",MegaPix [HD]
-http://dns.maxptv.net:2052/PEM264/1010/109
+#EXTINF:-1 tvg-id="626c2a3502d84a0007cec817" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Reality",MTV Catfish
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://material.asset.catchplay.com/NBC-IN-001-A0184/artworks/posters/NBC-IN-001-A0184-P544.jpg" group-title="Comédia",Mr. Bean 1 [24h]
-http://dns.maxptv.net:2052/PEM264/1010/546
+#EXTINF:-1 tvg-id="61a528267e1b8b0007357920" tvg-name="MTV Com o Ex" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="Reality",MTV De Férias com o Ex
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow" tvg-logo="http://ucsxiptv.com:8080/images/logos/3354389ede7590b69b90f29aa3bf4647.png" group-title="Comédia",Multishow
-http://dns.maxptv.net:2052/PEM264/1010/104
+#EXTINF:-1 tvg-id="620fdc7d8a36fc000710e3ba" tvg-name="MTV Jovens e Mães" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="Reality",MTV Jovens e Mães
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow" tvg-logo="http://ucsxiptv.com:8080/images/logos/3354389ede7590b69b90f29aa3bf4647.png" group-title="Comédia",Multishow [HD]
-http://dns.maxptv.net:2052/PEM264/1010/105
+#EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-name="MTV Shore" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="Reality",MTV Shore
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-name="MTV Spankin' New" tvg-logo="https://i.imgur.com/jXhTsl7.png" group-title="Música",MTV Spankin' New
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/500px-National-Geographic-Logo.svg.png" group-title="Variedades",National Geographic
-http://dns.maxptv.net:2052/PEM264/1010/98
+https://brflu.walk-tv.com/5777/index.m3u8
 
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/500px-National-Geographic-Logo.svg.png" group-title="Variedades",National Geographic [HD]
-http://dns.maxptv.net:2052/PEM264/1010/99
+#EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-name="Nick Jr. Club" tvg-logo="https://www.nickjrfanclub.uk/wp-content/uploads/2019/09/fanclublogo-1024x313.png" group-title="Infantil",Nick Jr. Fan Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-name="Nick Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Infantil",Nick Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Infantil",Nickelodeon
-http://dns.maxptv.net:2052/PEM264/1010/92
+https://brflu.walk-tv.com/5825/index.m3u8
 
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Infantil",Nickelodeon [HD]
-http://dns.maxptv.net:2052/PEM264/1010/93
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Infantil",Nickelodeon [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20313
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo
-http://dns.maxptv.net:2052/PEM264/1010/48338
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="Infantil",Nickelodeon
+https://cdn2.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo [HD]
-http://dns.maxptv.net:2052/PEM264/1010/48339
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/183.png" group-title="Infantil",O Incrível Mundo de Gumball 1 [24h]
-http://dns.maxptv.net:2052/PEM264/1010/40807
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wEOoyzq.png" group-title="Religioso",Novo Tempo SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="Esporte",Off
-http://dns.maxptv.net:2052/PEM264/1010/208
+https://brflu.walk-tv.com/5826/index.m3u8
 
-#EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo.png" group-title="Esporte",Off [HD]
-http://dns.maxptv.net:2052/PEM264/1010/209
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUskfXW3jNWEkti-n26ifrkyGuSg6zRYu-zg&s" group-title="Reality",Pesadelo na Cozinha [24h]
+http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/muqyuiranas.png" group-title="Reality",Os Muquiranas [24h]
-http://dns.maxptv.net:2052/PEM264/1010/113090
+#EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-name="Os Arquivos do FBI" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Variedades",Pluto TV Arquivos Forenses
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q" group-title="Aberto",Polishop [HD]
-http://dns.maxptv.net:2052/PEM264/1010/49113
+#EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-name="Assombrações" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Variedades",Pluto TV Assombrações
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV Rá Tim Bum HD" tvg-logo="https://i.imgur.com/dO4krB3.png" group-title="Infantil",Rá Tim Bum
-http://dns.maxptv.net:2052/PEM264/1010/69
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-name="Pluto TV Cine Clássicos" tvg-logo="https://i.imgur.com/bRKFjwD.png" group-title="Filmes e Séries",Pluto TV Cine Clássicos
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
 
-#EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV Rá Tim Bum HD" tvg-logo="https://i.imgur.com/dO4krB3.png" group-title="Infantil",Rá Tim Bum [HD]
-http://dns.maxptv.net:2052/PEM264/1010/70
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-name="Pluto TV Cine Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/solidLogoPNG.png" group-title="Filmes e Séries",Pluto TV Cine Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CANALSONY" tvg-name="canal sony" tvg-logo="http://ucsxiptv.com:8080/images/logos/1024px-Canal_Sony_HD_logo.png" group-title="Filmes e Séries",Sony
-http://dns.maxptv.net:2052/PEM264/1010/52
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/solidLogoPNG.png" group-title="Filmes e Séries",Pluto TV Cine Comédia Romântica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CANALSONY" tvg-name="canal sony" tvg-logo="http://ucsxiptv.com:8080/images/logos/1024px-Canal_Sony_HD_logo.png" group-title="Filmes e Séries",Sony [HD]
-http://dns.maxptv.net:2052/PEM264/1010/53
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Filmes e Séries",Pluto TV Cine Crime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="space" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="Filmes e Séries",Space
-http://dns.maxptv.net:2052/PEM264/1010/50
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1ic7Kw_6pz0XQkkpVFxsLYH2dOYGnM_XKA&s" group-title="Filmes e Séries",Pluto TV Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="space" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="Filmes e Séries",Space [HD]
-http://dns.maxptv.net:2052/PEM264/1010/51
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhlBeaCAqvl1Ouf0g7WDnpsFL7II94YG-QA&s" group-title="Filmes e Séries",Pluto TV Cine Família
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=eabb34b1-5995-4c43-8147-d3f8d09696f2&clientModelNumber=na&deviceDNT=false&deviceId=eabb34b1-5995-4c43-8147-d3f8d09696f2&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=BR&serverSideAds=true&sessionID=30971196-4529-11eb-b866-0242ac110002&sid=30971196-4529-11eb-b866-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action
-http://dns.maxptv.net:2052/PEM264/1010/34
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="Filmes e Séries",Pluto TV Cine Inspiração
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action [HD]
-http://dns.maxptv.net:2052/PEM264/1010/35
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="Pluto TV Cine Romance" tvg-logo="https://i.imgur.com/LoiqpXA.png" group-title="Filmes e Séries",Pluto TV Cine Romance
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f84953a8-0c9c-11ec-8983-0242ac110003&sid=f84953a8-0c9c-11ec-8983-0242ac110003&userId=
 
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20247
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0WV4Y1KkXnhUgbh6ZpdlFhyygfMzlho3ETw&s" group-title="Filmes e Séries",Pluto TV Cine Sucessos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult" tvg-logo="http://ucsxiptv.com:8080/images/logos/0964becaa0cbeae00b2b57c28f815cd2.png" group-title="Filmes e Séries",Telecine Cult
-http://dns.maxptv.net:2052/PEM264/1010/32
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8u-VCkrGx_ZXvkKzSRsxJO_ZJmKlYsh5Nfg&s" group-title="Filmes e Séries",Pluto TV Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=aa3491bc-d231-4643-b51b-993c04890e52&clientModelNumber=na&deviceDNT=false&deviceId=aa3491bc-d231-4643-b51b-993c04890e52&deviceLat=-22.8970&deviceLon=-47.0444&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=57.0.2987.132&marketingRegion=BR&serverSideAds=true&sessionID=75189c32-4fbb-11eb-a8d7-0242ac110002&sid=75189c32-4fbb-11eb-a8d7-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult" tvg-logo="http://ucsxiptv.com:8080/images/logos/0964becaa0cbeae00b2b57c28f815cd2.png" group-title="Filmes e Séries",Telecine Cult [HD]
-http://dns.maxptv.net:2052/PEM264/1010/33
+#EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-name="Pluto TV Comédia" tvg-logo="https://i.imgur.com/B6iSUoo.png" group-title="Comédia",Pluto TV Comédia
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
 
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult" tvg-logo="http://ucsxiptv.com:8080/images/logos/0964becaa0cbeae00b2b57c28f815cd2.png" group-title="Filmes e Séries",Telecine Cult [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20246
+#EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Comédia",Pluto TV Comedy Central
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun
-http://dns.maxptv.net:2052/PEM264/1010/30
+#EXTINF:-1 tvg-id="64c815e8a1c6130008fef928" tvg-name="Pluto TV Gaming por Ubisoft" tvg-logo="http://images.pluto.tv/channels/62e01661a3e6270007f4ec9e/colorLogoPNG.png" group-title="Animes e Geek",Pluto TV Gaming por Ubisoft
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun [HD]
-http://dns.maxptv.net:2052/PEM264/1010/31
+#EXTINF:-1 tvg-id="605cc4de7ff3c50007be0f65" tvg-name="Pluto TV Geek e Tech" tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png" group-title="Animes e Geek",Pluto TV Geek & Tech
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20248
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-name="Pluto TV Natureza" tvg-logo="https://i.imgur.com/RuyQQ6M.png" group-title="Variedades",Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="http://ucsxiptv.com:8080/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="Filmes e Séries",Telecine Pipoca
-http://dns.maxptv.net:2052/PEM264/1010/28
+#EXTINF:-1 tvg-id="6048fc47a44e540007745d2b" tvg-name="RedeTV!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Aberto",Pluto TV Rede TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="http://ucsxiptv.com:8080/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="Filmes e Séries",Telecine Pipoca [HD]
-http://dns.maxptv.net:2052/PEM264/1010/29
+#EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-name="Pluto TV Retrô" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="Variedades",Pluto TV Retrô
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="http://ucsxiptv.com:8080/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="Filmes e Séries",Telecine Pipoca [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20230
+#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-name="Pluto TV Documentários" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Variedades",Pluto TV Variedades
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium" tvg-logo="http://ucsxiptv.com:8080/images/logos/b639bd1795267470d8d8dfd597df0adf.png" group-title="Filmes e Séries",Telecine Premium
-http://dns.maxptv.net:2052/PEM264/1010/26
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q" group-title="Aberto",Polishop
+http://186.226.215.132:80/carlos123/carlos123/107.m3u8
 
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium" tvg-logo="http://ucsxiptv.com:8080/images/logos/b639bd1795267470d8d8dfd597df0adf.png" group-title="Filmes e Séries",Telecine Premium [HD]
-http://dns.maxptv.net:2052/PEM264/1010/27
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8bDYyO.png" group-title="Variedades",Receitas Fast
+http://186.226.215.132:80/carlos123/carlos123/480.m3u8
 
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium" tvg-logo="http://ucsxiptv.com:8080/images/logos/b639bd1795267470d8d8dfd597df0adf.png" group-title="Filmes e Séries",Telecine Premium [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20228
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="record news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJDXlz2QYoeY1xoZoR0UQyM3tfDfVzwyMug&s" group-title="Notícias",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch
-http://dns.maxptv.net:2052/PEM264/1010/24
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="record news" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUJDXlz2QYoeY1xoZoR0UQyM3tfDfVzwyMug&s" group-title="Notícias",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4588
 
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch [HD]
-http://dns.maxptv.net:2052/PEM264/1010/25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="Aberto",Rede Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4582
 
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20229
+#EXTINF:-1 tvg-id="REDETV" tvg-name="redetv!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Aberto",Rede TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4555
 
-#EXTINF:-1 tvg-logo="https://portalovertube.com/wp-content/uploads/2014/08/big-bang-theory.png" group-title="Comédia",The Big Bang Theory 1 [24h]
-http://dns.maxptv.net:2052/PEM264/1010/543
+#EXTINF:-1 tvg-id="REDETV" tvg-name="redetv!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Aberto",Rede TV Pampa [HD]
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://ucsxiptv.com:8080/images/logos/2a07c343415b76bf302fdbea397428ed.png" group-title="Filmes e Séries",TNT [HD]
-http://dns.maxptv.net:2052/PEM264/1010/13873
+#EXTINF:-1 tvg-id="REDETV" tvg-name="redetv!" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Aberto",Rede TV Tocantins [HD]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://ucsxiptv.com:8080/images/logos/2a07c343415b76bf302fdbea397428ed.png" group-title="Filmes e Séries",TNT [HD]
-http://dns.maxptv.net:2052/PEM264/1010/21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Aberto",Rede UTV [HD]
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT Novelas" tvg-logo="http://ucsxiptv.com:8080/images/tntnovel.png" group-title="Novelas",TNT Novelas
-http://dns.maxptv.net:2052/PEM264/1010/122057
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Redevida-logo.png" group-title="Religioso",Rede Vida [HD]
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT Novelas" tvg-logo="http://ucsxiptv.com:8080/images/tntnovel.png" group-title="Novelas",TNT Novelas [HD]
-http://dns.maxptv.net:2052/PEM264/1010/122056
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Infantil",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="tnt séries hd" tvg-logo="https://i.imgur.com/vH2tkQt.png" group-title="Filmes e Séries",TNT Séries
-http://dns.maxptv.net:2052/PEM264/1010/18
+#EXTINF:-1 tvg-id="RITTV" tvg-name="rit tv" tvg-logo="https://numerodocanal.com/wp-content/uploads/2018/12/numero-rit-tv.png" group-title="Religioso",RIT TV
+http://186.226.215.132:80/carlos123/carlos123/70.m3u8
 
-#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="tnt séries hd" tvg-logo="https://i.imgur.com/vH2tkQt.png" group-title="Filmes e Séries",TNT Séries [HD]
-http://dns.maxptv.net:2052/PEM264/1010/517
+#EXTINF:-1 tvg-id="SABORARTE" tvg-name="Sabor &amp; Arte HD" tvg-logo="https://imgur.com/VKkajA6.png" group-title="Variedades",Sabor & Arte
+https://cdn-2.nxplay.com.br/SABOR_E_ARTE/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="tnt séries hd" tvg-logo="https://i.imgur.com/vH2tkQt.png" group-title="Filmes e Séries",TNT Séries [FHD]
-http://dns.maxptv.net:2052/PEM264/1010/20269
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://ucsxiptv.com:8080/images/3e58eed5ec44cc7c2563759de309af32.png" group-title="Aberto",SBT BA [HD]
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Comédia",Todo Mundo Odeia o Chris 2 [24h]
-http://dns.maxptv.net:2052/PEM264/1010/317
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Aberto",Sertão TV [HD]
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Infantil",Tom & Jerry 2 [24h]
-http://dns.maxptv.net:2052/PEM264/1010/557
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Novelas",Sony Novelas
+https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="tooncast" tvg-logo="http://ucsxiptv.com:8080/images/logos/1d73e68337942405f1095780c2a21e27.png" group-title="Infantil",Tooncast
-http://dns.maxptv.net:2052/PEM264/1010/16
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9784ae40-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c4b7db2-88f3-4c00-8114-c9f5bcca8459&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="tooncast" tvg-logo="http://ucsxiptv.com:8080/images/logos/1d73e68337942405f1095780c2a21e27.png" group-title="Infantil",Tooncast [HD]
-http://dns.maxptv.net:2052/PEM264/1010/17
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil
+http://186.226.215.132:80/carlos123/carlos123/168.m3u8
 
-#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/warner-verde.png" group-title="Filmes e Séries",Warner Channel
-http://dns.maxptv.net:2052/PEM264/1010/3
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil
+https://tastemadept16intl-xumobrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/warner-verde.png" group-title="Filmes e Séries",Warner Channel [HD]
-http://dns.maxptv.net:2052/PEM264/1010/4
+#EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil [FHD]
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Animes e Geek",Woohoo
-http://dns.maxptv.net:2052/PEM264/1010/206
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n232OSq.png" group-title="Aberto",Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="https://i.imgur.com/inv5Bal.png" group-title="Animes e Geek",Woohoo [HD]
-http://dns.maxptv.net:2052/PEM264/1010/207
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1280px-Terra_Viva_logo.svg.png" group-title="Aberto",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="tlc" tvg-logo="http://ucsxiptv.com:8080/images/logos/0092aa7d6d8fb52c83803da249ec5652.png" group-title="Filmes e Séries",TLC [HD]
+https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-name="Tokusato" tvg-logo="https://i.imgur.com/Athwean.png" group-title="Animes e Geek",Tokusato
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-name="Turma da Mônica" tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="Infantil",Turma da Mônica [24h]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-name="tv aparecida" tvg-logo="http://ucsxiptv.com:8080/images/7e3c2ab1c99b0f45fd5e4c56754f2a78.png" group-title="Religioso",TV Aparecida [FHD]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/2560px-TV_Brasil_logo_2019.svg.png" group-title="Aberto",TV Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4554
+
+#EXTINF:-1 tvg-id="TVCULTURA" tvg-name="cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Aberto",TV Cultura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="Religioso",TV Evangelizar
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4568
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTgGvNJ.png" group-title="Aberto",TV Master [HD]
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Aberto",TV MAX [HD]
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/REsiJz6.png" group-title="Animes e Geek",Ubisoft TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4612
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/famosos/images/e/e3/Vocesabia.jpg/revision/latest?cb=20210526105439&path-prefix=pt-br" group-title="Variedades",Você Sabia [24h]
+http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8

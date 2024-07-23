@@ -2,9 +2,6 @@
 
 ############################################################################ Atualizado: 23/07/2024
 
-#EXTINF:-1 tvg-id="" tvg-name="24H 3 PALAVRINHAS" tvg-logo="http://www.rochagalaxia.live/logos/3palavrinhas250.png" group-title="CANAIS | 24 HORAS INFANTIS",3 Palavrinhas [24h]
-http://conexaoonline.top:80/ytyedf/rmdjwj/373.ts
-
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E
 http://conexaoonline.top:80/ytyedf/rmdjwj/210.ts
 
@@ -14,20 +11,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234864.ts
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/332.ts
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234863.ts
-
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/32.ts
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234861.ts
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD²" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E [FHD]
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD²" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="CANAIS | FILMES E SERIES",A&E [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234862.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIN" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms" group-title="CANAIS | FILMES E SERIES",Adult Swim
-http://conexaoonline.top:80/ytyedf/rmdjwj/2138.ts
 
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS SD²" tvg-logo="https://www.rochagalaxia.live/logos/agromais250.png" group-title="CANAIS | NOTICIAS",AgroMais
 http://conexaoonline.top:80/ytyedf/rmdjwj/234867.ts
@@ -35,7 +26,7 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234867.ts
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS HD²" tvg-logo="https://www.rochagalaxia.live/logos/agromais250.png" group-title="CANAIS | NOTICIAS",AgroMais [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234866.ts
 
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS FHD²" tvg-logo="https://www.rochagalaxia.live/logos/agromais250.png" group-title="CANAIS | NOTICIAS",AgroMais [FHD]
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGRO MAIS FHD²" tvg-logo="https://www.rochagalaxia.live/logos/agromais250.png" group-title="CANAIS | NOTICIAS",Agro Canal [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234865.ts
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC
@@ -44,14 +35,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/367.ts
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD²" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC
 http://conexaoonline.top:80/ytyedf/rmdjwj/234868.ts
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC [HD]
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/330.ts
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="CANAIS | FILMES E SERIES",AMC [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/175.ts
-
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",Animal Planet
-http://conexaoonline.top:80/ytyedf/rmdjwj/195.ts
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",Animal Planet
 http://conexaoonline.top:80/ytyedf/rmdjwj/234872.ts
@@ -71,7 +59,7 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234869.ts
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="CANAIS | DOCUMENTARIOS",Animal Planet [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234870.ts
 
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K H265" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Canais | UHD 4K",Animal Planet [4K]
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K H265" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Canais | UHD 4K",Animal Planet [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/311509.ts
 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="CANAIS | VARIEDADES",Arte 1
@@ -80,13 +68,10 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2198.ts
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 SD²" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="CANAIS | VARIEDADES",Arte 1
 http://conexaoonline.top:80/ytyedf/rmdjwj/234876.ts
 
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="CANAIS | VARIEDADES",Arte 1 [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/333.ts
-
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 HD²" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="CANAIS | VARIEDADES",Arte 1 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234875.ts
 
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="CANAIS | VARIEDADES",Arte 1 [FHD]
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="CANAIS | VARIEDADES",Arte 1 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/78.ts
 
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE1 FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="CANAIS | VARIEDADES",Arte 1 [FHD]
@@ -107,7 +92,7 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234880.ts
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/329.ts
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN [HD]
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234879.ts
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN [FHD]
@@ -116,28 +101,16 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/34.ts
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265²" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234877.ts
 
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD²" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="CANAIS | FILMES E SERIES",AXN [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234878.ts
-
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K H265" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Canais | UHD 4K",AXN [4K]
-http://conexaoonline.top:80/ytyedf/rmdjwj/311496.ts
-
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="http://www.rochagalaxia.live/logos/BABY%20TV.png" group-title="CANAIS | INFANTIS",Baby TV
 http://conexaoonline.top:80/ytyedf/rmdjwj/188.ts
 
 #EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV SD²" tvg-logo="http://www.rochagalaxia.live/logos/BABY%20TV.png" group-title="CANAIS | INFANTIS",Baby TV
 http://conexaoonline.top:80/ytyedf/rmdjwj/234882.ts
 
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="http://www.rochagalaxia.live/logos/BABY%20TV.png" group-title="CANAIS | INFANTIS",Baby TV [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/2200.ts
-
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV HD²" tvg-logo="http://www.rochagalaxia.live/logos/BABY%20TV.png" group-title="CANAIS | INFANTIS",Baby TV [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234881.ts
-
-#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND SD" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",Band
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND SD" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",Band [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/189.ts
 
-#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND HD" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",Band [HD]
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND HD" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",Band [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/264.ts
 
 #EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="CANAIS | ABERTOS",Band [FHD]
@@ -146,10 +119,7 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/35.ts
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="CANAIS | NOTICIAS",Band News
 http://conexaoonline.top:80/ytyedf/rmdjwj/2201.ts
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="CANAIS | NOTICIAS",Band News
-http://conexaoonline.top:80/ytyedf/rmdjwj/234888.ts
-
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="CANAIS | NOTICIAS",Band News [HD]
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="CANAIS | NOTICIAS",Band News [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/335.ts
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="CANAIS | NOTICIAS",Band News [HD]
@@ -164,9 +134,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234885.ts
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD²" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="CANAIS | NOTICIAS",Band News [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234886.ts
 
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP 4K H265" tvg-logo="http://www.rochagalaxia.live/logos/bandlogo480.png" group-title="Canais | UHD 4K",Band SP [4K]
-http://conexaoonline.top:80/ytyedf/rmdjwj/311499.ts
-
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="CANAIS | MUSICA",BIS
 http://conexaoonline.top:80/ytyedf/rmdjwj/190.ts
 
@@ -176,7 +143,7 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234896.ts
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="CANAIS | MUSICA",BIS [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/325.ts
 
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD²" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="CANAIS | MUSICA",BIS [HD]
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD²" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="CANAIS | MUSICA",BIS [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234895.ts
 
 #EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD H265" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="CANAIS | MUSICA",BIS [FHD]

@@ -17,9 +17,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/32.ts
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234861.ts
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234862.ts
-
 #EXTINF:-1 tvg-logo="https://www.rochagalaxia.live/logos/agromais250.png" group-title="Aberto",AgroMais
 http://conexaoonline.top:80/ytyedf/rmdjwj/234867.ts
 
@@ -56,29 +53,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/33.ts
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Variedades",Animal Planet [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234869.ts
 
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Variedades",Animal Planet [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234870.ts
-
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Variedades",Animal Planet [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/311509.ts
-
 #EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1
 http://conexaoonline.top:80/ytyedf/rmdjwj/2198.ts
-
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1
-http://conexaoonline.top:80/ytyedf/rmdjwj/234876.ts
-
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1 [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234875.ts
 
 #EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/78.ts
 
 #EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234873.ts
-
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234874.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkI2JqvCvx-CZPZNlXM2uBzJBHx6ByKJCmRg&s" group-title="Comédia",As Visões da Raven [24h]
 http://conexaoonline.top:80/ytyedf/rmdjwj/233892.ts
@@ -96,15 +78,12 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/329.ts
 http://conexaoonline.top:80/ytyedf/rmdjwj/234879.ts
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Filmes e Séries",AXN [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/34.ts
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Filmes e Séries",AXN [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234877.ts
 
-#EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="http://www.rochagalaxia.live/logos/BABY%20TV.png" group-title="Infantil",Baby TV
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="Infantil",Baby TV
 http://conexaoonline.top:80/ytyedf/rmdjwj/188.ts
 
-#EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="http://www.rochagalaxia.live/logos/BABY%20TV.png" group-title="Infantil",Baby TV
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="Infantil",Baby TV
 http://conexaoonline.top:80/ytyedf/rmdjwj/234882.ts
 
 #EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Aberto",Band [HD]
@@ -119,9 +98,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/35.ts
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="Notícias",Band News
 http://conexaoonline.top:80/ytyedf/rmdjwj/2201.ts
 
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="Notícias",Band News [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/335.ts
-
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="Notícias",Band News [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234887.ts
 
@@ -130,12 +106,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/36.ts
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="Notícias",Band News [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234885.ts
-
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="Notícias",Band News [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234886.ts
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="Música",BIS
-http://conexaoonline.top:80/ytyedf/rmdjwj/190.ts
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="Música",BIS
 http://conexaoonline.top:80/ytyedf/rmdjwj/234896.ts
@@ -149,22 +119,13 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234895.ts
 #EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="Música",BIS [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/127.ts
 
-#EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="Música",BIS [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234893.ts
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="Música",BIS [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234894.ts
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/boavontadetv.png" group-title="Religioso",Boa Vontade TV [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/286153.ts
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Infantil",Bob Esponja [24h]
 http://conexaoonline.top:80/ytyedf/rmdjwj/27225.ts
 
 #EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://www.rochagalaxia.live/logos/CANAL%20BRASIL.jpg" group-title="Filmes e Séries",Canal Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/199.ts
 
-#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://www.rochagalaxia.live/logos/CANAL%20BRASIL.jpg" group-title="Filmes e Séries",Canal Brasil [HD]
+#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://www.rochagalaxia.live/logos/CANAL%20BRASIL.jpg" group-title="Filmes e Séries",Canal Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/234903.ts
 
 #EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://www.rochagalaxia.live/logos/CANAL%20BRASIL.jpg" group-title="Filmes e Séries",Canal Brasil [FHD]
@@ -173,17 +134,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/80.ts
 #EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://rochagalaxia.live/logos/canaldoboi250.png" group-title="Aberto",Canal do Boi
 http://conexaoonline.top:80/ytyedf/rmdjwj/234907.ts
 
-#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://rochagalaxia.live/logos/canaldoboi250.png" group-title="Aberto",Canal do Boi [HD]
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://rochagalaxia.live/logos/canaldoboi250.png" group-title="Aberto",Canal do Boi
 http://conexaoonline.top:80/ytyedf/rmdjwj/234906.ts
-
-#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://rochagalaxia.live/logos/canaldoboi250.png" group-title="Aberto",Canal do Boi [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234905.ts
-
-#EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://rochagalaxia.live/logos/cancaonova.png" group-title="Religioso",Canção Nova
-http://conexaoonline.top:80/ytyedf/rmdjwj/212.ts
-
-#EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://rochagalaxia.live/logos/cancaonova.png" group-title="Religioso",Canção Nova
-http://conexaoonline.top:80/ytyedf/rmdjwj/234924.ts
 
 #EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://rochagalaxia.live/logos/cancaonova.png" group-title="Religioso",Canção Nova
 http://conexaoonline.top:80/ytyedf/rmdjwj/286150.ts
@@ -191,19 +143,13 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/286150.ts
 #EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://rochagalaxia.live/logos/cancaonova.png" group-title="Religioso",Canção Nova [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234923.ts
 
-#EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://rochagalaxia.live/logos/cancaonova.png" group-title="Religioso",Canção Nova [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/2040.ts
-
-#EXTINF:-1 tvg-id="CANÇÃO NOVA HD" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://rochagalaxia.live/logos/cancaonova.png" group-title="Religioso",Canção Nova [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234922.ts
-
 #EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network
 http://conexaoonline.top:80/ytyedf/rmdjwj/239.ts
 
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234927.ts
 
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network [HD]
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network
 http://conexaoonline.top:80/ytyedf/rmdjwj/338.ts
 
 #EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network [FHD]
@@ -215,37 +161,19 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234925.ts
 #EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234926.ts
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito
 http://conexaoonline.top:80/ytyedf/rmdjwj/216.ts
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito
 http://conexaoonline.top:80/ytyedf/rmdjwj/238.ts
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito
-http://conexaoonline.top:80/ytyedf/rmdjwj/234900.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito
-http://conexaoonline.top:80/ytyedf/rmdjwj/235215.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito [HD]
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/265.ts
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234899.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito [HD]
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235214.ts
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/79.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234897.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234898.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="http://www.rochagalaxia.live/logos/BOOMERANG.png" group-title="Infantil",Cartoonito [FHD]
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235213.ts
 
 #EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="Infantil",Castelo Rá Tim Bum [24h]
@@ -260,29 +188,17 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/403.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/68/El_Chavo_logo_%28Brazilian_Portuguese%29.png" group-title="Comédia",Chaves 2 [24h]
 http://conexaoonline.top:80/ytyedf/rmdjwj/27163.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/68/El_Chavo_logo_%28Brazilian_Portuguese%29.png" group-title="Comédia",Chaves 3 [24h]
-http://conexaoonline.top:80/ytyedf/rmdjwj/42051.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/68/El_Chavo_logo_%28Brazilian_Portuguese%29.png" group-title="Comédia",Chaves 4 [24h]
-http://conexaoonline.top:80/ytyedf/rmdjwj/59616.ts
-
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax
 http://conexaoonline.top:80/ytyedf/rmdjwj/217.ts
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/339.ts
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234930.ts
-
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/81.ts
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234928.ts
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234929.ts
 
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/19715.ts
@@ -291,16 +207,10 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/19715.ts
 http://conexaoonline.top:80/ytyedf/rmdjwj/234934.ts
 
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/19716.ts
-
-#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234933.ts
 
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/19651.ts
-
-#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234931.ts
 
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234932.ts
@@ -314,12 +224,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235211.ts
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central
 http://conexaoonline.top:80/ytyedf/rmdjwj/198.ts
 
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central
-http://conexaoonline.top:80/ytyedf/rmdjwj/234942.ts
-
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/341.ts
-
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234941.ts
 
@@ -329,46 +233,40 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/40.ts
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234939.ts
 
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central [FHD]
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234940.ts
-
-#EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta!
-http://conexaoonline.top:80/ytyedf/rmdjwj/200.ts
 
 #EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta!
 http://conexaoonline.top:80/ytyedf/rmdjwj/234960.ts
 
-#EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta! [HD]
+#EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta! [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234959.ts
 
 #EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta! [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234957.ts
 
-#EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta! [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234958.ts
-
 #EXTINF:-1 tvg-logo="http://www.rochagalaxia.live/logos/desenhosbliblicos250.png" group-title="Religioso",Desenhos Bíblicos [24h]
 http://conexaoonline.top:80/ytyedf/rmdjwj/59680.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Variedades",Discovery Channel
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel
 http://conexaoonline.top:80/ytyedf/rmdjwj/222.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Variedades",Discovery Channel
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel
 http://conexaoonline.top:80/ytyedf/rmdjwj/234804.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Variedades",Discovery Channel [HD]
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/342.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Variedades",Discovery Channel [HD]
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234803.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Variedades",Discovery Channel [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/114.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Variedades",Discovery Channel [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234801.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Variedades",Discovery Channel [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234802.ts
 
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health
@@ -392,64 +290,64 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234805.ts
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234806.ts
 
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Variedades",Discovery ID
+#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID
 http://conexaoonline.top:80/ytyedf/rmdjwj/2088.ts
 
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Variedades",Discovery ID
+#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID
 http://conexaoonline.top:80/ytyedf/rmdjwj/235015.ts
 
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Variedades",Discovery ID [HD]
+#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/369.ts
 
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Variedades",Discovery ID [HD]
+#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235014.ts
 
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Variedades",Discovery ID [FHD]
+#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/282.ts
 
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Variedades",Discovery ID [FHD]
+#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235012.ts
 
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://www.rochagalaxia.live/logos/Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="Variedades",Discovery ID [FHD]
+#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235013.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="Infantil",Discovery Kids
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids
 http://conexaoonline.top:80/ytyedf/rmdjwj/224.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="Infantil",Discovery Kids
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids
 http://conexaoonline.top:80/ytyedf/rmdjwj/234812.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="Infantil",Discovery Kids [HD]
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/267.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="Infantil",Discovery Kids [HD]
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234811.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="Infantil",Discovery Kids [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/83.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="Infantil",Discovery Kids [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234809.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20KIDS.jpg" group-title="Infantil",Discovery Kids [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234810.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="Variedades",Discovery Science
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science
 http://conexaoonline.top:80/ytyedf/rmdjwj/234816.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="Variedades",Discovery Science [HD]
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/344.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="Variedades",Discovery Science [HD]
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234815.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="Variedades",Discovery Science [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/121.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="Variedades",Discovery Science [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234813.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYSCIENCE.jpg" group-title="Variedades",Discovery Science [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234814.ts
 
 #EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="Variedades",Discovery Theater
@@ -470,43 +368,43 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234817.ts
 #EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="Variedades",Discovery Theater [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234818.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" group-title="Variedades",Discovery Turbo
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo
 http://conexaoonline.top:80/ytyedf/rmdjwj/2047.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" group-title="Variedades",Discovery Turbo
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo
 http://conexaoonline.top:80/ytyedf/rmdjwj/234824.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" group-title="Variedades",Discovery Turbo [HD]
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/268.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" group-title="Variedades",Discovery Turbo [HD]
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234823.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" group-title="Variedades",Discovery Turbo [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/41.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" group-title="Variedades",Discovery Turbo [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234821.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERYTURBO.jpg" group-title="Variedades",Discovery Turbo [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234822.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="Variedades",Discovery World
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World
 http://conexaoonline.top:80/ytyedf/rmdjwj/234828.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="Variedades",Discovery World [HD]
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/346.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="Variedades",Discovery World [HD]
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234827.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="Variedades",Discovery World [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/84.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="Variedades",Discovery World [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234825.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://www.rochagalaxia.live/logos/DSC_D_pos.png" group-title="Variedades",Discovery World [FHD]
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234826.ts
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="Infantil",Disney Channel

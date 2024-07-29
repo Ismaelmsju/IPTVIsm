@@ -2711,6 +2711,9 @@ http://24hrs.homelinux.com:8080/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="http://rochagalaxia.live/logos/pica-pau250.png" group-title="Infantil",Pica-pau 2 [24h]
 http://cdn.lvbxtv.com:80/8473997886/9939873590/2220002
 
+#EXTINF:-1 tvg-logo="http://rochagalaxia.live/logos/pica-pau250.png" group-title="Infantil",Pica-pau 3 [24h]
+http://4kcnx.re:80/53974133/89896583/249
+
 #EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-name="Os Arquivos do FBI" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="Variedades",Pluto TV Arquivos Forenses
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638df93ae2f2a3000737c168/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 

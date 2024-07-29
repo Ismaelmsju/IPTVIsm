@@ -5,17 +5,11 @@
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E
 http://conexaoonline.top:80/ytyedf/rmdjwj/210.ts
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E
-http://conexaoonline.top:80/ytyedf/rmdjwj/234864.ts
-
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/332.ts
 
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/32.ts
-
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234861.ts
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://redecanaistv.dev/assets/imgs-videos/Canais/thumb-adultswim.jpg" group-title="Animes e Geek",Adult Swim*
 http://dnstv.me:80/09065438/824192/1532863.ts
@@ -44,14 +38,8 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="Filmes e Séries",AMC
 http://conexaoonline.top:80/ytyedf/rmdjwj/367.ts
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="Filmes e Séries",AMC
-http://conexaoonline.top:80/ytyedf/rmdjwj/234868.ts
-
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="Filmes e Séries",AMC [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/330.ts
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="Filmes e Séries",AMC [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/175.ts
 
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Variedades",Animal Planet
 http://conexaoonline.top:80/ytyedf/rmdjwj/234872.ts
@@ -59,14 +47,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234872.ts
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Variedades",Animal Planet [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/349.ts
 
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Variedades",Animal Planet [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234871.ts
-
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Variedades",Animal Planet [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/33.ts
-
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://www.rochagalaxia.live/logos/ANIMAL%20PLANET.png" group-title="Variedades",Animal Planet [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234869.ts
 
 #EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1
 http://conexaoonline.top:80/ytyedf/rmdjwj/2198.ts
@@ -83,32 +65,20 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/233892.ts
 #EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Filmes e Séries",AXN
 http://conexaoonline.top:80/ytyedf/rmdjwj/211.ts
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Filmes e Séries",AXN
-http://conexaoonline.top:80/ytyedf/rmdjwj/234880.ts
-
 #EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Filmes e Séries",AXN [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/329.ts
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Filmes e Séries",AXN [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234879.ts
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="http://www.rochagalaxia.live/logos/AXN.jpg" group-title="Filmes e Séries",AXN [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234877.ts
-
 #EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="Infantil",Baby TV
 http://conexaoonline.top:80/ytyedf/rmdjwj/188.ts
-
-#EXTINF:-1 tvg-id="BABYTV" tvg-name="baby tv" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/dKjnsR.png" group-title="Infantil",Baby TV
-http://conexaoonline.top:80/ytyedf/rmdjwj/234882.ts
 
 #EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Aberto",Band [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/189.ts
 
 #EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Aberto",Band [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/264.ts
-
-#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="Aberto",Band [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/35.ts
 
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="Notícias",Band News
 http://conexaoonline.top:80/ytyedf/rmdjwj/2201.ts
@@ -119,9 +89,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234887.ts
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="Notícias",Band News [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/36.ts
 
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="band news" tvg-logo="http://www.rochagalaxia.live/logos/bandnews-logo.png" group-title="Notícias",Band News [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234885.ts
-
 #EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="Música",BIS
 http://conexaoonline.top:80/ytyedf/rmdjwj/234896.ts
 
@@ -130,9 +97,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/325.ts
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="Música",BIS [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234895.ts
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="bis" tvg-logo="http://www.rochagalaxia.live/logos/canal-bis-logo-1.png" group-title="Música",BIS [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/127.ts
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Infantil",Bob Esponja 1 [24h]
 http://conexaoonline.top:80/ytyedf/rmdjwj/27225.ts
@@ -143,17 +107,11 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/95721.m3u8
 #EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://www.rochagalaxia.live/logos/CANAL%20BRASIL.jpg" group-title="Filmes e Séries",Canal Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/199.ts
 
-#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://www.rochagalaxia.live/logos/CANAL%20BRASIL.jpg" group-title="Filmes e Séries",Canal Brasil
-http://conexaoonline.top:80/ytyedf/rmdjwj/234903.ts
-
 #EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="http://www.rochagalaxia.live/logos/CANAL%20BRASIL.jpg" group-title="Filmes e Séries",Canal Brasil [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/80.ts
 
 #EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://rochagalaxia.live/logos/canaldoboi250.png" group-title="Aberto",Canal do Boi
 http://conexaoonline.top:80/ytyedf/rmdjwj/234907.ts
-
-#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://rochagalaxia.live/logos/canaldoboi250.png" group-title="Aberto",Canal do Boi
-http://conexaoonline.top:80/ytyedf/rmdjwj/234906.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Aberto",Canal Educação*
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4560
@@ -173,32 +131,17 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234923.ts
 #EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network
 http://conexaoonline.top:80/ytyedf/rmdjwj/239.ts
 
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network
-http://conexaoonline.top:80/ytyedf/rmdjwj/338.ts
-
 #EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234927.ts
 
 #EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/38.ts
 
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234925.ts
-
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="cartoon network" tvg-logo="http://www.rochagalaxia.live/logos/CARTOON.jpg" group-title="Infantil",Cartoon Network [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234926.ts
-
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito
 http://conexaoonline.top:80/ytyedf/rmdjwj/216.ts
 
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito
-http://conexaoonline.top:80/ytyedf/rmdjwj/238.ts
-
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/265.ts
-
-#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235214.ts
 
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235213.ts
@@ -251,23 +194,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/339.ts
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/81.ts
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234928.ts
-
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/19715.ts
-
-#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil
-http://conexaoonline.top:80/ytyedf/rmdjwj/234934.ts
 
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234933.ts
 
 #EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/19651.ts
-
-#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="cnn brasil" tvg-logo="https://www.rochagalaxia.live/logos/cnn%20internacional.png" group-title="Notícias",CNN Brasil [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234932.ts
 
 #EXTINF:-1 tvg-id="CNT" tvg-name="cnt" tvg-logo="https://rochagalaxia.live/logos/CNT.png" group-title="Aberto",CNT
 http://conexaoonline.top:80/ytyedf/rmdjwj/2044.ts
@@ -278,23 +212,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235211.ts
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate
 http://conexaoonline.top:80/ytyedf/rmdjwj/202.ts
 
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate
-http://conexaoonline.top:80/ytyedf/rmdjwj/234938.ts
-
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234936.ts
 
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/340.ts
-
 #EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/39.ts
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234935.ts
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="Combate HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/Premiere_combate.png" group-title="Esporte",Combate [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234937.ts
 
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central
 http://conexaoonline.top:80/ytyedf/rmdjwj/198.ts
@@ -305,20 +227,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234940.ts
 #EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234941.ts
 
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/40.ts
-
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="comedy central" tvg-logo="http://www.rochagalaxia.live/logos/COMEDYCENTRAL.jpg" group-title="Comédia",Comedy Central [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234939.ts
-
 #EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta!
 http://conexaoonline.top:80/ytyedf/rmdjwj/234960.ts
 
 #EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta! [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234959.ts
-
-#EXTINF:-1 tvg-id="CURTA" tvg-name="curta!" tvg-logo="http://www.rochagalaxia.live/logos/CURTA.png" group-title="Variedades",Curta! [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234957.ts
 
 #EXTINF:-1 tvg-logo="http://www.rochagalaxia.live/logos/desenhosbliblicos250.png" group-title="Religioso",Desenhos Bíblicos [24h]
 http://conexaoonline.top:80/ytyedf/rmdjwj/59680.ts
@@ -326,14 +239,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/59680.ts
 #EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel
 http://conexaoonline.top:80/ytyedf/rmdjwj/222.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel
-http://conexaoonline.top:80/ytyedf/rmdjwj/234804.ts
-
 #EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/342.ts
-
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234803.ts
 
 #EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="discovery channel" tvg-logo="http://ucsxiptv.com:8080/images/logos/efef054f98e20dd99bef7aad2df1a522.png" group-title="Variedades",Discovery Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/114.ts
@@ -341,29 +248,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/114.ts
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health
 http://conexaoonline.top:80/ytyedf/rmdjwj/223.ts
 
-#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health
-http://conexaoonline.top:80/ytyedf/rmdjwj/234808.ts
-
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/343.ts
-
-#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234807.ts
 
 #EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/135.ts
 
-#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234805.ts
-
-#EXTINF:-1 tvg-id="DISCHOMEHEALTH" tvg-name="Disc. Home &amp; Health HD" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Variedades",Discovery Home & Health [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234806.ts
-
 #EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID
 http://conexaoonline.top:80/ytyedf/rmdjwj/2088.ts
-
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID
-http://conexaoonline.top:80/ytyedf/rmdjwj/235015.ts
 
 #EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235014.ts
@@ -371,20 +263,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235014.ts
 #EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/282.ts
 
-#EXTINF:-1 tvg-id="ID" tvg-name="id" tvg-logo="http://ucsxiptv.com:8080/images/logos/ID_-_Investigação_Discovery.png" group-title="Variedades",Discovery ID [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235012.ts
-
 #EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids
 http://conexaoonline.top:80/ytyedf/rmdjwj/224.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids
-http://conexaoonline.top:80/ytyedf/rmdjwj/234812.ts
-
 #EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/267.ts
-
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234811.ts
 
 #EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids" tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Infantil",Discovery Kids [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/83.ts
@@ -392,14 +275,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/83.ts
 #EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/344.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234815.ts
-
 #EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/121.ts
-
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Variedades",Discovery Science [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234814.ts
 
 #EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="Variedades",Discovery Theater
 http://conexaoonline.top:80/ytyedf/rmdjwj/234820.ts
@@ -410,20 +287,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/345.ts
 #EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="Variedades",Discovery Theater [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/82.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTHEATER" tvg-name="discovery theater" tvg-logo="https://www.rochagalaxia.live/logos/discovery-theater-hd_m.png" group-title="Variedades",Discovery Theater [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234818.ts
-
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo
 http://conexaoonline.top:80/ytyedf/rmdjwj/2047.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo
-http://conexaoonline.top:80/ytyedf/rmdjwj/234824.ts
-
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/268.ts
-
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234823.ts
 
 #EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="discovery turbo" tvg-logo="http://ucsxiptv.com:8080/images/logos/b61822be1c12aeea715528e49becfc70.png" group-title="Variedades",Discovery Turbo [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/41.ts
@@ -434,29 +302,17 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234828.ts
 #EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/346.ts
 
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234827.ts
-
 #EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="discovery world" tvg-logo="http://ucsxiptv.com:8080/images/logos/1200px-World_Discovery_HD_logo.svg.png" group-title="Variedades",Discovery World [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/84.ts
 
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="Infantil",Disney Channel
 http://conexaoonline.top:80/ytyedf/rmdjwj/240.ts
 
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="Infantil",Disney Channel
-http://conexaoonline.top:80/ytyedf/rmdjwj/234964.ts
-
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="Infantil",Disney Channel [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/347.ts
 
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="Infantil",Disney Channel [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234963.ts
-
 #EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="Infantil",Disney Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/85.ts
-
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="disney channel hd" tvg-logo="http://www.rochagalaxia.live/logos/DISNEY%20CHANNEL.png" group-title="Infantil",Disney Channel [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234962.ts
 
 #EXTINF:-1 tvg-id="DOGTV" tvg-name="DOG TV" tvg-logo="https://rochagalaxia.live/logos/dogtv250.png" group-title="Variedades",Dog TV
 http://conexaoonline.top:80/ytyedf/rmdjwj/234974.ts
@@ -476,20 +332,11 @@ https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="Variedades",E! [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2206.ts
 
-#EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="Variedades",E! [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234979.ts
-
 #EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="Variedades",E! [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/17970.ts
 
-#EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://www.rochagalaxia.live/logos/e!250.png" group-title="Variedades",E! [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234978.ts
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN
 http://conexaoonline.top:80/ytyedf/rmdjwj/1014.ts
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN
-http://conexaoonline.top:80/ytyedf/rmdjwj/313128.ts
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2053.ts
@@ -497,23 +344,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2053.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/1013.ts
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/313125.ts
-
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="Esporte",ESPN 2
 http://conexaoonline.top:80/ytyedf/rmdjwj/2051.ts
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="Esporte",ESPN 2
-http://conexaoonline.top:80/ytyedf/rmdjwj/234852.ts
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="Esporte",ESPN 2 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/348.ts
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="Esporte",ESPN 2 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/144.ts
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="Esporte",ESPN 2 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234849.ts
 
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="Esporte",ESPN 3
 http://conexaoonline.top:80/ytyedf/rmdjwj/234856.ts
@@ -524,23 +362,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/273.ts
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="Esporte",ESPN 3 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/42.ts
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="Esporte",ESPN 3 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234853.ts
-
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="Esporte",ESPN 4
 http://conexaoonline.top:80/ytyedf/rmdjwj/194.ts
-
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="Esporte",ESPN 4
-http://conexaoonline.top:80/ytyedf/rmdjwj/234860.ts
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="Esporte",ESPN 4 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234858.ts
 
 #EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="Esporte",ESPN 4 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/48.ts
-
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="Esporte",ESPN 4 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234857.ts
 
 #EXTINF:-1 tvg-id="ESPN5" tvg-name="espn 5" tvg-logo="https://www.rochagalaxia.live/logos/espn-5250.png" group-title="Esporte",ESPN 5
 http://conexaoonline.top:80/ytyedf/rmdjwj/373468.ts
@@ -554,14 +383,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/373470.ts
 #EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="Esporte",ESPN 6 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/274.ts
 
-#EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="Esporte",ESPN 6 [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/373473.ts
-
 #EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="Esporte",ESPN 6 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/88.ts
-
-#EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="Esporte",ESPN 6 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/373474.ts
 
 #EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="Comédia",Eu a Patroa e as Crianças 1 [24h]*
 http://4kcnx.re:80/53974133/89896583/201
@@ -596,26 +419,17 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234991.ts
 #EXTINF:-1 tvg-id="FISHTV" tvg-name="fish tv" tvg-logo="http://www.rochagalaxia.live/logos/fishtv250.png" group-title="Variedades",Fish TV [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/354.ts
 
-#EXTINF:-1 tvg-id="FISHTV" tvg-name="fish tv" tvg-logo="http://www.rochagalaxia.live/logos/fishtv250.png" group-title="Variedades",Fish TV [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234989.ts
-
 #EXTINF:-1 tvg-id="FISHTV" tvg-name="fish tv" tvg-logo="http://www.rochagalaxia.live/logos/fishtv250.png" group-title="Variedades",Fish TV [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/117.ts
 
 #EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="food network" tvg-logo="http://www.rochagalaxia.live/logos/FOODNETWORK.png" group-title="Variedades",Food Network
 http://conexaoonline.top:80/ytyedf/rmdjwj/243.ts
 
-#EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="food network" tvg-logo="http://www.rochagalaxia.live/logos/FOODNETWORK.png" group-title="Variedades",Food Network
-http://conexaoonline.top:80/ytyedf/rmdjwj/234995.ts
-
 #EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="food network" tvg-logo="http://www.rochagalaxia.live/logos/FOODNETWORK.png" group-title="Variedades",Food Network [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234994.ts
 
 #EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="food network" tvg-logo="http://www.rochagalaxia.live/logos/FOODNETWORK.png" group-title="Variedades",Food Network [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/89.ts
-
-#EXTINF:-1 tvg-id="FOODNETWORK" tvg-name="food network" tvg-logo="http://www.rochagalaxia.live/logos/FOODNETWORK.png" group-title="Variedades",Food Network [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234992.ts
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="futura" tvg-logo="http://www.rochagalaxia.live/logos/FUTURA.png" group-title="Aberto",Futura
 http://conexaoonline.top:80/ytyedf/rmdjwj/234909.ts
@@ -626,35 +440,17 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234908.ts
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="Filmes e Séries",FX
 http://conexaoonline.top:80/ytyedf/rmdjwj/206.ts
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="Filmes e Séries",FX
-http://conexaoonline.top:80/ytyedf/rmdjwj/235003.ts
-
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="Filmes e Séries",FX [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2208.ts
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="Filmes e Séries",FX [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235001.ts
-
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="Filmes e Séries",FX [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/90.ts
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="Filmes e Séries",FX [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235000.ts
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="globo rede" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="Aberto",Globo BA
 http://conexaoonline.top:80/ytyedf/rmdjwj/168.ts
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="globo rede" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="Aberto",Globo BA [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2074.ts
-
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="globo rede" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="Aberto",Globo BA [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/20726.ts
-
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="globo rede" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="Aberto",Globo Nordeste [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/2061.ts
-
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="globo rede" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="Aberto",Globo Nordeste [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/163.ts
 
 #EXTINF:-1 tvg-id="GLOBO" tvg-name="globo rede" tvg-logo="http://www.rochagalaxia.live/logos/logglobonova.png" group-title="Aberto",Globo Nordeste [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/154.ts
@@ -677,9 +473,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/91.ts
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="http://www.rochagalaxia.live/logos/GLOOBINHO.png" group-title="Infantil",Gloobinho
 http://conexaoonline.top:80/ytyedf/rmdjwj/2080.ts
 
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="http://www.rochagalaxia.live/logos/GLOOBINHO.png" group-title="Infantil",Gloobinho
-http://conexaoonline.top:80/ytyedf/rmdjwj/2081.ts
-
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="http://www.rochagalaxia.live/logos/GLOOBINHO.png" group-title="Infantil",Gloobinho [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2226.ts
 
@@ -698,20 +491,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234.ts
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/278.ts
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234475.ts
-
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234476.ts
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/52.ts
-
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="Filmes e Séries",HBO 2
 http://conexaoonline.top:80/ytyedf/rmdjwj/226.ts
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="Filmes e Séries",HBO 2
-http://conexaoonline.top:80/ytyedf/rmdjwj/234493.ts
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="Filmes e Séries",HBO 2 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/279.ts
@@ -719,53 +503,23 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/279.ts
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="Filmes e Séries",HBO 2 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234469.ts
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="Filmes e Séries",HBO 2 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/51.ts
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://www.rochagalaxia.live/logos/HBO2.png" group-title="Filmes e Séries",HBO 2 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234467.ts
-
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="Filmes e Séries",HBO Family
 http://conexaoonline.top:80/ytyedf/rmdjwj/2084.ts
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="Filmes e Séries",HBO Family
-http://conexaoonline.top:80/ytyedf/rmdjwj/234473.ts
 
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="Filmes e Séries",HBO Family [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2085.ts
 
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="Filmes e Séries",HBO Family [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234471.ts
-
 #EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="Filmes e Séries",HBO Family [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234472.ts
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="Filmes e Séries",HBO Family [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/118.ts
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="hbo family" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20FAMILY.png" group-title="Filmes e Séries",HBO Family [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234470.ts
 
 #EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="Filmes e Séries",HBO Mundi
 http://conexaoonline.top:80/ytyedf/rmdjwj/203.ts
 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="Filmes e Séries",HBO Mundi
-http://conexaoonline.top:80/ytyedf/rmdjwj/234483.ts
-
 #EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="Filmes e Séries",HBO Mundi [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2210.ts
 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="Filmes e Séries",HBO Mundi [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234481.ts
-
 #EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="Filmes e Séries",HBO Mundi [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234482.ts
-
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="Filmes e Séries",HBO Mundi [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/95.ts
-
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="hbo mundi" tvg-logo="http://rochagalaxia.live/logos/hbomundi.png" group-title="Filmes e Séries",HBO Mundi [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234480.ts
 
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO Plus
 http://conexaoonline.top:80/ytyedf/rmdjwj/2195.ts
@@ -773,32 +527,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2195.ts
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO Plus [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/183686.ts
 
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO Plus [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234478.ts
-
 #EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO Plus [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234479.ts
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO Plus [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234477.ts
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="hbo plus" tvg-logo="http://www.rochagalaxia.live/logos/HBO.png" group-title="Filmes e Séries",HBO Plus [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/1992.ts
 
 #EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="Filmes e Séries",HBO Pop [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2211.ts
 
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="Filmes e Séries",HBO Pop [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234485.ts
-
 #EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="Filmes e Séries",HBO Pop [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234486.ts
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="Filmes e Séries",HBO Pop [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/126.ts
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="hbo pop" tvg-logo="http://rochagalaxia.live/logos/hbopop.png" group-title="Filmes e Séries",HBO Pop [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234484.ts
 
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="Filmes e Séries",HBO Signature
 http://conexaoonline.top:80/ytyedf/rmdjwj/2083.ts
@@ -806,17 +542,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2083.ts
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="Filmes e Séries",HBO Signature [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/366.ts
 
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="Filmes e Séries",HBO Signature [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234488.ts
-
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="Filmes e Séries",HBO Signature [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234489.ts
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="Filmes e Séries",HBO Signature [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/92.ts
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="hbo signature" tvg-logo="http://www.rochagalaxia.live/logos/HBO%20SIGNATURE.png" group-title="Filmes e Séries",HBO Signature [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234487.ts
 
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme
 http://conexaoonline.top:80/ytyedf/rmdjwj/247.ts
@@ -824,62 +551,29 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/247.ts
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234494.ts
 
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/283.ts
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234491.ts
-
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234492.ts
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/54.ts
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme" tvg-logo="http://rochagalaxia.live/logos/hboxtreme.png" group-title="Filmes e Séries",HBO Xtreme [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234490.ts
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="hgtv" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="Variedades",HGTV [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/201.ts
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="hgtv" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="Variedades",HGTV [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/352.ts
-
 #EXTINF:-1 tvg-id="HGTV" tvg-name="hgtv" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="Variedades",HGTV [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235004.ts
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="hgtv" tvg-logo="http://www.rochagalaxia.live/logos/hgtv250.png" group-title="Variedades",HGTV [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235005.ts
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="Variedades",History Channel
 http://conexaoonline.top:80/ytyedf/rmdjwj/235010.ts
 
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="Variedades",History Channel
-http://conexaoonline.top:80/ytyedf/rmdjwj/196.ts
-
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="Variedades",History Channel [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235009.ts
 
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="Variedades",History Channel [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/281.ts
-
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="Variedades",History Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235007.ts
-
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="Variedades",History Channel [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235008.ts
-
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="history hd" tvg-logo="http://www.rochagalaxia.live/logos/HISTORYCHANNEL.png" group-title="Variedades",History Channel [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/93.ts
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="http://www.rochagalaxia.live/logos/HISTORY.png" group-title="Variedades",History Channel 2
 http://conexaoonline.top:80/ytyedf/rmdjwj/2086.ts
 
 #EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="http://www.rochagalaxia.live/logos/HISTORY.png" group-title="Variedades",History Channel 2 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/286149.ts
-
-#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="http://www.rochagalaxia.live/logos/HISTORY.png" group-title="Variedades",History Channel 2 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/50.ts
 
 #EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-name="Nickelodeon iCarly" tvg-logo="http://www.rochagalaxia.live/logos/icarly250.png" group-title="",iCarly 1 [24h]
 http://conexaoonline.top:80/ytyedf/rmdjwj/27168.ts
@@ -905,17 +599,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="lifetime" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="Filmes e Séries",Lifetime
 http://conexaoonline.top:80/ytyedf/rmdjwj/246.ts
 
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="lifetime" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="Filmes e Séries",Lifetime
-http://conexaoonline.top:80/ytyedf/rmdjwj/235021.ts
-
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="lifetime" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="Filmes e Séries",Lifetime [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235020.ts
 
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="lifetime" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="Filmes e Séries",Lifetime [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/94.ts
-
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="lifetime" tvg-logo="http://www.rochagalaxia.live/logos/LIFETIME.png" group-title="Filmes e Séries",Lifetime [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235019.ts
 
 #EXTINF:-1 tvg-id="LIKE" tvg-name="LIKE" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/rgATXh.png" group-title="Variedades",Like! [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/128.ts
@@ -926,14 +614,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="Filmes e Séries",MegaPix
 http://conexaoonline.top:80/ytyedf/rmdjwj/219.ts
 
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="Filmes e Séries",MegaPix
-http://conexaoonline.top:80/ytyedf/rmdjwj/235033.ts
-
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="Filmes e Séries",MegaPix [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/356.ts
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="Filmes e Séries",MegaPix [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235032.ts
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="Filmes e Séries",MegaPix [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/145.ts
@@ -947,14 +629,8 @@ http://main.srvdns.fun:80/Rafael123/Rafael123/5525191.ts
 #EXTINF:-1 tvg-id="MODOVIAGEM" tvg-name="modo viagem" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" group-title="Variedades",Modo Viagem [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235028.ts
 
-#EXTINF:-1 tvg-id="MODOVIAGEM" tvg-name="modo viagem" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" group-title="Variedades",Modo Viagem [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235226.ts
-
 #EXTINF:-1 tvg-id="MODOVIAGEM" tvg-name="modo viagem" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" group-title="Variedades",Modo Viagem [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235026.ts
-
-#EXTINF:-1 tvg-id="MODOVIAGEM" tvg-name="modo viagem" tvg-logo="http://www.rochagalaxia.live/logos/maisnatela250.png" group-title="Variedades",Modo Viagem [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235027.ts
 
 #EXTINF:-1 tvg-logo="https://material.asset.catchplay.com/NBC-IN-001-A0184/artworks/posters/NBC-IN-001-A0184-P544.jpg" group-title="Comédia",Mr. Bean [24h]*
 http://dns.maxptv.net:2052/PEM200/1010/546
@@ -962,14 +638,8 @@ http://dns.maxptv.net:2052/PEM200/1010/546
 #EXTINF:-1 tvg-id="MTV" tvg-name="mtv" tvg-logo="http://www.rochagalaxia.live/logos/MTV.jpg" group-title="Música",MTV
 http://conexaoonline.top:80/ytyedf/rmdjwj/2197.ts
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="mtv" tvg-logo="http://www.rochagalaxia.live/logos/MTV.jpg" group-title="Música",MTV
-http://conexaoonline.top:80/ytyedf/rmdjwj/235045.ts
-
 #EXTINF:-1 tvg-id="MTV" tvg-name="mtv" tvg-logo="http://www.rochagalaxia.live/logos/MTV.jpg" group-title="Música",MTV [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/286.ts
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="mtv" tvg-logo="http://www.rochagalaxia.live/logos/MTV.jpg" group-title="Música",MTV [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235038.ts
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="mtv" tvg-logo="http://www.rochagalaxia.live/logos/MTV.jpg" group-title="Música",MTV [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235040.ts
@@ -992,17 +662,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235043.ts
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow" tvg-logo="http://www.rochagalaxia.live/logos/MULTISHOW.png" group-title="Variedades",Multishow
 http://conexaoonline.top:80/ytyedf/rmdjwj/236.ts
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow" tvg-logo="http://www.rochagalaxia.live/logos/MULTISHOW.png" group-title="Variedades",Multishow
-http://conexaoonline.top:80/ytyedf/rmdjwj/235049.ts
-
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow" tvg-logo="http://www.rochagalaxia.live/logos/MULTISHOW.png" group-title="Variedades",Multishow [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2091.ts
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow" tvg-logo="http://www.rochagalaxia.live/logos/MULTISHOW.png" group-title="Variedades",Multishow [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/97.ts
-
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="multishow" tvg-logo="http://www.rochagalaxia.live/logos/MULTISHOW.png" group-title="Variedades",Multishow [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235046.ts
 
 #EXTINF:-1 tvg-id="MUSICBOXBRAZIL" tvg-name="music box brazil" tvg-logo="https://www.rochagalaxia.live/logos/MUSICBOX.png" group-title="Música",Music Box Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/248.ts
@@ -1016,71 +680,35 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235051.ts
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="Variedades",National Geographic
 http://conexaoonline.top:80/ytyedf/rmdjwj/235060.ts
 
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="Variedades",National Geographic
-http://conexaoonline.top:80/ytyedf/rmdjwj/2093.ts
-
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="Variedades",National Geographic [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235055.ts
-
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="Variedades",National Geographic [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/2212.ts
 
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="Variedades",National Geographic [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235053.ts
 
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="Variedades",National Geographic [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235054.ts
-
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="national geographic" tvg-logo="https://www.rochagalaxia.live/logos/NATIONALGEOGRAPHIC.jpg" group-title="Variedades",National Geographic [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/56.ts
-
 #EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr." tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="Infantil",Nick Jr.
 http://conexaoonline.top:80/ytyedf/rmdjwj/235070.ts
-
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr." tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="Infantil",Nick Jr.
-http://conexaoonline.top:80/ytyedf/rmdjwj/250.ts
 
 #EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr." tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="Infantil",Nick Jr. [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/288.ts
 
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr." tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="Infantil",Nick Jr. [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235069.ts
-
 #EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr." tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="Infantil",Nick Jr. [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/99.ts
-
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr." tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="Infantil",Nick Jr. [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235067.ts
-
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr." tvg-logo="http://www.rochagalaxia.live/logos/nick-jr-logo.png" group-title="Infantil",Nick Jr. [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235068.ts
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="Infantil",Nickelodeon
 http://conexaoonline.top:80/ytyedf/rmdjwj/2214.ts
 
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="Infantil",Nickelodeon
-http://conexaoonline.top:80/ytyedf/rmdjwj/235074.ts
-
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="Infantil",Nickelodeon [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/362.ts
 
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="Infantil",Nickelodeon [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235073.ts
-
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="Infantil",Nickelodeon [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235072.ts
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="http://www.rochagalaxia.live/logos/Nickelodeon-logo.png" group-title="Infantil",Nickelodeon [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/143.ts
 
 #EXTINF:-1 tvg-logo="https://www.rochagalaxia.live/logos/tv%20novo%20tempo.jpg" group-title="Religioso",Novo Tempo
 http://conexaoonline.top:80/ytyedf/rmdjwj/215.ts
 
 #EXTINF:-1 tvg-logo="https://www.rochagalaxia.live/logos/tv%20novo%20tempo.jpg" group-title="Religioso",Novo Tempo [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2141.ts
-
-#EXTINF:-1 tvg-logo="https://www.rochagalaxia.live/logos/tv%20novo%20tempo.jpg" group-title="Religioso",Novo Tempo [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235156.ts
 
 #EXTINF:-1 tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/183.png" group-title="Infantil",O Incrível Mundo de Gumball 1 [24h]*
 http://dns.maxptv.net:2052/PEM200/1010/40807
@@ -1115,9 +743,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235077.ts
 #EXTINF:-1 tvg-id="PARAMOUNTNETWORK" tvg-name="paramount network" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="Filmes e Séries",Paramount Network [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235078.ts
 
-#EXTINF:-1 tvg-id="PARAMOUNTNETWORK" tvg-name="paramount network" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="Filmes e Séries",Paramount Network [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/100.ts
-
 #EXTINF:-1 tvg-logo="http://rochagalaxia.live/logos/pica-pau250.png" group-title="Infantil",Pica-pau 1 [24h]*
 http://4kcnx.re:80/53974133/89896583/249
 
@@ -1145,20 +770,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/297.ts
 #EXTINF:-1 tvg-id="RECORDRJ" tvg-name="recordtv" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="Aberto",Record [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/75.ts
 
-#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="Aberto",Record BA
-http://conexaoonline.top:80/ytyedf/rmdjwj/25763.ts
-
 #EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="Aberto",Record BA [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/25761.ts
 
-#EXTINF:-1 tvg-id="RecordTV HD" tvg-name="RecordTV HD" tvg-logo="http://rochagalaxia.live/logos/logorecord.png" group-title="Aberto",Record BA [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/25762.ts
-
 #EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="record news" tvg-logo="http://www.rochagalaxia.live/logos/RECORDNEWS.png" group-title="Notícias",Record News
 http://conexaoonline.top:80/ytyedf/rmdjwj/2113.ts
-
-#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="record news" tvg-logo="http://www.rochagalaxia.live/logos/RECORDNEWS.png" group-title="Notícias",Record News
-http://conexaoonline.top:80/ytyedf/rmdjwj/2114.ts
 
 #EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="record news" tvg-logo="http://www.rochagalaxia.live/logos/RECORDNEWS.png" group-title="Notícias",Record News [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/76.ts
@@ -1198,9 +814,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="RITTV" tvg-name="rit tv" tvg-logo="http://www.rochagalaxia.live/logos/RITTV.png" group-title="Religioso",RIT TV [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/258.ts
-
-#EXTINF:-1 tvg-id="RITTV" tvg-name="rit tv" tvg-logo="http://www.rochagalaxia.live/logos/RITTV.png" group-title="Religioso",RIT TV [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235097.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4OztcP0.png" group-title="Música",Rock TV*
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
@@ -1250,20 +863,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2124.ts
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://ucsxiptv.com:8080/images/3e58eed5ec44cc7c2563759de309af32.png" group-title="Aberto",SBT BA [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/26405.ts
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://rochagalaxia.live/logos/sbt2.png" group-title="Aberto",SBT SP [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/311498.ts
-
 #EXTINF:-1 tvg-id="CANALSONY" tvg-name="canal sony" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="Filmes e Séries",Sony
 http://conexaoonline.top:80/ytyedf/rmdjwj/234917.ts
 
-#EXTINF:-1 tvg-id="CANALSONY" tvg-name="canal sony" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="Filmes e Séries",Sony
-http://conexaoonline.top:80/ytyedf/rmdjwj/2043.ts
-
 #EXTINF:-1 tvg-id="CANALSONY" tvg-name="canal sony" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="Filmes e Séries",Sony [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/337.ts
-
-#EXTINF:-1 tvg-id="CANALSONY" tvg-name="canal sony" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="Filmes e Séries",Sony [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234915.ts
 
 #EXTINF:-1 tvg-id="CANALSONY" tvg-name="canal sony" tvg-logo="http://www.rochagalaxia.live/logos/canaldasony250.png" group-title="Filmes e Séries",Sony [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234914.ts
@@ -1274,17 +878,11 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="SPACE" tvg-name="space" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="Filmes e Séries",Space
 http://conexaoonline.top:80/ytyedf/rmdjwj/235106.ts
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="space" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="Filmes e Séries",Space
-http://conexaoonline.top:80/ytyedf/rmdjwj/2219.ts
-
 #EXTINF:-1 tvg-id="SPACE" tvg-name="space" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="Filmes e Séries",Space [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235104.ts
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="space" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="Filmes e Séries",Space [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235105.ts
-
-#EXTINF:-1 tvg-id="SPACE" tvg-name="space" tvg-logo="http://www.rochagalaxia.live/logos/SPACE.png" group-title="Filmes e Séries",Space [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/67.ts
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="sportv" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="Esporte",SporTV
 http://conexaoonline.top:80/ytyedf/rmdjwj/2129.ts
@@ -1292,59 +890,32 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2129.ts
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="sportv" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="Esporte",SporTV [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234838.ts
 
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="sportv" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="Esporte",SporTV [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234837.ts
-
 #EXTINF:-1 tvg-id="SPORTV" tvg-name="sportv" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="Esporte",SporTV [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234839.ts
-
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="sportv" tvg-logo="http://www.rochagalaxia.live/logos/sportv250.png" group-title="Esporte",SporTV [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/66.ts
 
 #EXTINF:-1 tvg-id="SPORTV2" tvg-name="sportv2" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="Esporte",SporTV 2
 http://conexaoonline.top:80/ytyedf/rmdjwj/2130.ts
 
-#EXTINF:-1 tvg-id="SPORTV2" tvg-name="sportv2" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="Esporte",SporTV 2
-http://conexaoonline.top:80/ytyedf/rmdjwj/234832.ts
-
 #EXTINF:-1 tvg-id="SPORTV2" tvg-name="sportv2" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="Esporte",SporTV 2 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/302.ts
-
-#EXTINF:-1 tvg-id="SPORTV2" tvg-name="sportv2" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="Esporte",SporTV 2 [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234829.ts
 
 #EXTINF:-1 tvg-id="SPORTV2" tvg-name="sportv2" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="Esporte",SporTV 2 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/68.ts
 
-#EXTINF:-1 tvg-id="SPORTV2" tvg-name="sportv2" tvg-logo="http://www.rochagalaxia.live/logos/sportv2250.png" group-title="Esporte",SporTV 2 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234830.ts
-
 #EXTINF:-1 tvg-id="SPORTV3" tvg-name="sportv3" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="Esporte",SporTV 3
 http://conexaoonline.top:80/ytyedf/rmdjwj/229.ts
-
-#EXTINF:-1 tvg-id="SPORTV3" tvg-name="sportv3" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="Esporte",SporTV 3
-http://conexaoonline.top:80/ytyedf/rmdjwj/234836.ts
 
 #EXTINF:-1 tvg-id="SPORTV3" tvg-name="sportv3" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="Esporte",SporTV 3 [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/303.ts
 
-#EXTINF:-1 tvg-id="SPORTV3" tvg-name="sportv3" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="Esporte",SporTV 3 [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234833.ts
-
 #EXTINF:-1 tvg-id="SPORTV3" tvg-name="sportv3" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="Esporte",SporTV 3 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/69.ts
-
-#EXTINF:-1 tvg-id="SPORTV3" tvg-name="sportv3" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="Esporte",SporTV 3 [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234834.ts
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="star channel" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="Filmes e Séries",Star Channel
 http://conexaoonline.top:80/ytyedf/rmdjwj/244.ts
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="star channel" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="Filmes e Séries",Star Channel [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2207.ts
-
-#EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="star channel" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="Filmes e Séries",Star Channel [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235108.ts
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="star channel" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="Filmes e Séries",Star Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235107.ts
@@ -1355,9 +926,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/15249.ts
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="studio universal" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="Filmes e Séries",Studio Universal [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235111.ts
 
-#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="studio universal" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="Filmes e Séries",Studio Universal [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235112.ts
-
 #EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="studio universal" tvg-logo="http://www.rochagalaxia.live/logos/studiouniversal.png" group-title="Filmes e Séries",Studio Universal [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235113.ts
 
@@ -1366,9 +934,6 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="tcm" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" group-title="Filmes e Séries",TCM
 http://conexaoonline.top:80/ytyedf/rmdjwj/213.ts
-
-#EXTINF:-1 tvg-id="TCM" tvg-name="tcm" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" group-title="Filmes e Séries",TCM
-http://conexaoonline.top:80/ytyedf/rmdjwj/235124.ts
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="tcm" tvg-logo="http://www.rochagalaxia.live/logos/TCM.png" group-title="Filmes e Séries",TCM [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2221.ts
@@ -1379,23 +944,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235123.ts
 #EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action
 http://conexaoonline.top:80/ytyedf/rmdjwj/214.ts
 
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action
-http://conexaoonline.top:80/ytyedf/rmdjwj/234514.ts
-
 #EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/305.ts
 
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234496.ts
-
 #EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234497.ts
-
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/65.ts
-
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="telecine action" tvg-logo="http://ucsxiptv.com:8080/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="Filmes e Séries",Telecine Action [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234495.ts
 
 #EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult" tvg-logo="http://ucsxiptv.com:8080/images/logos/0964becaa0cbeae00b2b57c28f815cd2.png" group-title="Filmes e Séries",Telecine Cult [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/360.ts
@@ -1403,26 +956,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/360.ts
 #EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult" tvg-logo="http://ucsxiptv.com:8080/images/logos/0964becaa0cbeae00b2b57c28f815cd2.png" group-title="Filmes e Séries",Telecine Cult [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/146.ts
 
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="telecine cult" tvg-logo="http://ucsxiptv.com:8080/images/logos/0964becaa0cbeae00b2b57c28f815cd2.png" group-title="Filmes e Séries",Telecine Cult [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234498.ts
-
 #EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun
 http://conexaoonline.top:80/ytyedf/rmdjwj/231.ts
 
 #EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/306.ts
 
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234502.ts
-
 #EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234503.ts
-
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/64.ts
-
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="telecine fun" tvg-logo="http://ucsxiptv.com:8080/images/logos/eca179fbbeda077e56dda7ccd13b836b.png" group-title="Filmes e Séries",Telecine Fun [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234501.ts
 
 #EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="http://ucsxiptv.com:8080/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="Filmes e Séries",Telecine Pipoca
 http://conexaoonline.top:80/ytyedf/rmdjwj/2132.ts
@@ -1433,50 +974,23 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/307.ts
 #EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="http://ucsxiptv.com:8080/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="Filmes e Séries",Telecine Pipoca [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234506.ts
 
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="http://ucsxiptv.com:8080/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="Filmes e Séries",Telecine Pipoca [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/63.ts
-
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="http://ucsxiptv.com:8080/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="Filmes e Séries",Telecine Pipoca [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234504.ts
-
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="telecine pipoca" tvg-logo="http://ucsxiptv.com:8080/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="Filmes e Séries",Telecine Pipoca [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234505.ts
-
 #EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium" tvg-logo="http://ucsxiptv.com:8080/images/logos/b639bd1795267470d8d8dfd597df0adf.png" group-title="Filmes e Séries",Telecine Premium [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/308.ts
-
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium" tvg-logo="http://ucsxiptv.com:8080/images/logos/b639bd1795267470d8d8dfd597df0adf.png" group-title="Filmes e Séries",Telecine Premium [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234508.ts
 
 #EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium" tvg-logo="http://ucsxiptv.com:8080/images/logos/b639bd1795267470d8d8dfd597df0adf.png" group-title="Filmes e Séries",Telecine Premium [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234509.ts
 
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="telecine premium" tvg-logo="http://ucsxiptv.com:8080/images/logos/b639bd1795267470d8d8dfd597df0adf.png" group-title="Filmes e Séries",Telecine Premium [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/62.ts
-
 #EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch
 http://conexaoonline.top:80/ytyedf/rmdjwj/2134.ts
-
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch
-http://conexaoonline.top:80/ytyedf/rmdjwj/234519.ts
 
 #EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234510.ts
 
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/234511.ts
-
 #EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234512.ts
 
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="telecine touch" tvg-logo="http://ucsxiptv.com:8080/images/logos/899b5f5f08a0b7659ecd7ddbefd69785.png" group-title="Filmes e Séries",Telecine Touch [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/61.ts
-
 #EXTINF:-1 tvg-logo="https://rochagalaxia.live/logos/terraviva250.png" group-title="Aberto",Terra Viva
 http://conexaoonline.top:80/ytyedf/rmdjwj/166988.ts
-
-#EXTINF:-1 tvg-logo="https://rochagalaxia.live/logos/terraviva250.png" group-title="Aberto",Terra Viva
-http://conexaoonline.top:80/ytyedf/rmdjwj/235125.ts
 
 #EXTINF:-1 tvg-logo="https://portalovertube.com/wp-content/uploads/2014/08/big-bang-theory.png" group-title="Comédia",The Big Bang Theory 1 [24h]*
 http://dns.maxptv.net:2052/PEM200/1010/543
@@ -1496,14 +1010,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2135.ts
 #EXTINF:-1 tvg-id="TLC" tvg-name="tlc" tvg-logo="http://www.rochagalaxia.live/logos/TLC.png" group-title="Filmes e Séries",TLC [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/310.ts
 
-#EXTINF:-1 tvg-id="TLC" tvg-name="tlc" tvg-logo="http://www.rochagalaxia.live/logos/TLC.png" group-title="Filmes e Séries",TLC [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235127.ts
-
 #EXTINF:-1 tvg-id="TLC" tvg-name="tlc" tvg-logo="http://www.rochagalaxia.live/logos/TLC.png" group-title="Filmes e Séries",TLC [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/122.ts
-
-#EXTINF:-1 tvg-id="TLC" tvg-name="tlc" tvg-logo="http://www.rochagalaxia.live/logos/TLC.png" group-title="Filmes e Séries",TLC [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235126.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="Filmes e Séries",TNT
 http://conexaoonline.top:80/ytyedf/rmdjwj/235133.ts
@@ -1513,9 +1021,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235131.ts
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="Filmes e Séries",TNT [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/123.ts
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://www.rochagalaxia.live/logos/TNT.png" group-title="Filmes e Séries",TNT [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235130.ts
 
 #EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT Novelas" tvg-logo="http://www.rochagalaxia.live/logos/tntnovelas250.png" group-title="Novelas",TNT Novelas
 http://conexaoonline.top:80/ytyedf/rmdjwj/257.ts
@@ -1541,9 +1046,6 @@ http://24hrs.homelinux.com:8080/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:-1 tvg-logo="http://www.rochagalaxia.live/logos/todomundoodeiaocris250.png" group-title="Comédia",Todo Mundo Odeia o Chris 2 [24h]
 http://conexaoonline.top:80/ytyedf/rmdjwj/27162.ts
 
-#EXTINF:-1 tvg-logo="http://www.rochagalaxia.live/logos/tomejerry250.png" group-title="Infantil",Tom & Jerry [24h]
-http://conexaoonline.top:80/ytyedf/rmdjwj/59679.ts
-
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="tooncast" tvg-logo="http://www.rochagalaxia.live/logos/TOONCAST.png" group-title="Infantil",Tooncast
 http://conexaoonline.top:80/ytyedf/rmdjwj/260.ts
 
@@ -1552,9 +1054,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235139.ts
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="tooncast" tvg-logo="http://www.rochagalaxia.live/logos/TOONCAST.png" group-title="Infantil",Tooncast [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/359.ts
-
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="tooncast" tvg-logo="http://www.rochagalaxia.live/logos/TOONCAST.png" group-title="Infantil",Tooncast [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235138.ts
 
 #EXTINF:-1 tvg-id="TRAVELBOXBRAZILHD" tvg-name="Travel Box Brazil HD" tvg-logo="https://www.rochagalaxia.live/logos/travelboxbrasil.png" group-title="Variedades",Travel Box Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/235142.ts
@@ -1573,9 +1072,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235144.ts
 
 #EXTINF:-1 tvg-logo="https://rochagalaxia.live/logos/TVBRASIL250.png" group-title="Aberto",TV Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/36646.ts
-
-#EXTINF:-1 tvg-logo="https://rochagalaxia.live/logos/TVBRASIL250.png" group-title="Aberto",TV Brasil
-http://conexaoonline.top:80/ytyedf/rmdjwj/235148.ts
 
 #EXTINF:-1 tvg-id="TVCMARA" tvg-name="tv câmara" tvg-logo="https://www.rochagalaxia.live/logos/TVCAMARA.png" group-title="Aberto",TV Câmara [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235151.ts
@@ -1628,14 +1124,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/59599.ts
 #EXTINF:-1 tvg-id="universal tv" tvg-name="UNIVERSALTV" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="Filmes e Séries",Universal Channel
 http://conexaoonline.top:80/ytyedf/rmdjwj/182589.ts
 
-#EXTINF:-1 tvg-id="universal tv" tvg-name="UNIVERSALTV" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="Filmes e Séries",Universal Channel
-http://conexaoonline.top:80/ytyedf/rmdjwj/235173.ts
-
 #EXTINF:-1 tvg-id="universal tv" tvg-name="UNIVERSALTV" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="Filmes e Séries",Universal Channel [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/182588.ts
-
-#EXTINF:-1 tvg-id="universal tv" tvg-name="UNIVERSALTV" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="Filmes e Séries",Universal Channel [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235170.ts
 
 #EXTINF:-1 tvg-id="universal tv" tvg-name="UNIVERSALTV" tvg-logo="http://www.rochagalaxia.live/logos/UNIVERSAL%20CHANNE.png" group-title="Filmes e Séries",Universal Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/59.ts
@@ -1648,9 +1138,6 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235117.ts
 
 #EXTINF:-1 tvg-id="SYFY" tvg-name="usa" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="Filmes e Séries",USA Network [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/107.ts
-
-#EXTINF:-1 tvg-id="SYFY" tvg-name="usa" tvg-logo="http://www.rochagalaxia.live/logos/SYFY.png" group-title="Filmes e Séries",USA Network [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235115.ts
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="viva" tvg-logo="http://www.rochagalaxia.live/logos/VIVA.jpg" group-title="Novelas",VIVA
 http://conexaoonline.top:80/ytyedf/rmdjwj/2146.ts
@@ -1667,14 +1154,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2224.ts
 #EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="Filmes e Séries",Warner Channel [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2220.ts
 
-#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="Filmes e Séries",Warner Channel [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235179.ts
-
 #EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="Filmes e Séries",Warner Channel [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/58.ts
-
-#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="Filmes e Séries",Warner Channel [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235178.ts
 
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="Animes e Geek",Woohoo [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2147.ts
@@ -1682,14 +1163,8 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2147.ts
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="Animes e Geek",Woohoo [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/2225.ts
 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="Animes e Geek",Woohoo [FHD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/125.ts
-
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="zoomoo" tvg-logo="http://www.rochagalaxia.live/logos/ZooMoo_logo.svg.png" group-title="Zoomoo",Zoomoo [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/357.ts
-
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="zoomoo" tvg-logo="http://www.rochagalaxia.live/logos/ZooMoo_logo.svg.png" group-title="Zoomoo",Zoomoo [HD]
-http://conexaoonline.top:80/ytyedf/rmdjwj/235183.ts
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="zoomoo" tvg-logo="http://www.rochagalaxia.live/logos/ZooMoo_logo.svg.png" group-title="Zoomoo",Zoomoo [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235181.ts

@@ -11,10 +11,10 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/332.ts
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/32.ts
 
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://redecanaistv.dev/assets/imgs-videos/Canais/thumb-adultswim.jpg" group-title="Animes e Geek",Adult Swim*
+#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://redecanaistv.dev/assets/imgs-videos/Canais/thumb-adultswim.jpg" group-title="Animes e Geek",Adult Swim
 http://dnstv.me:80/09065438/824192/1532863.ts
 
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://redecanaistv.dev/assets/imgs-videos/Canais/thumb-adultswim.jpg" group-title="Animes e Geek",Adult Swim [HD]*
+#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://redecanaistv.dev/assets/imgs-videos/Canais/thumb-adultswim.jpg" group-title="Animes e Geek",Adult Swim [HD]
 http://dns.maxptv.net:2052/PEM200/1010/136111
 
 #EXTINF:-1 tvg-id="Agro Canal" tvg-name="Agro Canal" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png" group-title="Aberto",Agro Canal [FHD]
@@ -26,10 +26,10 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234867.ts
 #EXTINF:-1 tvg-logo="https://www.rochagalaxia.live/logos/agromais250.png" group-title="Aberto",AgroMais [HD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234866.ts
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="Esporte",All Sports [HD]*
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="Esporte",All Sports [HD]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Aberto",AmazonSat*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Aberto",AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://www.rochagalaxia.live/logos/AMC.jpg" group-title="Filmes e Séries",AMC

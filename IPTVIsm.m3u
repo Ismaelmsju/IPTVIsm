@@ -17,7 +17,7 @@ http://main.srvdns.fun:80/Rafael123/Rafael123/5525095.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lgfCWDqmUMepJ86T8EC9Im6PGF6qh0rQAiUF8nYDxV9H7HN3PZqfMB0JTf3a20QWRZSLYHDP=s900-c-k-c0x00ffffff-no-rj" group-title="Notícias",4 Por 4
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://img.elo7.com.br/product/zoom/4B1D0BA/capa-painel-redondo-a-grande-familia-em-tecido-1-50m-decoracao-grande-familia.jpg" group-title="Comédia",A Grande Família {24h}
 http://24hrs.homelinux.com:8080/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="http://www.rochagalaxia.live/logos/A&E.jpg" group-title="Filmes e Séries",A&E
@@ -110,7 +110,7 @@ https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.rochagalaxia.live/logos/agromais250.png" group-title="Aberto",AgroMais (HD)
 http://187.95.95.243/AgroMais-HD/video.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Aladdin_Franchise_Logo.png" group-title="Infantil",Aladin {24h}
 http://24hrs.homelinux.com:8080/24H-aladdin/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png" group-title="Esporte",All Sports (HD)
@@ -608,7 +608,7 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/622.m3u8
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png" group-title="Infantil",Cartoonito [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794381.ts
 
-#N/D
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="Infantil",Castelo Rá Tim Bum {24h}
 http://4kcnx.re:80/53974133/89896583/179
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="Aberto",Catve (HD)
@@ -713,16 +713,16 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/432.m3u8
 #EXTINF:-1 tvg-id="CINECANAL" tvg-name="cinecanal" tvg-logo="https://iili.io/JM5cj7j.png" group-title="Filmes e Séries",Cine Canal [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794274.ts
 
-#N/D
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/Cinekids.png" group-title="Filmes e Séries",Cine Crianças {24h}
 http://dns.maxptv.net:2052/PEM200/1010/554
 
-#N/D
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/CineFamily.png" group-title="Filmes e Séries",Cine Família {24h}
 http://dns.maxptv.net:2052/PEM200/1010/551
 
-#N/D
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/cineguerra.png" group-title="Filmes e Séries",Cine Guerra {24h}
 http://dns.maxptv.net:2052/PEM200/1010/1477
 
-#N/D
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/CineNacionais.png" group-title="Filmes e Séries",Cine Nacionais {24h}
 http://dns.maxptv.net:2052/PEM200/1010/555
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="http://www.rochagalaxia.live/logos/CINEMAX.png" group-title="Filmes e Séries",CineMax
@@ -902,7 +902,7 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYBXEq4.png" group-title="Aberto",ConecTV Brasil (HD)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/2/CanalCSI.png" group-title="Filmes e Séries",CSI {24h}
 http://dns.maxptv.net:2052/PEM200/1010/538
 
 #EXTINF:-1 tvg-id="63eb9c5351f5d000085e8d7e" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Filmes e Séries",CSI: Miami 1 {24h}
@@ -938,7 +938,7 @@ http://axr.life:80/669177/213793/1263376
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Infantil",De Criança para Criança
 https://cdn-3.nxplay.com.br/dcpc/index.m3u8
 
-#N/D
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Animes e Geek",Death Note {24h}
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Aberto",Demais TV (HD)
@@ -1292,28 +1292,28 @@ http://4kcnx.re:80/53974133/89896583/829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aRLFaSL.png" group-title="Novelas",Doramas TV
 https://stmv3.voxtvhd.com.br/doramastv/doramastv/chunklist_w176227637.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="Infantil",Doug {24h}
 http://cdn.lvbxtv.com:80/8473997886/9939873590/2219891
 
-#N/D
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/24rodrigo/2/house.png" group-title="Filmes e Séries",Dr. House {24h}
 http://dns.maxptv.net:2052/PEM200/1010/20461
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Animes e Geek",Dragon Ball {24h}
 http://24hrs.homelinux.com:8080/24H-dragon.ball/tracks-v1a1/mono.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Animes e Geek",Dragon Ball GT {24h}
 http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Animes e Geek",Dragon Ball Super {24h}
 http://24hrs.homelinux.com:8080/24H-dragon.ball.super/tracks-v1a1/mono.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png" group-title="Animes e Geek",Dragon Ball Z {24h}
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
 
-#N/D
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Dragon_Ball_Kai_logo.png?20100904022920" group-title="Animes e Geek",Dragon Ball Z Kai {24h}
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/f...est/scale-to-width-down/400?cb=20150706030147" group-title="Filmes e Séries",Drake e Josh {24h}
 http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Filmes e Séries",Dream Works TV
@@ -1349,7 +1349,7 @@ http://axr.life:80/669177/213793/1263377
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DxiQK7v.png" group-title="Filmes e Séries",Entretendo
 http://cdn.connectbr.com.br/Entretendo/index.m3u8?ManoTV
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Comédia",Escolinha do Prof. Raimundo {24h}
 http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN
@@ -1487,7 +1487,7 @@ http://dns.maxptv.net:2052/PEM200/1010/48333
 #EXTINF:-1 tvg-id="FASHIONTV" tvg-name="fashion tv hd" tvg-logo="https://rochagalaxia.live/logos/FashionTV2019novo.png" group-title="Variedades",Fashion TV [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4793589.ts
 
-#N/D
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/famosos/images/2/29/Fatos_Desconhecidos_900x900.jpg/revision/latest?cb=20220531174044&path-prefix=pt-br" group-title="Variedades",Fatos Desconhecidos {24h}
 http://24hrs.homelinux.com:8080/24H-fatosdesconhecidos/video.m3u8
 
 #EXTINF:-1 tvg-id="FILMARTS" tvg-name="Film&amp;Arts HD" tvg-logo="http://www.rochagalaxia.live/logos/films%20arts.png" group-title="Filmes e Séries",Film & Arts
@@ -1595,7 +1595,7 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/255.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Animes e Geek",Futurama
 http://main.srvdns.fun:80/Rafael123/Rafael123/5525163.ts
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Animes e Geek",Futurama {24h}
 http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
 
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.rochagalaxia.live/logos/FX.jpg" group-title="Filmes e Séries",FX
@@ -1790,7 +1790,7 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13887.m3u8
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://www.rochagalaxia.live/logos/GNT.jpg" group-title="Variedades",GNT [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4793596.ts
 
-#N/D
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="Religioso",Gospel Clipes Musicais {24h}
 http://axr.life:80/669177/213793/2627279
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9hFGVAeW4JcL3TaRoExnc_itCJ_4I2ZJqg&s" group-title="Religioso",Gospel Movie TV
@@ -2243,7 +2243,7 @@ https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sd1A7BE.png" group-title="Filmes e Séries",HTO Filmes
 https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
 
-#N/D
+#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-name="Nickelodeon iCarly" tvg-logo="http://www.rochagalaxia.live/logos/icarly250.png" group-title="Comédia",iCarly {24h}
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFp4O1Q.png" group-title="Aberto",Imperial TV
@@ -2279,10 +2279,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/pl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xDbDl0.png" group-title="Variedades",Jovem Pan Pânico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#N/D
+#EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-name="Kenan &amp; Kel" tvg-logo="http://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/solidLogoPNG.png" group-title="Comédia",Kenan & Kel {24h}
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=cc2a1cd0-5768-11ec-bbb1-31a384f93dc5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9367b8bf-bc68-44c4-81ee-dc4fb8a62f65&userId=&serverSideAds=true
 
-#N/D
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/logosiptv/desenhos24/kickduble.png" group-title="Infantil",Kick Buttowski {24h}
 http://dns.maxptv.net:2052/PEM200/1010/113077
 
 #EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/kidsmais.png" group-title="Infantil",Kids Mais (HD)
@@ -2324,7 +2324,7 @@ http://dns.maxptv.net:2052/PEM200/1010/48350
 #EXTINF:-1 tvg-logo="https://ricardocostadigital.com.br/wp-content/uploads/2022/04/logo.png" group-title="Variedades",Mais Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6439
 
-#N/D
+#EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="Variedades",Manual do Mundo {24h}
 http://24hrs.homelinux.com:8080/24H-manualdomundo/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/NG4t8E.png" group-title="Variedades",Markket [FHD]
@@ -2366,7 +2366,7 @@ http://main.srvdns.fun:80/Rafael123/Rafael123/5654901.ts
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="megapix" tvg-logo="http://www.rochagalaxia.live/logos/MEGAPIX.png" group-title="Filmes e Séries",MegaPix [FHD]
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13901.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Infantil",Mickey, Donald e Pateta {24h}
 http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/video.m3u8?token=a4A2wbotS3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Infantil",Mickey, Donald e Pateta 2 {24h}
@@ -2636,7 +2636,7 @@ http://dns.maxptv.net:2052/PEM200/1010/40807
 #EXTINF:-1 tvg-logo="https://painelsbo.painel.life/logosnovos/Infantil24h/183.png" group-title="Infantil",O Incrível Mundo de Gumball 2 {24h}
 http://4kcnx.re:80/53974133/89896583/234
 
-#N/D
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="Infantil",O Mundo de Beakman {24h}
 http://4kcnx.re:80/53974133/89896583/236
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="http://www.rochagalaxia.live/logos/Logo_Canal_OFF.png" group-title="Esporte",Off
@@ -2669,10 +2669,10 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13909.m3u8
 #EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="http://www.rochagalaxia.live/logos/Logo_Canal_OFF.png" group-title="Esporte",Off [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4793605.ts
 
-#N/D
+#EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-name="Oggy e as Baratas Tontas" tvg-logo="http://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Infantil",Oggy e as Baratas Tontas {24h}
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#N/D
+#EXTINF:-1 tvg-logo="https://painelsbo.painel.life/logosiptv/discovery/muqyuiranas.png" group-title="Reality",Os Muquiranas {24h}
 http://dns.maxptv.net:2052/PEM200/1010/113090
 
 #EXTINF:-1 tvg-id="PARAMOUNTNETWORK" tvg-name="paramount network" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="Filmes e Séries",Paramount Network
@@ -2699,7 +2699,7 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/13910.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNTNETWORK" tvg-name="paramount network" tvg-logo="http://www.rochagalaxia.live/logos/PARAMOUNT.png" group-title="Filmes e Séries",Paramount Network [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4794291.ts
 
-#N/D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUskfXW3jNWEkti-n26ifrkyGuSg6zRYu-zg&s" group-title="Reality",Pesadelo na Cozinha {24h}
 http://24hrs.homelinux.com:8080/24H-pesadelonacozinha/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/276FuIH.png" group-title="Variedades",Pet Lovers TV
@@ -3419,7 +3419,7 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/56037.m3u8
 #EXTINF:-1 tvg-id="SPORTV3" tvg-name="sportv3" tvg-logo="http://www.rochagalaxia.live/logos/sportv3250.png" group-title="Esporte",SporTV 3 [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/5525502.ts
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BatygW5.png " group-title="Comédia",Stand Up {24h}
 http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="star channel" tvg-logo="http://www.rochagalaxia.live/logos/starchannel.png" group-title="Filmes e Séries",Star Channel
@@ -3485,7 +3485,7 @@ http://cdn.lvbxtv.com:80/8473997886/9939873590/2220037
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="Infantil",Super Choque 2 {24h}
 http://cdn.lvbxtv.com:80/8473997886/9939873590/2220038
 
-#N/D
+#EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-name="Super Onze" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Animes e Geek",Super Onze {24h}
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5fd1419a3b4f4b000773ba85" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-MC9tLAH5Wnq5ul_G0BINZiKMiTj4CJzP5-A1ktQ=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",Tastemade Brasil
@@ -3950,7 +3950,7 @@ http://main.srvdns.fun:80/Rafael123/Rafael123/4794404.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png" group-title="Variedades",TruTV
 http://4kcnx.re:80/53974133/89896583/886
 
-#N/D
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-name="Turma da Mônica" tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="Infantil",Turma da Mônica {24h}
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846021-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0dd3fbda-a8d5-4964-8b9e-6f6e95a3db5e&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j51rBro.png" group-title="Notícias",TV A Crítica (HD)
@@ -4214,7 +4214,7 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rGJNeou.png" group-title="Aberto",Vivax TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w763666195.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/famosos/images/e/e3/Vocesabia.jpg/revision/latest?cb=20210526105439&path-prefix=pt-br" group-title="Variedades",Você Sabia {24h}
 http://24hrs.homelinux.com:8080/24H-vocesabia/video.m3u8
 
 #EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel" tvg-logo="http://www.rochagalaxia.live/logos/WARNER.png" group-title="Filmes e Séries",Warner Channel
@@ -4292,10 +4292,10 @@ http://axr.life:80/669177/213793/1263427
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="woohoo" tvg-logo="http://www.rochagalaxia.live/logos/canalwoohoo250.png" group-title="Animes e Geek",Woohoo [FHD]
 http://main.srvdns.fun:80/Rafael123/Rafael123/4779918.ts
 
-#N/D
+#EXTINF:-1 tvg-id="63988a50be012600070f5db3" tvg-name="Yu-Gi-Oh" tvg-logo="https://i.imgur.com/HrW6NLk.png" group-title="Animes e Geek",Yu-gi-oh! {24h}
 https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8
 
-#N/D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UK5wUsh.png" group-title="Animes e Geek",Zatch Bell {24h}
 http://cdn.lvbxtv.com:80/8473997886/9939873590/2220065
 
 #EXTINF:-1 tvg-id="ZOOMOO" tvg-name="zoomoo" tvg-logo="http://www.rochagalaxia.live/logos/ZooMoo_logo.svg.png" group-title="Zoomoo",Zoomoo (HD)

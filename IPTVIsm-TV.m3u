@@ -2,13 +2,13 @@
 
 ############################################################################ Atualizado: 01/08/2024
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="Filmes e Séries",A&E
+#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Filmes e Séries",A&E
 http://conexaoonline.top:80/ytyedf/rmdjwj/210.ts
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="Filmes e Séries",A&E (HD)
+#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Filmes e Séries",A&E (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/332.ts
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="Filmes e Séries",A&E [FHD]
+#EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Filmes e Séries",A&E [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/32.ts
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cd770b2-3e49-4672-99fb-8483b9dd9bf0/dfl6vww-9abbe0c7-379d-4866-ab13-cc1b01636b51.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZDc3MGIyLTNlNDktNDY3Mi05OWZiLTg0ODNiOWRkOWJmMFwvZGZsNnZ3dy05YWJiZTBjNy0zNzlkLTQ4NjYtYWIxMy1jYzFiMDE2MzZiNTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-n7vm6MNFdZwsg7zmuEupvrcysMJUwY3-MyCwIB3jkI" group-title="Animes e Geek",Adult Swim*
@@ -47,16 +47,16 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/349.ts
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="animal planet" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="Variedades",Animal Planet [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/33.ts
 
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://ucsxiptv.com:8080/images/f7b6461d5f5e2c646e828b12bcc0d64c.png" group-title="Variedades",Arte 1
 http://conexaoonline.top:80/ytyedf/rmdjwj/2198.ts
 
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1 (HD)
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://ucsxiptv.com:8080/images/f7b6461d5f5e2c646e828b12bcc0d64c.png" group-title="Variedades",Arte 1 (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/78.ts
 
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://www.rochagalaxia.live/logos/ARTE1.jpg" group-title="Variedades",Arte 1 [FHD]
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="arte 1" tvg-logo="http://ucsxiptv.com:8080/images/f7b6461d5f5e2c646e828b12bcc0d64c.png" group-title="Variedades",Arte 1 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/234873.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkI2JqvCvx-CZPZNlXM2uBzJBHx6ByKJCmRg&s" group-title="Comédia",As Visões da Raven {24h}
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/0/0e/Thatssoraven1234.png/revision/latest?cb=20200321202720&path-prefix=pt-br" group-title="Comédia",As Visões da Raven {24h}
 http://conexaoonline.top:80/ytyedf/rmdjwj/233892.ts
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="axn" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/tPqcjh.png" group-title="Filmes e Séries",AXN
@@ -338,55 +338,55 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/2206.ts
 #EXTINF:-1 tvg-id="E" tvg-name="e!" tvg-logo="http://ucsxiptv.com:8080/images/logos/bddec388639cce325f1bea98230a0f3f.png" group-title="Variedades",E! [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/17970.ts
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428" group-title="Esporte",ESPN
 http://conexaoonline.top:80/ytyedf/rmdjwj/1014.ts
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN (HD)
+#EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428" group-title="Esporte",ESPN (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/2053.ts
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="http://www.rochagalaxia.live/logos/espn250.png" group-title="Esporte",ESPN [FHD]
+#EXTINF:-1 tvg-id="ESPN" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428" group-title="Esporte",ESPN [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/1013.ts
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="Esporte",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png" group-title="Esporte",ESPN 2
 http://conexaoonline.top:80/ytyedf/rmdjwj/2051.ts
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="Esporte",ESPN 2 (HD)
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png" group-title="Esporte",ESPN 2 (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/348.ts
 
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="http://rochagalaxia.live/logos/espn2250.png" group-title="Esporte",ESPN 2 [FHD]
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="espn 2" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/s640/ESPN%2B2.png" group-title="Esporte",ESPN 2 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/144.ts
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="Esporte",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espnplus_brazil_2x.png" group-title="Esporte",ESPN 3
 http://conexaoonline.top:80/ytyedf/rmdjwj/234856.ts
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="Esporte",ESPN 3 (HD)
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espnplus_brazil_2x.png" group-title="Esporte",ESPN 3 (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/273.ts
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://www.rochagalaxia.live/logos/espn3-250.png" group-title="Esporte",ESPN 3 [FHD]
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="espn 3 hd" tvg-logo="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espnplus_brazil_2x.png" group-title="Esporte",ESPN 3 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/42.ts
 
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="Esporte",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Esporte",ESPN 4
 http://conexaoonline.top:80/ytyedf/rmdjwj/194.ts
 
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="Esporte",ESPN 4 (HD)
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Esporte",ESPN 4 (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/234858.ts
 
-#EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="http://www.rochagalaxia.live/logos/espn-4250.png" group-title="Esporte",ESPN 4 [FHD]
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="espn 4" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="Esporte",ESPN 4 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/48.ts
 
-#EXTINF:-1 tvg-id="ESPN5" tvg-name="espn 5" tvg-logo="https://www.rochagalaxia.live/logos/espn-5250.png" group-title="Esporte",ESPN 5
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="espn 5" tvg-logo="http://ucsxiptv.com:8080/images/logos/2b0d9478133277135e816edf93255170.png" group-title="Esporte",ESPN 5
 http://conexaoonline.top:80/ytyedf/rmdjwj/373468.ts
 
-#EXTINF:-1 tvg-id="ESPN5" tvg-name="espn 5" tvg-logo="https://www.rochagalaxia.live/logos/espn-5250.png" group-title="Esporte",ESPN 5 (HD)
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="espn 5" tvg-logo="http://ucsxiptv.com:8080/images/logos/2b0d9478133277135e816edf93255170.png" group-title="Esporte",ESPN 5 (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/373469.ts
 
-#EXTINF:-1 tvg-id="ESPN5" tvg-name="espn 5" tvg-logo="https://www.rochagalaxia.live/logos/espn-5250.png" group-title="Esporte",ESPN 5 [FHD]
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="espn 5" tvg-logo="http://ucsxiptv.com:8080/images/logos/2b0d9478133277135e816edf93255170.png" group-title="Esporte",ESPN 5 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/373470.ts
 
-#EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="Esporte",ESPN 6 (HD)
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="http://ucsxiptv.com:8080/images/logos/865b55d04397abdd625664e7a9b0b4a7.png" group-title="Esporte",ESPN 6 (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/274.ts
 
-#EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="http://www.rochagalaxia.live/logos/espnhextra250.png" group-title="Esporte",ESPN 6 [FHD]
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="http://ucsxiptv.com:8080/images/logos/865b55d04397abdd625664e7a9b0b4a7.png" group-title="Esporte",ESPN 6 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/88.ts
 
 #EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/1ff1de774005f8da13f42943881c655f.png" group-title="Comédia",Eu a Patroa e as Crianças 1 {24h}*

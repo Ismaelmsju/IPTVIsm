@@ -725,13 +725,13 @@ http://dns.maxptv.net:2052/PEM200/1010/40807
 #EXTINF:-1 tvg-logo="https://iili.io/d7HZhVS.jpg" group-title="Infantil",O Mundo de Beakman {24h}*
 http://4kcnx.re:80/53974133/89896583/236
 
-#EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://iili.io/d7Q4aEJ.png" group-title="Esporte",Off
+#EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://iili.io/dYB0Qwl.png" group-title="Esporte",Off
 http://conexaoonline.top:80/ytyedf/rmdjwj/2094.ts
 
-#EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://iili.io/d7Q4aEJ.png" group-title="Esporte",Off (HD)
+#EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://iili.io/dYB0Qwl.png" group-title="Esporte",Off (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/2095.ts
 
-#EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://iili.io/d7Q4aEJ.png" group-title="Esporte",Off [FHD]
+#EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://iili.io/dYB0Qwl.png" group-title="Esporte",Off [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/130.ts
 
 #EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-name="Oggy e as Baratas Tontas" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Oggy_and_the_Cockroaches_logo%28Brazil%29.webp/revision/latest?cb=20230907102439" group-title="Infantil",Oggy e as Baratas Tontas 1 {24h}*

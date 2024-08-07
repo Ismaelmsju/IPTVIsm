@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
-############################################################################ Atualizado: 06/08/2024
+############################################################################ Atualizado: 07/08/2024
 
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="Filmes e Séries",A&E
 http://conexaoonline.top:80/ytyedf/rmdjwj/210.ts
@@ -1076,10 +1076,10 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235139.ts
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Infantil",Tooncast [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/359.ts
 
-#EXTINF:-1 tvg-id="TRAVELBOXBRAZILHD" tvg-name="Travel Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="Variedades",Travel Box Brasil
+#EXTINF:-1 tvg-id="TRAVELBOXBRAZILHD" tvg-name="Travel Box Brazil HD" tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/10/13122016/Logo_Travel-Box-Brazil-1024x1008.png" group-title="Variedades",Travel Box Brasil
 http://conexaoonline.top:80/ytyedf/rmdjwj/235142.ts
 
-#EXTINF:-1 tvg-id="TRAVELBOXBRAZILHD" tvg-name="Travel Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TravelBoxBrazillogoatualizado.png" group-title="Variedades",Travel Box Brasil [FHD]
+#EXTINF:-1 tvg-id="TRAVELBOXBRAZILHD" tvg-name="Travel Box Brazil HD" tvg-logo="https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2021/10/13122016/Logo_Travel-Box-Brazil-1024x1008.png" group-title="Variedades",Travel Box Brasil [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/132.ts
 
 #EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-name="Turma da Mônica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Turma_da_M%C3%B4nica_Logo.png" group-title="Infantil",Turma da Mônica {24h}*
@@ -1109,10 +1109,10 @@ http://4kcnx.re:80/53974133/89896583/546
 #EXTINF:-1 tvg-logo="https://iili.io/d7LEFqJ.png" group-title="Aberto",TV Diário (HD)*
 http://4kcnx.re:80/53974133/89896583/545
 
-#EXTINF:-1 tvg-id="TVJUSTIA" tvg-name="tv justiça" tvg-logo="https://conesul.net/uploads/tmp/12-logo-channel-1657134537.png" group-title="Aberto",TV Justiça
+#EXTINF:-1 tvg-id="TVJUSTIA" tvg-name="tv justiça" tvg-logo="https://iili.io/dazs2EB.png" group-title="Aberto",TV Justiça
 http://conexaoonline.top:80/ytyedf/rmdjwj/235155.ts
 
-#EXTINF:-1 tvg-id="TVJUSTIA" tvg-name="tv justiça" tvg-logo="https://conesul.net/uploads/tmp/12-logo-channel-1657134537.png" group-title="Aberto",TV Justiça [FHD]
+#EXTINF:-1 tvg-id="TVJUSTIA" tvg-name="tv justiça" tvg-logo="https://iili.io/dazs2EB.png" group-title="Aberto",TV Justiça [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235154.ts
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rSKdBAp1_7wVmx3Ufaer4-18cv-DoNgr5vpgoUKYg45qOAXAost9LTzi1WbCCTX0Akza" group-title="Religioso",TV Mundo Maior

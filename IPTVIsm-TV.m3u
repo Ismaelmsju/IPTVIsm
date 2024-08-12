@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
-############################################################################ Atualizado: 07/08/2024
+############################################################################ Atualizado: 12/08/2024
 
 #EXTINF:-1 tvg-id="AE" tvg-name="A&amp;E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="Filmes e Séries",A&E
 http://conexaoonline.top:80/ytyedf/rmdjwj/210.ts
@@ -152,17 +152,14 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/265.ts
 #EXTINF:-1 tvg-id="CARTOONITO" tvg-name="cartoonito" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/9YIoFE.png" group-title="Infantil",Cartoonito [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235213.ts
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 1 {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/19541
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 2 {24h}
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 1 {24h}
 http://conexaoonline.top:80/ytyedf/rmdjwj/27166.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 2 {24h}*
+http://dns.maxptv.net:2052/PEM200/1010/19541
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 3 {24h}*
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/95725.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 4 {24h}*
-http://axr.life:80/669177/213793/2627290
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Comédia",Chaves 1 {24h}
 http://conexaoonline.top:80/ytyedf/rmdjwj/403.ts
@@ -175,12 +172,6 @@ http://dns.maxptv.net:2052/PEM200/1010/40813
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Comédia",Chaves 4 {24h}*
 http://4kcnx.re:80/53974133/89896583/183
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Comédia",Chaves 5 {24h}*
-http://axr.life:80/669177/213793/2627291
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Comédia",Chaves 6 {24h}*
-http://main.srvdns.fun:80/Rafael123/Rafael123/5525268.ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/dHVZzMv.png" group-title="Variedades",Chef TV*
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/65350.m3u8
@@ -389,11 +380,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/274.ts
 #EXTINF:-1 tvg-id="ESPN6" tvg-name="espn 6" tvg-logo="https://iili.io/d79tgSa.png" group-title="Esporte",ESPN 6 [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/88.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/d79g5Xa.png" group-title="Comédia",Eu a Patroa e as Crianças 1 {24h}*
-http://4kcnx.re:80/53974133/89896583/201
-
-#EXTINF:-1 tvg-logo="https://iili.io/d79g5Xa.png" group-title="Comédia",Eu a Patroa e as Crianças 2 {24h}
+#EXTINF:-1 tvg-logo="https://iili.io/d79g5Xa.png" group-title="Comédia",Eu a Patroa e as Crianças 1 {24h}
 http://conexaoonline.top:80/ytyedf/rmdjwj/42042.ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/d79g5Xa.png" group-title="Comédia",Eu a Patroa e as Crianças 2 {24h}*
+http://4kcnx.re:80/53974133/89896583/201
 
 #EXTINF:-1 tvg-logo="https://iili.io/d79g5Xa.png" group-title="Comédia",Eu a Patroa e as Crianças 3 {24h}*
 http://axr.life:80/669177/213793/2627299
@@ -719,7 +710,7 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/215.ts
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="Religioso",Novo Tempo (HD)
 http://conexaoonline.top:80/ytyedf/rmdjwj/2141.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/d7HLypR.png" group-title="Infantil",O Incrível Mundo de Gumball 1 {24h}*
+#EXTINF:-1 tvg-logo="https://iili.io/d7HLypR.png" group-title="Infantil",O Incrível Mundo de Gumball {24h}*
 http://dns.maxptv.net:2052/PEM200/1010/40807
 
 #EXTINF:-1 tvg-logo="https://iili.io/d7HZhVS.jpg" group-title="Infantil",O Mundo de Beakman {24h}*
@@ -752,11 +743,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235077.ts
 #EXTINF:-1 tvg-id="PARAMOUNTNETWORK" tvg-name="paramount network" tvg-logo="http://ucsxiptv.com:8080/images/logos/3e83104e01a99bb9746234fc690b2e76.png" group-title="Filmes e Séries",Paramount Network [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/235078.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="Infantil",Pica-pau 1 {24h}*
-http://4kcnx.re:80/53974133/89896583/249
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="Infantil",Pica-pau 2 {24h}
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="Infantil",Pica-pau 1 {24h}
 http://conexaoonline.top:80/ytyedf/rmdjwj/59710.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="Infantil",Pica-pau 2 {24h}*
+http://4kcnx.re:80/53974133/89896583/249
 
 #EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-name="Acumuladores Obsessivos" tvg-logo="https://iili.io/dYnl9ft.png" group-title="Reality",Pluto TV Acumuladores Obsessivos*
 https://jmp2.uk/PlutoTV/656e2a4b4261ca00083aa99e-alt.m3u8
@@ -774,7 +765,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q" group-title="Aberto",Polishop*
-https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
+https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q" group-title="Aberto",Polishop (HD)*
 http://dns.maxptv.net:2052/PEM200/1010/49113
@@ -1016,11 +1007,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/234512.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="Aberto",Terra Viva
 http://conexaoonline.top:80/ytyedf/rmdjwj/166988.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/d7Lc7Nn.png" group-title="Comédia",The Big Bang Theory 1 {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/543
-
-#EXTINF:-1 tvg-logo="https://iili.io/d7Lc7Nn.png" group-title="Comédia",The Big Bang Theory 2 {24h}
+#EXTINF:-1 tvg-logo="https://iili.io/d7Lc7Nn.png" group-title="Comédia",The Big Bang Theory 1 {24h}
 http://conexaoonline.top:80/ytyedf/rmdjwj/491.ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/d7Lc7Nn.png" group-title="Comédia",The Big Bang Theory 2 {24h}*
+http://dns.maxptv.net:2052/PEM200/1010/543
 
 #EXTINF:-1 tvg-logo="https://iili.io/d7Lc7Nn.png" group-title="Comédia",The Big Bang Theory 3 {24h}*
 http://4kcnx.re:80/53974133/89896583/166
@@ -1061,11 +1052,11 @@ http://conexaoonline.top:80/ytyedf/rmdjwj/235135.ts
 #EXTINF:-1 tvg-id="TNTSERIES" tvg-name="tnt séries hd" tvg-logo="https://iili.io/d7d4qkQ.png" group-title="Filmes e Séries",TNT Séries [FHD]
 http://conexaoonline.top:80/ytyedf/rmdjwj/60.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/chris/images/2/25/Series_logo.webp/revision/latest?cb=20221030132857&path-prefix=pt-br" group-title="Comédia",Todo Mundo Odeia o Chris 1 {24h}*
-http://main.srvdns.fun:80/Rafael123/Rafael123/5525304.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/chris/images/2/25/Series_logo.webp/revision/latest?cb=20221030132857&path-prefix=pt-br" group-title="Comédia",Todo Mundo Odeia o Chris 2 {24h}
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/chris/images/2/25/Series_logo.webp/revision/latest?cb=20221030132857&path-prefix=pt-br" group-title="Comédia",Todo Mundo Odeia o Chris 1 {24h}
 http://conexaoonline.top:80/ytyedf/rmdjwj/27162.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/chris/images/2/25/Series_logo.webp/revision/latest?cb=20221030132857&path-prefix=pt-br" group-title="Comédia",Todo Mundo Odeia o Chris 2 {24h}*
+http://main.srvdns.fun:80/Rafael123/Rafael123/5525304.ts
 
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Infantil",Tooncast
 http://conexaoonline.top:80/ytyedf/rmdjwj/260.ts

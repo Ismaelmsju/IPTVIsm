@@ -14,9 +14,6 @@ http://newzr.top/ytyedf/rmdjwj/32.ts
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://iili.io/d7QKjXn.png" group-title="Animes e Geek",Adult Swim*
 http://dnstv.me:80/09065438/824192/1532863.ts
 
-#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://iili.io/d7QKjXn.png" group-title="Animes e Geek",Adult Swim (HD)*
-http://dns.maxptv.net:2052/PEM200/1010/136111
-
 #EXTINF:-1 tvg-logo="https://iili.io/d7988kF.png" group-title="Aberto",Agro Canal [FHD]
 http://newzr.top/ytyedf/rmdjwj/234865.ts
 
@@ -107,9 +104,6 @@ http://newzr.top/ytyedf/rmdjwj/234895.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="Infantil",Bob Esponja 1 {24h}
 http://newzr.top/ytyedf/rmdjwj/27225.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="Infantil",Bob Esponja 2 {24h}*
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/95721.m3u8
-
 #EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="canal brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-1.png" group-title="Filmes e Séries",Canal Brasil
 http://newzr.top/ytyedf/rmdjwj/199.ts
 
@@ -155,29 +149,11 @@ http://newzr.top/ytyedf/rmdjwj/235213.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 1 {24h}
 http://newzr.top/ytyedf/rmdjwj/27166.ts
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 2 {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/19541
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chapolin-logo-0C047D5F08-seeklogo.com.png" group-title="Comédia",Chapolin Colorado 3 {24h}*
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/95725.m3u8
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Comédia",Chaves 1 {24h}
 http://newzr.top/ytyedf/rmdjwj/403.ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Comédia",Chaves 2 {24h}
 http://newzr.top/ytyedf/rmdjwj/27163.ts
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Comédia",Chaves 3 {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/40813
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" group-title="Comédia",Chaves 4 {24h}*
-http://4kcnx.re:80/53974133/89896583/183
-
-#EXTINF:-1 tvg-logo="https://iili.io/dHVZzMv.png" group-title="Variedades",Chef TV*
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/65350.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/dHVZzMv.png" group-title="Variedades",Chef TV (HD)*
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/746.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="cinemax" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="Filmes e Séries",CineMax
 http://newzr.top/ytyedf/rmdjwj/217.ts
@@ -317,9 +293,6 @@ http://newzr.top/ytyedf/rmdjwj/270.ts
 #EXTINF:-1 tvg-id="DOGTV" tvg-name="DOG TV" tvg-logo="https://rochagalaxia.live/logos/dogtv250.png" group-title="Variedades",Dog TV [FHD]
 http://newzr.top/ytyedf/rmdjwj/234972.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/d7QuYKP.png" group-title="Filmes e Séries",Dr. House {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/20461
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/The_DreamWorks_Channel.svg/revision/latest?cb=20160605052620" group-title="Filmes e Séries",Dream Works TV*
 https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
 
@@ -382,12 +355,6 @@ http://newzr.top/ytyedf/rmdjwj/88.ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/d79g5Xa.png" group-title="Comédia",Eu a Patroa e as Crianças 1 {24h}
 http://newzr.top/ytyedf/rmdjwj/42042.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/d79g5Xa.png" group-title="Comédia",Eu a Patroa e as Crianças 2 {24h}*
-http://4kcnx.re:80/53974133/89896583/201
-
-#EXTINF:-1 tvg-logo="https://iili.io/d79g5Xa.png" group-title="Comédia",Eu a Patroa e as Crianças 3 {24h}*
-http://axr.life:80/669177/213793/2627299
 
 #EXTINF:-1 tvg-id="FASHIONTV" tvg-name="fashion tv hd" tvg-logo="https://iili.io/d73xsSt.png" group-title="Variedades",Fashion TV
 http://newzr.top/ytyedf/rmdjwj/234983.ts
@@ -472,9 +439,6 @@ http://newzr.top/ytyedf/rmdjwj/225.ts
 
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://ucsxiptv.com:8080/images/logos/b6e571d9ed578891c3f0f9af3241a492.png" group-title="Variedades",GNT (HD)
 http://newzr.top/ytyedf/rmdjwj/2082.ts
-
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png" group-title="Religioso",Gospel Clipes Musicais {24h}*
-http://axr.life:80/669177/213793/2627279
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://ucsxiptv.com:8080/images/logos/1a76d3f9b40aceab00a7ea65d4f85687.png" group-title="Filmes e Séries",HBO
 http://newzr.top/ytyedf/rmdjwj/234.ts
@@ -617,23 +581,11 @@ http://newzr.top/ytyedf/rmdjwj/145.ts
 #EXTINF:-1 tvg-logo="https://iili.io/d7QvQY7.png" group-title="Infantil",Mickey, Donald e Pateta 1 {24h}
 http://newzr.top/ytyedf/rmdjwj/413.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/d7QvQY7.png" group-title="Infantil",Mickey, Donald e Pateta 2 {24h}*
-http://main.srvdns.fun:80/Rafael123/Rafael123/5525191.ts
-
 #EXTINF:-1 tvg-id="MODOVIAGEM" tvg-name="modo viagem" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="Variedades",Modo Viagem (HD)
 http://newzr.top/ytyedf/rmdjwj/235028.ts
 
 #EXTINF:-1 tvg-id="MODOVIAGEM" tvg-name="modo viagem" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/DVcqol.png" group-title="Variedades",Modo Viagem [FHD]
 http://newzr.top/ytyedf/rmdjwj/235026.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MrBeanLogo.png" group-title="Comédia",Mr. Bean 1 {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/546
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MrBeanLogo.png" group-title="Comédia",Mr. Bean 2 {24h}*
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/95753.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/MrBeanLogo.png" group-title="Comédia",Mr. Bean 3 {24h}*
-http://4kcnx.re:80/53974133/89896583/228
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="mtv" tvg-logo="https://iili.io/d73cGn9.png" group-title="Música",MTV
 http://newzr.top/ytyedf/rmdjwj/2197.ts
@@ -710,12 +662,6 @@ http://newzr.top/ytyedf/rmdjwj/215.ts
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/rzf5NE.png" group-title="Religioso",Novo Tempo (HD)
 http://newzr.top/ytyedf/rmdjwj/2141.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/d7HLypR.png" group-title="Infantil",O Incrível Mundo de Gumball {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/40807
-
-#EXTINF:-1 tvg-logo="https://iili.io/d7HZhVS.jpg" group-title="Infantil",O Mundo de Beakman {24h}*
-http://4kcnx.re:80/53974133/89896583/236
-
 #EXTINF:-1 tvg-id="OFF" tvg-name="off" tvg-logo="https://iili.io/dYB0Qwl.png" group-title="Esporte",Off
 http://newzr.top/ytyedf/rmdjwj/2094.ts
 
@@ -731,9 +677,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/5/59/Oggy_and_the_Cockroaches_logo%28Brazil%29.webp/revision/latest?cb=20230907102439" group-title="Infantil",Oggy e as Baratas Tontas 2 {24h}
 http://newzr.top/ytyedf/rmdjwj/59713.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/d7JfyXt.png" group-title="Reality",Os Muquiranas {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/113090
-
 #EXTINF:-1 tvg-id="PARAMOUNTNETWORK" tvg-name="paramount network" tvg-logo="http://ucsxiptv.com:8080/images/logos/3e83104e01a99bb9746234fc690b2e76.png" group-title="Filmes e Séries",Paramount Network
 http://newzr.top/ytyedf/rmdjwj/235079.ts
 
@@ -745,9 +688,6 @@ http://newzr.top/ytyedf/rmdjwj/235078.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="Infantil",Pica-pau 1 {24h}
 http://newzr.top/ytyedf/rmdjwj/59710.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br" group-title="Infantil",Pica-pau 2 {24h}*
-http://4kcnx.re:80/53974133/89896583/249
 
 #EXTINF:-1 tvg-id="656e2a4b4261ca00083aa99e" tvg-name="Acumuladores Obsessivos" tvg-logo="https://iili.io/dYnl9ft.png" group-title="Reality",Pluto TV Acumuladores Obsessivos*
 https://jmp2.uk/PlutoTV/656e2a4b4261ca00083aa99e-alt.m3u8
@@ -766,9 +706,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q" group-title="Aberto",Polishop*
 https://ythls.armelin.one/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/q8GYTtb3TKGfrkLlqrA0BLUCAIi1n9j_bOOjEVzgMPy576xoPKQBYL3RvOgR_6jJd0Q" group-title="Aberto",Polishop (HD)*
-http://dns.maxptv.net:2052/PEM200/1010/49113
 
 #EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV Rá Tim Bum HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest?cb=20160511061708" group-title="Infantil",Rá Tim Bum
 http://newzr.top/ytyedf/rmdjwj/235164.ts
@@ -859,12 +796,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
 #EXTINF:-1 tvg-id="SABORARTE" tvg-name="Sabor &amp; Arte HD" tvg-logo="https://iili.io/d7Lxtst.png" group-title="Variedades",Sabor & Arte*
 https://cdn-2.nxplay.com.br/SABOR_E_ARTE/index.m3u8
-
-#EXTINF:-1 tvg-id="SABORARTE" tvg-name="Sabor &amp; Arte HD" tvg-logo="https://iili.io/d7Lxtst.png" group-title="Variedades",Sabor & Arte (HD)*
-http://4kcnx.re:80/53974133/89896583/875
-
-#EXTINF:-1 tvg-id="SABORARTE" tvg-name="Sabor &amp; Arte HD" tvg-logo="https://iili.io/d7Lxtst.png" group-title="Variedades",Sabor & Arte [FHD]*
-http://4kcnx.re:80/53974133/89896583/874
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-name="sbt" tvg-logo="http://ucsxiptv.com:8080/images/3e58eed5ec44cc7c2563759de309af32.png" group-title="Aberto",SBT
 http://newzr.top/ytyedf/rmdjwj/2122.ts
@@ -1010,12 +941,6 @@ http://newzr.top/ytyedf/rmdjwj/166988.ts
 #EXTINF:-1 tvg-logo="https://iili.io/d7Lc7Nn.png" group-title="Comédia",The Big Bang Theory 1 {24h}
 http://newzr.top/ytyedf/rmdjwj/491.ts
 
-#EXTINF:-1 tvg-logo="https://iili.io/d7Lc7Nn.png" group-title="Comédia",The Big Bang Theory 2 {24h}*
-http://dns.maxptv.net:2052/PEM200/1010/543
-
-#EXTINF:-1 tvg-logo="https://iili.io/d7Lc7Nn.png" group-title="Comédia",The Big Bang Theory 3 {24h}*
-http://4kcnx.re:80/53974133/89896583/166
-
 #EXTINF:-1 tvg-id="TLC" tvg-name="tlc" tvg-logo="https://iili.io/d73goAl.png" group-title="Filmes e Séries",TLC
 http://newzr.top/ytyedf/rmdjwj/2135.ts
 
@@ -1055,9 +980,6 @@ http://newzr.top/ytyedf/rmdjwj/60.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/chris/images/2/25/Series_logo.webp/revision/latest?cb=20221030132857&path-prefix=pt-br" group-title="Comédia",Todo Mundo Odeia o Chris 1 {24h}
 http://newzr.top/ytyedf/rmdjwj/27162.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/chris/images/2/25/Series_logo.webp/revision/latest?cb=20221030132857&path-prefix=pt-br" group-title="Comédia",Todo Mundo Odeia o Chris 2 {24h}*
-http://main.srvdns.fun:80/Rafael123/Rafael123/5525304.ts
-
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Infantil",Tooncast
 http://newzr.top/ytyedf/rmdjwj/260.ts
 
@@ -1093,12 +1015,6 @@ http://newzr.top/ytyedf/rmdjwj/234956.ts
 
 #EXTINF:-1 tvg-id="TVCULTURA" tvg-name="cultura" tvg-logo="http://www.rochagalaxia.live/logos/tv-cultura.png" group-title="Aberto",TV Cultura [FHD]
 http://newzr.top/ytyedf/rmdjwj/234955.ts
-
-#EXTINF:-1 tvg-logo="https://iili.io/d7LEFqJ.png" group-title="Aberto",TV Diário*
-http://4kcnx.re:80/53974133/89896583/546
-
-#EXTINF:-1 tvg-logo="https://iili.io/d7LEFqJ.png" group-title="Aberto",TV Diário (HD)*
-http://4kcnx.re:80/53974133/89896583/545
 
 #EXTINF:-1 tvg-id="TVJUSTIA" tvg-name="tv justiça" tvg-logo="https://iili.io/dazs2EB.png" group-title="Aberto",TV Justiça
 http://newzr.top/ytyedf/rmdjwj/235155.ts
